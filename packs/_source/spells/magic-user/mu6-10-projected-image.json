@@ -1,0 +1,37 @@
+{
+  "name": "MU6.10 Projected Image",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "Np3CbTkYxXT1egss",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863221202,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An illusory duplicate of the caster appears within range.</p>\n<ul>\n<li><strong>Duplicate: </strong>The image is an exact duplicate of the caster that can only be differentiated by touch.</li>\n<li><strong>Subsequent spells cast:</strong> Appear to originate from the image. (Targets must still be visible to the caster, however.)</li>\n<li><strong>Spells and missiles: </strong>The image appears unaffected by spells or missile weapons.</li>\n<li><strong>Melee or touch:</strong> If the image is touched or hit in melee, it disappears.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "6 turns",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 125000,
+  "_key": "!items!Np3CbTkYxXT1egss"
+}

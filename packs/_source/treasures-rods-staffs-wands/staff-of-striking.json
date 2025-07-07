@@ -1,0 +1,38 @@
+{
+  "name": "Staff of Striking",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/staves/staff-engraved-wood.webp",
+  "effects": [],
+  "_id": "ut4oZN1S4JEiv9sB",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Used as a magical melee weapon.</p>\n<ul>\n<li><strong>Expending one charge:</strong> Inflicts 2d6 damage on a successful hit.</li>\n<li><strong>Usage frequency:</strong> Only one charge may be spent per strike.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!ut4oZN1S4JEiv9sB"
+}

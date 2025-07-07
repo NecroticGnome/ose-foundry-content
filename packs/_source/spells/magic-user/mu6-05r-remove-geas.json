@@ -1,0 +1,37 @@
+{
+  "name": "MU6.05r Remove Geas",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "ICGErEKLaLeqpy0w",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Can dispel an active <em>geas</em> spell and any incurred penalties. If the caster of the geas to be nullified is higher level than the character casting <em>remove geas,</em> there is a chance of the spell having no effect. The probability of spell failure is 5% per level the caster is below the caster of <em>geas</em>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 500000,
+  "_key": "!items!ICGErEKLaLeqpy0w"
+}

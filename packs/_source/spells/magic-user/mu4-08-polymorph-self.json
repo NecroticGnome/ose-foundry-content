@@ -1,0 +1,37 @@
+{
+  "name": "MU4.08 Polymorph Self",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "GtbqmMhUUP5arNCR",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster transforms themselves into another being:</p>\n<ul>\n<li><strong>HD: </strong>The new form may not have higher Hit Dice than the caster’s level.</li>\n<li><strong>Stats:</strong> The caster retains their own intelligence, hit points, saving throws, and attack probabilities.</li>\n<li><strong>Physical capabilities:</strong> Of the new form (e.g. strength, physical attack forms, modes of movement) are acquired.</li>\n<li><strong>Non-physical special abilities:</strong> (e.g. immunities, breath weapons, spell casting) are not acquired.</li>\n<li><strong>Casting spells:</strong> While polymorphed, the caster is unable to cast spells.</li>\n<li><strong>Specific individuals: </strong>The spell cannot be used to duplicate a specific individual.</li>\n<li><strong>Reversion:</strong> If the caster dies while polymorphed, they return to their original form.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "6 turns + 1 per clevel",
+    "range": "The caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 3000000,
+  "_key": "!items!GtbqmMhUUP5arNCR"
+}

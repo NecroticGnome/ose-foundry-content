@@ -1,0 +1,37 @@
+{
+  "name": "MU4.12 Wizard Eye",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "yasTCrLMXoDaIlw4",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An invisible, magical eye is conjured that allows the caster to see at a distance.</p>\n<ul>\n<li><strong>Movement: </strong>The eye can be directed to move within range at up to 120' per turn.</li>\n<li><strong>Seeing through the eye:</strong> By concentrating, the caster can see through the eye.</li>\n<li><strong>Types of vision: </strong>The magical eye grants both normal vision and infravision.</li>\n<li><strong>Barriers:</strong> Solid barriers block its passage, but it can pass through a hole or space as small as 1 inch in diameter.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "6 turns",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 2500000,
+  "_key": "!items!yasTCrLMXoDaIlw4"
+}

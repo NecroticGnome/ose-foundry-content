@@ -1,0 +1,38 @@
+{
+  "name": "Medallion of ESP 30'",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/neck/amulet-round-engraved-gold.webp",
+  "effects": [],
+  "_id": "aSYKheH6v5Dd4Vzw",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A medallion on a chain, enchanted with the power of reading thoughts.</p>\n<ul>\n<li><strong>Focus:</strong> By concentrating for 1 round, the wearer may target a creature within 30′.</li>\n<li><strong>Resisting:</strong> At the referee&rsquo;s option, the target may save versus spells to resist.</li>\n<li><strong>Concentration:</strong> While reading thoughts, the wearer may move, but cannot cast spells or attack.</li>\n<li><strong>Misfires:</strong> The medallion is not entirely reliable. Per usage, there is a 1-in-6 chance of it misfiring, instead sending the wearer&rsquo;s thoughts to all within 30′.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!aSYKheH6v5Dd4Vzw"
+}

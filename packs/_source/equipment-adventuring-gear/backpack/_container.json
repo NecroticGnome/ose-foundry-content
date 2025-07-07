@@ -1,0 +1,38 @@
+{
+  "_id": "Kk7hsmmk6kxk7zhs",
+  "name": "Backpack",
+  "type": "container",
+  "flags": {},
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Has two straps and can be worn on the back, keeping the hands free.</p>\n<p>Holds up to 400 coins.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 5,
+    "containerId": "",
+    "itemIds": [],
+    "treasure": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!Kk7hsmmk6kxk7zhs"
+}

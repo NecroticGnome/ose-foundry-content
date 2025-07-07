@@ -1,0 +1,37 @@
+{
+  "name": "MU5.11 Transmute Rock to Mud",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "LTmTUD2RgzLZhxAm",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell turns up to 3,000 square feet of rock into 10' deep mud.</p>\n<ul>\n<li><strong>Movement:</strong> Any creatures passing through the mud have their movement rate reduced by 90%.</li>\n</ul>\n<h2>Reversed</h2>\n<p>See <strong>Transmute Mud to Rock</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "3d6 days",
+    "range": "120'",
+    "roll": "3d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 1400000,
+  "_key": "!items!LTmTUD2RgzLZhxAm"
+}

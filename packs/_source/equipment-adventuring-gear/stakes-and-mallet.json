@@ -1,0 +1,38 @@
+{
+  "_id": "J8vZc8ykJIKXmOmp",
+  "name": "Stakes and mallet",
+  "type": "item",
+  "flags": {},
+  "img": "icons/commodities/wood/fence-posts-brown.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A wooden mallet and three 18&Prime; long stakes. Valuable when confronting vampires</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 3,
+      "max": 3
+    },
+    "weight": null,
+    "cost": 3,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!J8vZc8ykJIKXmOmp"
+}

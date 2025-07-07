@@ -1,0 +1,37 @@
+{
+  "name": "MU3.11 Protection from Normal Missiles",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "CYve2wJlxB7YGa9d",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A single subject in range gains complete immunity to small, non-magical missiles (e.g. no protection is granted against hurled boulders or enchanted arrows).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "30′",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 3900000,
+  "_key": "!items!CYve2wJlxB7YGa9d"
+}

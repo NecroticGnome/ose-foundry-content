@@ -1,0 +1,37 @@
+{
+  "name": "C2.1 Bless",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "SodmwS1CqPGK9MQT",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>May be used in one of two situations:</p>\n<ol>\n<li><strong>Battle: </strong>Allies within a 20′ square area who are not yet in melee gain a +1 bonus to attack and damage rolls and a +1 bonus to morale.</li>\n<li><strong>Ritual:</strong> Casting <em>bless </em>may also form part of rituals of purification or consecration, at the referee&rsquo;s discretion.</li>\n</ol>\n<h2>Reversed</h2>\n<p>See<strong> Blight</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 2800000,
+  "_key": "!items!SodmwS1CqPGK9MQT"
+}

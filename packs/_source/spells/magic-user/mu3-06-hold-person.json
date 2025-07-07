@@ -1,0 +1,37 @@
+{
+  "name": "MU3.06 Hold Person",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "dMEakaL9apV9eWdB",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell causes one or more humans, demihumans, or humanoid monsters to be paralysed if they fail a <strong>saving throw versus spells</strong>. It may be cast in two ways:</p>\n<ol>\n<li><strong>Against an individual</strong>: The target&rsquo;s saving throw is penalised by -2.</li>\n<li><strong>Against a group: </strong>[[/r 1d4 # Individuals Held]] individuals in the group are targeted.</li>\n</ol>\n<p><strong>Restrictions:</strong> Humanoids of greater than 4+1 HD and undead are not affected.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "1 turn per level",
+    "range": "120'",
+    "roll": "1d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4400000,
+  "_key": "!items!dMEakaL9apV9eWdB"
+}

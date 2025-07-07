@@ -1,0 +1,38 @@
+{
+  "name": "Wand of Trap Detection",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/wands/wand-gem-purple.webp",
+  "effects": [],
+  "_id": "ryrzqxmY8G3b8KwM",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Reveals the location of all traps within 20′.&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!ryrzqxmY8G3b8KwM"
+}

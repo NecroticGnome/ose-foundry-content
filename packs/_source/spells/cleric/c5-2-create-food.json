@@ -1,0 +1,37 @@
+{
+  "name": "C5.2 Create Food",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "VKLrX3NCRxID2roU",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Conjures food from thin air.</p>\n<ul>\n<li><strong>Volume:</strong> Food sufficient for twelve humans and twelve mounts for one day is conjured.</li>\n<li><strong>Higher level casters:</strong> If the caster is higher than 8th level, food sufficient for an additional 12 humans and mounts is produced for each level beyond 8th.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "Permanent",
+    "range": "Appears in the caster’s presence",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 200000,
+  "_key": "!items!VKLrX3NCRxID2roU"
+}

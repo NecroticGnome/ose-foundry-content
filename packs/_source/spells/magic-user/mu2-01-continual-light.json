@@ -1,0 +1,37 @@
+{
+  "name": "MU2.01 Continual Light",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "2iC8NPAmjzUP6Fnv",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell has three usages:</p>\n<ol>\n<li><strong>Conjuring light:</strong>&nbsp;In a 30' radius. The magical light is as bright as full daylight (creatures that suffer attack penalties in daylight are affected). The spell may be cast upon an object, in which case, the light moves with the object.</li>\n<li><strong>Blinding a creature:&nbsp;</strong>By casting the spell upon its eyes. If the target fails a&nbsp;<strong>saving throw versus spells</strong>, it is blinded. A blind creature cannot attack.</li>\n<li><strong>Cancelling darkness:&nbsp;</strong><em>Continual light</em>&nbsp;may cancel a&nbsp;<em>continual darkness</em>&nbsp;spell (see below).</li>\n</ol>\n<h2>Reversed</h2>\n<p>See <strong>Continual Darkness</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 6100000,
+  "_key": "!items!2iC8NPAmjzUP6Fnv"
+}

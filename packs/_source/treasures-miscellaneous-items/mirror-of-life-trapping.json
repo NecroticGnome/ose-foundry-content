@@ -1,0 +1,38 @@
+{
+  "name": "Mirror of Life Trapping",
+  "type": "item",
+  "flags": {},
+  "img": "icons/sundries/survival/mirror-plain.webp",
+  "effects": [],
+  "_id": "LOJDNefbjCTgiC9L",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A mirror with the ability to magically trap living creatures behind its pane.</p>\n<ul>\n<li><strong>Gazing into the mirror:</strong> Any creature of human size or smaller who gazes into the mirror is sucked inside (save versus spells to resist), with all its belongings.</li>\n<li><strong>Capacity</strong>: Up to 20 creatures can be trapped in the mirror. When this number is reached, it becomes safe to look into the mirror.</li>\n<li><strong>Inside the mirror:</strong> A creature will live indefinitely, without the need for air or sustenance, and unaffected by ageing.</li>\n<li><strong>Communication:</strong> Trapped creatures may converse with those outside, but are utterly powerless.</li>\n<li><strong>Breaking the mirror:</strong> Releases those trapped.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!LOJDNefbjCTgiC9L"
+}

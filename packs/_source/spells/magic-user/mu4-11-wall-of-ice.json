@@ -1,0 +1,37 @@
+{
+  "name": "MU4.11 Wall of Ice",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "8BN3IINULHdBUu7N",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An immobile, translucent, wall of ice springs into existence.</p>\n<p><strong>Size: </strong>The wall can be any size, and may be shaped in any manner and to any dimensions the caster desires, up to 1,200 sq. ft. For example, it may be a straight wall or curved into a protective circle.</p>\n<p><strong>Location: </strong>The wall must rest upon a solid surface and may not be evoked so that it appears where objects are.</p>\n<p><strong>Monsters with fewer than 4 HD:</strong> Cannot pass the wall of ice.</p>\n<p><strong>Monsters with more than 4 HD:</strong> Can break through the wall, but suffer [[/r 1d6 # HP Damage or Double to Fire/Fire-using creatures]] hit points of damage when doing so. The wall deals double damage to creatures that use fire or are accustomed to fire.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "120'",
+    "roll": "1d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 2600000,
+  "_key": "!items!8BN3IINULHdBUu7N"
+}

@@ -1,0 +1,292 @@
+{
+  "name": "Miscellaneous Magic Items B",
+  "flags": {
+    "ose": {
+      "treasure": false
+    }
+  },
+  "img": "icons/sundries/misc/admission-ticket-grey.webp",
+  "description": "Misc Magic Items (Basic Table)",
+  "results": [
+    {
+      "_id": "CKPQzQxkHJt5b0ab",
+      "flags": {},
+      "type": "text",
+      "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bag of Devouring",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.CKPQzQxkHJt5b0ab"
+    },
+    {
+      "_id": "zcUoyYQmGzrO9w3T",
+      "flags": {},
+      "type": "text",
+      "img": "icons/containers/bags/sack-leather-purple.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bag of Holding",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.zcUoyYQmGzrO9w3T"
+    },
+    {
+      "_id": "52gfEBTAI4NBR3Ze",
+      "flags": {},
+      "type": "text",
+      "img": "/systems/ose/assets/default/item.png",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broom of Flying",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.52gfEBTAI4NBR3Ze"
+    },
+    {
+      "_id": "I50ikbs1af0RG1Wv",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/laboratory/alembic-glass-ball-blue.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystal Ball",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.I50ikbs1af0RG1Wv"
+    },
+    {
+      "_id": "SXLhLW9NKT1osbEG",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/feet/boots-leather-simple-green.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elven Cloak and Boots",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.SXLhLW9NKT1osbEG"
+    },
+    {
+      "_id": "kjQyO04Ycf8HwCWv",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/hand/glove-cuffed-leather-grey.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gauntlets of Ogre Power",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.kjQyO04Ycf8HwCWv"
+    },
+    {
+      "_id": "CFC2741Id1VghPqL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/head/helm-basinet-shemagh-steel.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helm of Alignment Changing",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.CFC2741Id1VghPqL"
+    },
+    {
+      "_id": "83mabiC0Vc5FoCEe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/head/helm-norman-03.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helm of Telepathy",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.83mabiC0Vc5FoCEe"
+    },
+    {
+      "_id": "Qcb9WdsQmFYGE9gO",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/neck/amulet-round-engraved-gold.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medallion of ESP 30'",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.Qcb9WdsQmFYGE9gO"
+    },
+    {
+      "_id": "fsw0cyumMnDtpv98",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/survival/rope-coiled-brown.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rope of Climbing",
+      "name": "",
+      "_key": "!tables.results!4HU4Sh5NhN1IIpr6.fsw0cyumMnDtpv98"
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "4HU4Sh5NhN1IIpr6",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!4HU4Sh5NhN1IIpr6"
+}

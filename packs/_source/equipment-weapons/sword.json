@@ -1,0 +1,54 @@
+{
+  "name": "Sword",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/swords/sword-guard-brass-worn.webp",
+  "effects": [],
+  "_id": "ao0TnCtDRc7j2cgH",
+  "system": {
+    "description": "<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Melee:&nbsp;</strong><span style=\"color: #191813;\">Close quarters weapon (5’ or less).</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 10,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d8",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135607,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ao0TnCtDRc7j2cgH"
+}

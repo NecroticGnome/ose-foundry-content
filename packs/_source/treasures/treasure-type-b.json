@@ -1,0 +1,214 @@
+{
+  "name": "Treasure Type B",
+  "flags": {
+    "ose": {
+      "treasure": true
+    }
+  },
+  "description": "These treasure types indicate the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the monsters’ lair.\n\nSmall lairs: Monster listings note the number of individuals found in a lair. If the number rolled is below average and the lair encounter size is at least 1d4, the amount of treasure in the hoard may be reduced accordingly.",
+  "results": [
+    {
+      "_id": "Fc2zpNP7PH10IBAr",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d8 * 1000]] cp.",
+      "name": "",
+      "_key": "!tables.results!UjfCMHIzgJ6yEf6d.Fc2zpNP7PH10IBAr"
+    },
+    {
+      "_id": "8sPqgrCY4CQfiyHQ",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6 * 1000]] sp.",
+      "name": "",
+      "_key": "!tables.results!UjfCMHIzgJ6yEf6d.8sPqgrCY4CQfiyHQ"
+    },
+    {
+      "_id": "8y6CvYqyQXoxSaEj",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4 * 1000]] ep.",
+      "name": "",
+      "_key": "!tables.results!UjfCMHIzgJ6yEf6d.8y6CvYqyQXoxSaEj"
+    },
+    {
+      "_id": "VSyqUi1IPQJkepvA",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d3 * 1000]] gp.",
+      "name": "",
+      "_key": "!tables.results!UjfCMHIzgJ6yEf6d.VSyqUi1IPQJkepvA"
+    },
+    {
+      "_id": "uTcVxYaPKSSbOqAX",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6]] gems.",
+      "name": "",
+      "_key": "!tables.results!UjfCMHIzgJ6yEf6d.uTcVxYaPKSSbOqAX"
+    },
+    {
+      "_id": "a19JbWUY9oMipeMK",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6]] pieces of jewellery.",
+      "name": "",
+      "_key": "!tables.results!UjfCMHIzgJ6yEf6d.a19JbWUY9oMipeMK"
+    },
+    {
+      "_id": "hzid3UADZc02ohPq",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 magic sword, suit of armour, or weapon.",
+      "name": "",
+      "_key": "!tables.results!UjfCMHIzgJ6yEf6d.hzid3UADZc02ohPq"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "UjfCMHIzgJ6yEf6d",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!UjfCMHIzgJ6yEf6d"
+}

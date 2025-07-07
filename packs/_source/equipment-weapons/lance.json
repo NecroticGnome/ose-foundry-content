@@ -1,0 +1,59 @@
+{
+  "name": "Lance",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/polearms/spear-flared-green.webp",
+  "effects": [],
+  "_id": "W4Ew6Y8yWMhyMKcw",
+  "system": {
+    "description": "<p><strong>Melee:</strong> Close quarters weapon (5’ or less).</p>\n<p><strong>Charge: </strong>On horseback, moving at least 60’ in a round and attacking doubles any damage done with a successful hit.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 120,
+    "cost": 5,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Charge",
+        "value": "Charge"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135597,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!W4Ew6Y8yWMhyMKcw"
+}

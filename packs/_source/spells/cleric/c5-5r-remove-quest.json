@@ -1,0 +1,37 @@
+{
+  "name": "C5.5r Remove Quest",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "5HJIJ6fsiYT94twx",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863180513,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Can dispel an active&nbsp;<em>quest&nbsp;</em>spell. If the character who cast the&nbsp;<em>quest&nbsp;</em>spell to be nullified is higher level than the character casting&nbsp;<em>remove quest</em>, there is a chance of the spell having no effect. The probability of failure is 5% per level the caster is below the caster of quest.</p>\n<hr />\n<p>This is the reversal of <strong>Quest</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "Instant",
+    "range": "30′",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 106250,
+  "_key": "!items!5HJIJ6fsiYT94twx"
+}

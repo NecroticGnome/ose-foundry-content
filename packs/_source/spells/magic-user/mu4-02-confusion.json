@@ -1,0 +1,37 @@
+{
+  "name": "MU4.02 Confusion",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "MqUveVTgLRa3c4zV",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell causes <span style=\"white-space: nowrap; background-color: #dddddd;\">[[/r 3d6 # Subjects Confused]]</span> subjects within 60' of one another to become confused, making them unable to independently determine what they will do.</p>\n<p><strong>Subjects of 2+1 HD or greater:</strong> May <strong>save versus spells</strong> each round to resist the spell&rsquo;s effect, acting with free will that round if they make the save.</p>\n<p><strong>Subjects of 2 HD or lower:</strong> May not make a saving throw.</p>\n<p><strong>Behaviour:</strong> Roll [[/r 2d6 # Confused Behavior]] on the following table separately for each affected subject each round to see what that subject does that round:</p>\n<table style=\"height: 68px; border-color: #000000; border-style: solid;\" border=\"1px\" width=\"46.9203%\"><caption>Confusion: Subject Behavior</caption>\n<thead>\n<tr style=\"height: 17px;\">\n<td style=\"width: 22.4803%; height: 17px; text-align: center; border-style: none;\" scope=\"col\"><strong>2d6</strong></td>\n<td style=\"width: 77.0342%; height: 17px; text-align: left; border-style: none;\" scope=\"col\"><strong>Behavior</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 22.4803%; height: 17px; text-align: center; border-style: none;\">2-5</td>\n<td style=\"width: 77.0342%; height: 17px; text-align: left; border-style: none;\">Attack caster's group</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 22.4803%; height: 17px; text-align: center; border-style: none;\">6-8</td>\n<td style=\"width: 77.0342%; height: 17px; text-align: left; border-style: none;\">No action</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 22.4803%; height: 17px; text-align: center; border-style: none;\">9-12</td>\n<td style=\"width: 77.0342%; height: 17px; text-align: left; border-style: none;\">Attack subject's group</td>\n</tr>\n</tbody>\n</table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "12 rounds",
+    "range": "120'",
+    "roll": "3d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 3600000,
+  "_key": "!items!MqUveVTgLRa3c4zV"
+}

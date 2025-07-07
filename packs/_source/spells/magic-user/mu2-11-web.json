@@ -1,0 +1,37 @@
+{
+  "name": "MU2.11 Web",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "UqLZp6ECKioa7Ti1",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Web conjures a many-layered mass of strong, sticky threads, blocking a 10' cube area.</p>\n<ul>\n<li><strong>Entanglement:</strong> Creatures caught within a web become entangled among the gluey fibres. Entangled creatures can&rsquo;t move, but can break free depending on their strength (see below).</li>\n<li><strong>Flammable:</strong> The strands of the web are flammable and can be destroyed by fire in two rounds. All creatures caught within flaming webs suffer [[/r 1d6 # Damage from flaming Web]] points of damage from the flames.</li>\n</ul>\n<p><strong>Breaking free:</strong> Depends on STR:</p>\n<ul>\n<li><strong>Normal human range:</strong> The creature can break free in [[/r 2d4 # Turns to break free of Web]] turns.</li>\n<li><strong>Magically augmented STR above 18:</strong> The creature can break free in 4 rounds.</li>\n<li><strong>Giant strength: </strong>The creature can break free in two rounds.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "48 turns",
+    "range": "10'",
+    "roll": "1d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 5100000,
+  "_key": "!items!UqLZp6ECKioa7Ti1"
+}

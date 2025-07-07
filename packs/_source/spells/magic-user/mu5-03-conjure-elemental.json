@@ -1,0 +1,37 @@
+{
+  "name": "MU5.03 Conjure Elemental",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "MpQfscy6cjPVKCpz",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A 16 Hit Dice <strong>Greater Elemental</strong>&mdash;a being formed of pure elemental matter is summoned from an elemental plane of the caster&rsquo;s choice (air, earth, fire, water) to do the caster&rsquo;s bidding.</p>\n<p><strong>Materials:</strong> The summons requires a large volume of the appropriate element.</p>\n<p><strong>Concentration:</strong> Is required to command an elemental.</p>\n<p><strong>Dismissing: </strong>While control over the elemental is maintained, the caster may dismiss it at any time, sending it back to its plane of origin.</p>\n<p><strong>Disruption:</strong> If the caster moves at more than half speed or their concentration is disturbed, the command over the elemental ends. It is, henceforth, a free-willed entity and will immediately try to kill the caster and any who get in its way.</p>\n<p><strong>Dispelling:</strong> A conjured elemental may be dispelled by <em>dispel magic</em> or <em>dispel evil</em>.</p>\n<p><strong>Restrictions:</strong> The caster may summon at most one elemental from each plane in a single day.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 2200000,
+  "_key": "!items!MpQfscy6cjPVKCpz"
+}

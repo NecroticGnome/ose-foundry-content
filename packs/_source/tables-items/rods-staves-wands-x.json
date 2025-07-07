@@ -1,0 +1,574 @@
+{
+  "name": "Rods, Staves & Wands X",
+  "flags": {},
+  "img": "icons/weapons/wands/wand-gem-teal.webp",
+  "description": "Rods, Staves and Wands (Expert Table)",
+  "results": [
+    {
+      "_id": "BlMbENpw5GNf0gyM",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rod of Cancellation",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.BlMbENpw5GNf0gyM"
+    },
+    {
+      "_id": "wpmVK58WtlaRwZxr",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff of Commanding",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.wpmVK58WtlaRwZxr"
+    },
+    {
+      "_id": "jXtbni0aumuDCq3l",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        21
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff of Healing",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.jXtbni0aumuDCq3l"
+    },
+    {
+      "_id": "0WFaKzHR0Im60KsP",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        23
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff of Power",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.0WFaKzHR0Im60KsP"
+    },
+    {
+      "_id": "IOgy5MSX4QBVQOr6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff of Snakes",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.IOgy5MSX4QBVQOr6"
+    },
+    {
+      "_id": "voBaQanQT8RXMTSY",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff of Striking",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.voBaQanQT8RXMTSY"
+    },
+    {
+      "_id": "rxnplOdiHiU0bztf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff of Withering",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.rxnplOdiHiU0bztf"
+    },
+    {
+      "_id": "n1Iu56gFC2q60KTy",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff of Wizardry",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.n1Iu56gFC2q60KTy"
+    },
+    {
+      "_id": "5es2wUZfqItIUR89",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Cold",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.5es2wUZfqItIUR89"
+    },
+    {
+      "_id": "2Gk5z7C3y1n6eIok",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Enemy Detection",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.2Gk5z7C3y1n6eIok"
+    },
+    {
+      "_id": "u1xn7NpNWWRmjUiH",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Fear",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.u1xn7NpNWWRmjUiH"
+    },
+    {
+      "_id": "VRQ2Zzc0HbCDdPEs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Fire Balls",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.VRQ2Zzc0HbCDdPEs"
+    },
+    {
+      "_id": "rk5t0jilTS5Nplgz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Illusion",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.rk5t0jilTS5Nplgz"
+    },
+    {
+      "_id": "8F3oH55YHqHnaMrK",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Lightning Bolts",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.8F3oH55YHqHnaMrK"
+    },
+    {
+      "_id": "EnEBVOxZFN4EZ2CT",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Magic Detection",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.EnEBVOxZFN4EZ2CT"
+    },
+    {
+      "_id": "h2DxVkiUDFNiel7a",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Metal Detection",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.h2DxVkiUDFNiel7a"
+    },
+    {
+      "_id": "STCd2li4UTqitgEZ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Negation",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.STCd2li4UTqitgEZ"
+    },
+    {
+      "_id": "H8MYDLrIlMX6XHBi",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Paralysation",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.H8MYDLrIlMX6XHBi"
+    },
+    {
+      "_id": "50nhLyzuyWihcrTb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Polymorph",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.50nhLyzuyWihcrTb"
+    },
+    {
+      "_id": "JjrfL4IwFIjDchG3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Secret Door Detection",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.JjrfL4IwFIjDchG3"
+    },
+    {
+      "_id": "uI7XnAAQAmQyhkf6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand of Trap Detection",
+      "name": "",
+      "_key": "!tables.results!0i3Y5EZeouwBCLd7.uI7XnAAQAmQyhkf6"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "0i3Y5EZeouwBCLd7",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!0i3Y5EZeouwBCLd7"
+}

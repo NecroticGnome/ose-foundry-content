@@ -1,0 +1,59 @@
+{
+  "name": "Oil flask, burning",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/thrown/bomb-fuse-red-black.webp",
+  "effects": [],
+  "_id": "gLHidZTsbB4Pdkct",
+  "system": {
+    "description": "<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Missile:</strong><span style=\"color: #191813;\">&nbsp;Thrown or fired weapon (greater than 5&rsquo; distance).The distances for short (+1 to hit), medium, and long (&ndash;1 to hit) range are shown in parentheses.</span></p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Splash weapon:</strong><span style=\"color: #191813;\">&nbsp;On a successful attack, the container smashes and douses the target with the liquid.The listed damage is inflicted over two rounds, as the liquid drips off.</span></p>\n<hr />\n<p><strong><span style=\"color: #191813;\">FoundryVTT Note:</span></strong><span style=\"color: #191813;\"> This is a zero cost/weight version of the oil flask intended to be kept as a weapons for making attacks. Use the standard oil flask non-weapon item to track your oil flask inventory.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": null,
+    "cost": null,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 30,
+      "long": 50
+    },
+    "pattern": "white",
+    "damage": "1d8",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Splash weapon",
+        "value": "Splash weapon"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135635,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gLHidZTsbB4Pdkct"
+}

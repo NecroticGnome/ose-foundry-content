@@ -1,0 +1,38 @@
+{
+  "name": "Wand of Fire Balls",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/wands/wand-gem-purple.webp",
+  "effects": [],
+  "_id": "brp8mNeKeuCbWRee",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Conjures fire balls:</p>\n<ul>\n<li><strong>Range:</strong> A streak of flame shoots towards an area up to 240′ distant.</li>\n<li><strong>Area:</strong> The flame detonates in a 40′ diameter sphere of fire.</li>\n<li><strong>Creatures caught in the fire ball:</strong> Suffer 6d6 damage, with a successful <strong>save versus wands</strong> indicating half damage.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!brp8mNeKeuCbWRee"
+}

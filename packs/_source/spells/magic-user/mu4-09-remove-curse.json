@@ -1,0 +1,37 @@
+{
+  "name": "MU4.09 Remove Curse",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "yimcGZl6F85X3qN2",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><em>Remove curse</em> instantaneously removes one curse from a creature. It may allow a character to discard a cursed magic item.</p>\n<h2>Reversed</h2>\n<p>See <strong>Curse</strong>.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "The caster or a creature touched",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 2900000,
+  "_key": "!items!yimcGZl6F85X3qN2"
+}

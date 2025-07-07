@@ -1,0 +1,38 @@
+{
+  "_id": "N7RiWH55RwWiBre5",
+  "name": "Potion of Clairaudience",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "system": {
+    "description": "<p>Enables the character to hear through the ears of another creature.</p>\n<ul>\n<li><strong>Range:</strong> The other creature must be within 60′.</li>\n<li><strong>Obstructions:</strong> Lead blocks the effect.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": null,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456733522,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!N7RiWH55RwWiBre5"
+}

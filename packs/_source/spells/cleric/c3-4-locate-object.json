@@ -1,0 +1,37 @@
+{
+  "name": "C3.4 Locate Object",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "VH42BES4S2qUcaM6",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster can sense the direction (but not distance) of an object. One of two types of object may be located:</p>\n<ol>\n<li><strong>General class:</strong> An object of a general class (e.g. a stairway, an altar, etc). In this case, the nearest object of that type is located.</li>\n<li><strong>Specific object:</strong> A specific object which the caster can clearly visualise in all aspects.</li>\n</ol>\n<p><strong>Restrictions: </strong>This spell cannot be used to locate creatures.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 1400000,
+  "_key": "!items!VH42BES4S2qUcaM6"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Arcane Magic",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "gldRgkh3gY1YrkJ6",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">See&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" title=\"Rules of Magic\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Rules_of_Magic\">Rules of Magic</a>&nbsp;for full details on arcane magic.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Magical research:</strong>&nbsp;A magic-user of any level may spend time and money on magical research. This allows them to add new spells to their spell book and to research other magical effects. When a magic-user reaches <strong>9th level</strong>, they are also able to create magic items.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Spell casting:</strong>&nbsp;Magic-users carry spell books containing the formulae for arcane spells. The level progression table (opposite) shows both the number of spells in the magic-user&rsquo;s spell book and the number they may memorize, determined by the character&rsquo;s experience level. Thus, a 1st level magic-user has one spell in their spell book, selected by the referee (who may allow the player to choose). The list of spells available to magic-users is provided in Cleric and Magic-User Spells.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Using magic items:</strong>&nbsp;As spell casters, magic-users are able to use magic scrolls of spells on their spell list. They can also use items that may only be used by arcane spell casters (e.g. magic wands).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Magic-User",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!gldRgkh3gY1YrkJ6"
+}

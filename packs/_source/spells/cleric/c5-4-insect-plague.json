@@ -1,0 +1,37 @@
+{
+  "name": "C5.4 Insect Plague",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "CeoL25Cwq7C4bWQV",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863179634,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Cast above ground, this spell conjures a 60' diameter swarm of flying insects with the following properties:</p>\n<ul>\n<li><strong>Movement: </strong>20' per round. While the swarm is within range, the caster is able to direct its movements.</li>\n<li><strong>Vision: </strong>Within the area of the swarm is obscured.</li>\n<li><strong>Creatures of 2 HD or less:</strong> Are driven away, if caught within the swarm.</li>\n<li><strong>Concentration:</strong> If the caster moves or loses concentration, the swarm dissipates, ending the spell.</li>\n</ul>\n<p><strong>Restrictions:</strong> The spell has no effect if cast underground.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "Concentration (up to 1 day)",
+    "range": "480'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 125000,
+  "_key": "!items!CeoL25Cwq7C4bWQV"
+}

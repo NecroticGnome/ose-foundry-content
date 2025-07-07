@@ -1,0 +1,37 @@
+{
+  "name": "MU3.01 Clairvoyance",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "x4RKrRflvuHn5QcJ",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster gains the ability to see through the eyes of other living creatures.</p>\n<ul>\n<li><strong>Focus for 1 turn:</strong> To establish a connection with a creature, the caster must focus their concentration in one particular direction for one turn.</li>\n<li><strong>After this turn: </strong>The visual perceptions of one creature within range in that direction are relayed to the caster.</li>\n<li><strong>Switching:</strong> Once a connection is established, the caster may choose to maintain it or to change to another subject.</li>\n<li><strong>Obstructions: </strong>The spell is blocked by a thin layer of lead or by rock of 2' thick or greater.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4900000,
+  "_key": "!items!x4RKrRflvuHn5QcJ"
+}

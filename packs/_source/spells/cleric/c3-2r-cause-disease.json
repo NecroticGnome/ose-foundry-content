@@ -1,0 +1,37 @@
+{
+  "name": "C3.2r Cause Disease",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "tFZ4lg02hTDcd6WP",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Inflicts a terrible, withering disease on a victim, if a <strong>saving throw versus spells</strong> is failed. The disease has the following effects:</p>\n<ul>\n<li><strong>Death:</strong> Within 2d12 days.</li>\n<li><strong>Attack penalty: </strong>&ndash;2 to attack rolls.</li>\n<li><strong>Natural healing: </strong>Takes twice the usual amount of time.</li>\n<li><strong>Magical healing:</strong> Is utterly ineffective.</li>\n<li><strong>Curing:</strong> This disease can be cured with a casting of <em>cure disease</em>.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Cleric",
+    "duration": "Instant",
+    "range": "30'",
+    "roll": "2d12",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 1600000,
+  "_key": "!items!tFZ4lg02hTDcd6WP"
+}

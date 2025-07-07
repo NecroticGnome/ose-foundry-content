@@ -1,0 +1,22 @@
+{
+  "type": "Actor",
+  "folder": null,
+  "name": "Classic Fantasy",
+  "color": "#ad2727",
+  "sorting": "a",
+  "_id": "MJXyzwnEsZVs7Lbx",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1751863670554,
+    "modifiedTime": 1751863670554,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!MJXyzwnEsZVs7Lbx"
+}

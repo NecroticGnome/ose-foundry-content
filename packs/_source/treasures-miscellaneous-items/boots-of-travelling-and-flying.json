@@ -1,0 +1,38 @@
+{
+  "name": "Boots of Travelling and Flying",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/feet/boots-collared-red.webp",
+  "effects": [],
+  "_id": "laHlCnrqsEttzlDk",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The wearer is able to travel without tiring and leap great distances.</p>\n<ul>\n<li><strong>Tirelessness:</strong> The normal need for rest when travelling may be ignored (see <strong><a title=\"Wilderness Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring\">Wilderness Adventuring</a></strong>).</li>\n<li><strong>Jumping:</strong> The wearer can leap up to 10′ high and 30′ horizontally.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!laHlCnrqsEttzlDk"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "#38239c",
+  "name": "Spider",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "IxxyR3BHkhwDZR1F",
+  "_id": "fUQGYYG7tWuZ5a3a",
+  "sort": 400000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!fUQGYYG7tWuZ5a3a"
+}

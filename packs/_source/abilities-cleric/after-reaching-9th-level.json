@@ -1,0 +1,36 @@
+{
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "I41ps84vREIv3t3x",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">A cleric may establish or build a stronghold. So long as the cleric is currently in favour with their god, a stronghold may be bought or built at half the normal price, due to divine intervention.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Once a stronghold is established, the cleric will attract followers (5d6 &times; 10 fighters of level 1&ndash;2). These troops are completely devoted to the cleric, never checking morale. The referee decides which proportions of followers are 1st and 2nd level and which are bowmen, infantry, etc.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Cleric, Level 9",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!I41ps84vREIv3t3x"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Short bow",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/bows/shortbow-leather.webp",
+  "effects": [],
+  "_id": "SrdLQTgrRnMEubDV",
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Two-handed:</strong>&nbsp;Requires both hands; the character cannot use a shield.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 25,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 50,
+      "medium": 100,
+      "long": 150
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135584,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!SrdLQTgrRnMEubDV"
+}

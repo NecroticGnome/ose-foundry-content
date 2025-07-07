@@ -1,0 +1,38 @@
+{
+  "name": "Crossbow Bolts +1 (3d10)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/ammunition/arrow-head-war-flight.webp",
+  "effects": [],
+  "_id": "aisSBm4IITWzX8Qp",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Ammunition for a crossbow.</p>\n<p>Amount [[/roll 3d10]]</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 3,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!aisSBm4IITWzX8Qp"
+}

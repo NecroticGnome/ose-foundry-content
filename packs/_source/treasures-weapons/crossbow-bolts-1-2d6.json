@@ -1,0 +1,38 @@
+{
+  "name": "Crossbow Bolts +1 (2d6)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/ammunition/arrow-head-war-flight.webp",
+  "effects": [],
+  "_id": "gPfsIn9REFbC8uEo",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Ammunition for a crossbow.</p>\n<p>Amount [[/roll 2d6]]</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 2,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!gPfsIn9REFbC8uEo"
+}

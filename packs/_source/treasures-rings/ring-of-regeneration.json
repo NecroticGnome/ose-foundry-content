@@ -1,0 +1,38 @@
+{
+  "name": "Ring of Regeneration",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "CAgRK8H2AuqYtbqa",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The wearer heals at an accelerated rate.</p>\n<ul>\n<li><strong>Rate:</strong> The wearer regains 1 hit point per round.</li>\n<li><strong>Severed limbs:</strong> Will also regrow. The rate depends on the size of the limb (e.g. a finger may regrow in one day, while a whole limb may take a week).</li>\n<li><strong>Fire or acid damage:</strong> Cannot be regenerated.</li>\n<li><strong>Death:</strong> The ring does not function if the wearer is reduced to 0 or less hit points.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!CAgRK8H2AuqYtbqa"
+}

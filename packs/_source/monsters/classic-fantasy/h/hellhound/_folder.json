@@ -1,0 +1,21 @@
+{
+  "name": "Hellhound",
+  "sorting": "a",
+  "folder": "nloYRN34cCJIGt9R",
+  "type": "Actor",
+  "_id": "vy0unTOgPsc8TE9D",
+  "sort": 100000,
+  "color": "#389c23",
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!vy0unTOgPsc8TE9D"
+}

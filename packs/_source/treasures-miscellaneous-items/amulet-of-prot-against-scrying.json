@@ -1,0 +1,38 @@
+{
+  "name": "Amulet of Prot. Against Scrying",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/neck/amulet-round-brown.webp",
+  "effects": [],
+  "_id": "LaKGGd9EryB4Xbxy",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An amulet that provides protection against remote viewing and mind-reading.</p>\n<ul>\n<li><strong>Crystall balls:</strong> The person wearing this amulet cannot be viewed in a crystal ball.</li>\n<li><strong>ESP:</strong> The wearer is immune to all forms of ESP.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!LaKGGd9EryB4Xbxy"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Gaseous Form",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "XcfQnPWrDpuhw504",
+  "system": {
+    "description": "<p>The character&rsquo;s body becomes a cloud of vapour. This has the following effects:</p>\n<ul>\n<li><strong>Equipment and clothing:</strong> Drops to the floor.</li>\n<li><strong>Movement:</strong> The character may move, as a cloud of gas, through small cracks in stone walls, wooden objects, etc.</li>\n<li><strong>Attacking:</strong> Is not possible, while in gaseous form.</li>\n<li><strong>Invulnerability:</strong> The character&rsquo;s AC is &ndash;2 [21]. Non-magical weapons cannot harm the character.&nbsp;</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456817438,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!XcfQnPWrDpuhw504"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "MU2.02 Detect Evil",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "m6MgTRjbgS21oFQZ",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Objects enchanted for evil purposes or living beings with evil intentions are caused to magically glow.</p>\n<ul>\n<li><strong>Intent only:</strong> This spell does not grant the ability to read minds, but only grants a general sense of evil intent.</li>\n<li><strong>Definition of evil: </strong>The referee must decide what is “evil”. Some things that are potentially harmful, like traps, are not “evil”.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 6000000,
+  "_key": "!items!m6MgTRjbgS21oFQZ"
+}

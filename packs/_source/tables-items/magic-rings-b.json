@@ -1,0 +1,184 @@
+{
+  "name": "Magic Rings B",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "description": "Magic Rings (Basic Table)",
+  "results": [
+    {
+      "_id": "j9OLWvOwOJJXH53p",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Control Animals",
+      "name": "",
+      "_key": "!tables.results!yDttDT17jgug6Ig2.j9OLWvOwOJJXH53p"
+    },
+    {
+      "_id": "hxVJ91AnZJV5Vvr4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Fire Resistance",
+      "name": "",
+      "_key": "!tables.results!yDttDT17jgug6Ig2.hxVJ91AnZJV5Vvr4"
+    },
+    {
+      "_id": "VdJPvRkXFTZG6G9U",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Invisibility",
+      "name": "",
+      "_key": "!tables.results!yDttDT17jgug6Ig2.VdJPvRkXFTZG6G9U"
+    },
+    {
+      "_id": "2N0WUYvOTYOIN7lO",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Protection +1",
+      "name": "",
+      "_key": "!tables.results!yDttDT17jgug6Ig2.2N0WUYvOTYOIN7lO"
+    },
+    {
+      "_id": "5Pr8hrvKp3fjMS0W",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Water Walking",
+      "name": "",
+      "_key": "!tables.results!yDttDT17jgug6Ig2.5Pr8hrvKp3fjMS0W"
+    },
+    {
+      "_id": "EkOH0i78V3wwR9cs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Weakness",
+      "name": "",
+      "_key": "!tables.results!yDttDT17jgug6Ig2.EkOH0i78V3wwR9cs"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "yDttDT17jgug6Ig2",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!yDttDT17jgug6Ig2"
+}

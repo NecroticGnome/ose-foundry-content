@@ -1,0 +1,21 @@
+{
+  "color": "#239c6b",
+  "name": "Living Statue",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "gsBiU6OoDZomhc76",
+  "_id": "BwVDROH7e3NUd8KD",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!BwVDROH7e3NUd8KD"
+}

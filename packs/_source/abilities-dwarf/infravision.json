@@ -1,0 +1,36 @@
+{
+  "name": "Infravision",
+  "type": "ability",
+  "flags": {},
+  "img": "systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "iOx6eJUnypvekebu",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Dwarves have infravision to 60' (see </span><em style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Darkness</strong></em><span style=\"color: #191813;\">&nbsp;under&nbsp;</span><a style=\"box-sizing: border-box; user-select: text;\" title=\"Hazards and Challenges\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Hazards_and_Challenges#Darkness\">Hazards and Challenges</a><span style=\"color: #191813;\">).</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Dwarf",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!iOx6eJUnypvekebu"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "6MbhIxOI0aMdgOnW",
+  "name": "Wand of Negation",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/wands/wand-gem-purple.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Has the power to negate the effects of other wands or staves.</p>\n<ul>\n<li><strong>Declare intent:</strong> Before rolling initiative, the wielder of the wand must declare the intention to use it.</li>\n<li><strong>Target:</strong> Another wand or staff must be targeted.</li>\n<li><strong>Effect:</strong> The effects of the targeted item are negated for one round.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!6MbhIxOI0aMdgOnW"
+}

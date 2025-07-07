@@ -1,0 +1,62 @@
+{
+  "name": "Chapter 1: Introduction",
+  "pages": [
+    {
+      "sort": 300000,
+      "name": "Table of Contents",
+      "type": "text",
+      "_id": "xWicMalhcWtpXsPu",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.voBT4s7rSCOGUkjy]{Chapter 1: Introduction}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.wREjcx8jyuN3ZofS]{Chapter 2: Characters}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.suQVyiVl9lRsDXPk]{Chapter 3: Classes}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.XQugqbJAaPQchJB7]{Chapter 4: Equipment &amp; Services}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.MjCF3sCLZbFRtZLm]{Chapter 5: Magic}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.jH4XeYKTsGS8lUut]{Chapter 6: Playing the Game}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.tUJiecP7ocI5EY7o]{Chapter 7: Monsters}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.ZVc7K0iteDIoHdq2]{Chapter 8: Running Adventures}</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.MRRjzPJqn9pxj5Vz]{Chapter 9: Treasures}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1751862305121,
+        "lastModifiedBy": "osebuilder000000",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!voBT4s7rSCOGUkjy.xWicMalhcWtpXsPu"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": 1682462390724,
+    "modifiedTime": 1682462797590,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "voBT4s7rSCOGUkjy",
+  "categories": [],
+  "_key": "!journal!voBT4s7rSCOGUkjy"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Cursed Shield -2",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/equipment/shield/heater-wooden-brown-axe.webp",
+  "effects": [],
+  "_id": "sxU18CYvbJ2v3Zqu",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": -2
+    },
+    "aac": {
+      "value": null
+    },
+    "type": "shield"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!sxU18CYvbJ2v3Zqu"
+}

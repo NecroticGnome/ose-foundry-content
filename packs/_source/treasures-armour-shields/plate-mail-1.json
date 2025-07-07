@@ -1,0 +1,44 @@
+{
+  "name": "Plate Mail +1",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/commodities/metal/mail-plate-steel.webp",
+  "effects": [],
+  "_id": "q0k2eJ25cgFiScZv",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 500,
+    "cost": null,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 2
+    },
+    "aac": {
+      "value": 17
+    },
+    "type": "heavy"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!q0k2eJ25cgFiScZv"
+}

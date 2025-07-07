@@ -1,6 +1,6 @@
-# Classic Fantasy Compendium for Unified Fantasy Toolkit on Foundry VTT
+# Classic Fantasy Compendium for Old-School Essentials on Foundry VTT
 
-This module adds precreated monsters, items, and more from Old-School Essentials Classic Fantasy in your UFT-compatible Foundry VTT game system.
+This module adds pre-created monsters, items, and more from Old-School Essentials Classic Fantasy in your Foundry VTT game system.
 
 ## Installation
 

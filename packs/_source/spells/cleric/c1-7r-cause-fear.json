@@ -1,0 +1,37 @@
+{
+  "name": "C1.7r Cause Fear",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "2JrOM3HIfP4giwti",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Will cause a target within 120′ to flee for the duration unless it <strong>saves versus spells</strong>.</p>\n<hr />\n<p>This is the reversal of <strong>Remove Fear</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Cleric",
+    "duration": "2 turns",
+    "range": "The caster or a creature touched",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 3000000,
+  "_key": "!items!2JrOM3HIfP4giwti"
+}

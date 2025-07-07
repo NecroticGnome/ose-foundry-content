@@ -1,0 +1,38 @@
+{
+  "name": "Staff of Snakes",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/staves/staff-engraved-wood.webp",
+  "effects": [],
+  "_id": "kvQyarQX4o43Nlss",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A magical staff that has the power to transform into a snake, on command.</p>\n<ul>\n<li><strong>Divine magic:</strong> Usable by divine spell casters only.</li>\n<li><strong>In melee:</strong> Treated as a staff with a +1 magic bonus to attacks and damage.</li>\n<li><strong>On a successful hit:</strong> Upon a human-sized (or smaller) creature, the wielder of the staff may speak the command word, causing it to transform into a serpent and coil around the victim.</li>\n<li><strong>Victims:</strong> Must <strong>save versus spells</strong> or be immobilised in the coils of the snake. Victims are completely helpless while held by the snake (1d4 turns, or released as the wielder of the staff commands).</li>\n<li><strong>Snake:</strong> Has AC 5 [14], HD 3 (20hp), and a movement rate of 60′ (20′).</li>\n<li><strong>When the victim is released:</strong> The snake returns to the owner and transforms back into a staff. (At this point, it is healed of any damage it has suffered.)</li>\n<li><strong>If the snake is killed:</strong> It does not return to its staff form, becoming non-magical.</li>\n<li><strong>No charges:</strong> Does not use charges; may be used any number of times.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!kvQyarQX4o43Nlss"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Leather Armour +3",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/commodities/leather/leather-studded-tan.webp",
+  "effects": [],
+  "_id": "eL4pzbl4fb8eXVHu",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 200,
+    "cost": null,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 4
+    },
+    "aac": {
+      "value": 15
+    },
+    "type": "light"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!eL4pzbl4fb8eXVHu"
+}

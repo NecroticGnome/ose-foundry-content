@@ -1,0 +1,38 @@
+{
+  "name": "Scarab of Protection",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/neck/necklace-carved-lantern-gold.webp",
+  "effects": [],
+  "_id": "aOKsmI9ITq2GfQAo",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Protects the bearer from baleful magic.</p>\n<ul>\n<li><strong>Curses:</strong> Of all kinds are nullified.</li>\n<li><strong>Finger of death:</strong> is nullified. See <a title=\"Raise Dead (Finger of Death)\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Raise_Dead_(Finger_of_Death)\">Raise Dead (Finger of Death)</a>.</li>\n<li><strong>Charges:</strong> The scarab&rsquo;s enchantment works 2d6 times before it is spent.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!aOKsmI9ITq2GfQAo"
+}

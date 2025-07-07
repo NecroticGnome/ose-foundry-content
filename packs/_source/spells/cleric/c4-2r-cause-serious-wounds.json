@@ -1,0 +1,37 @@
+{
+  "name": "C4.2r Cause Serious Wounds",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "kxH7WDc3Y81MijKb",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Inflicts 2d6+2 hit points of damage to a touched creature. In combat, a melee attack roll is required.</p>\n<hr />\n<p>This is the reversal of&nbsp;<strong>Cure Serious Wounds</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "Instant",
+    "range": "Touch",
+    "roll": "2d6+2",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 800000,
+  "_key": "!items!kxH7WDc3Y81MijKb"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Holy water vial",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "effects": [],
+  "_id": "HlrI4FpUj8YbcBqc",
+  "system": {
+    "description": "<p><strong>Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p><strong>Splash weapon:</strong> On a successful attack, the container smashes and douses the target with the liquid.The listed damage is inflicted over two rounds, as the liquid drips off.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 10,
+    "cost": 25,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 30,
+      "long": 50
+    },
+    "pattern": "white",
+    "damage": "1d8",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Splash weapon",
+        "value": "Splash weapon"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135577,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!HlrI4FpUj8YbcBqc"
+}

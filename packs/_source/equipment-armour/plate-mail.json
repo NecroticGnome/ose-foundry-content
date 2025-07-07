@@ -1,0 +1,44 @@
+{
+  "name": "Plate mail",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/equipment/chest/breastplate-cuirass-steel-grey.webp",
+  "effects": [],
+  "_id": "7iWthUf8FGPFykNc",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 500,
+    "cost": 60,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 3
+    },
+    "aac": {
+      "value": 16
+    },
+    "type": "heavy"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!7iWthUf8FGPFykNc"
+}

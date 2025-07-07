@@ -4,24 +4,29 @@
   "description": "A compendium of Classic Fantasy classes, creatures, equipment, and more ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:clean": "node ./utils/packs.mjs package clean",
+    "build:db": "node ./utils/packs.mjs package pack",
+    "build:json": "node ./utils/packs.mjs package unpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unitedfantasytoolkit/classicfantasycompendium.git"
+    "url": "git+https://github.com/NecroticGnome/ose-foundry-content.git"
   },
   "keywords": [
     "compendium",
     "osr",
     "classic",
     "fantasy",
-    "ndjson",
     "foundryvtt"
   ],
   "author": "United Fantasy Toolkit Team, AUTHORS",
   "license": "SEE LICENSE IN LICENSES",
   "bugs": {
-    "url": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/issues"
+    "url": "https://github.com/NecroticGnome/ose-foundry-content/issues"
   },
-  "homepage": "https://github.com/unitedfantasytoolkit/classicfantasycompendium#readme"
+  "homepage": "https://github.com/NecroticGnome/ose-foundry-content#readme",
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.1.0",
+    "fancy-log": "^2.0.0"
+  }
 }

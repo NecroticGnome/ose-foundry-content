@@ -1,0 +1,38 @@
+{
+  "_id": "QuF0bIGHIUtA1JyU",
+  "name": "Holy symbol",
+  "type": "item",
+  "flags": {},
+  "img": "icons/commodities/treasure/token-cross-gem-yellow.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A divine spell caster is required to own a holy symbol of their deity, often worn as a necklace. Each religion has its own holy symbol.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 25,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!QuF0bIGHIUtA1JyU"
+}

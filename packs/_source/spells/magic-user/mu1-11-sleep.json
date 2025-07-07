@@ -1,0 +1,37 @@
+{
+  "name": "MU1.11 Sleep",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "uCttJGFTY4eS8lQo",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A <em>sleep </em>spell causes a magical slumber to come upon creatures, excluding the undead.The spell may target either:</p>\n<ol>\n<li>A single creature with 4+1 Hit Dice.</li>\n<li>A total of [[/roll 2d8 #Sleep]] Hit Dice of creatures of 4 HD or lower each.</li>\n</ol>\n<p>When targeting creatures of 4 HD or less, the following rules apply:</p>\n<ul>\n<li><strong>Weakest first:</strong> Targets with the least HD are affected first.</li>\n<li><strong>HD:</strong> Calculate monsters with less than 1 HD as having 1 HD and monsters with a bonus to HD as having the flat amount.<br>(For example, a 3+2 HD monster would be calculated as having 3 HD.)</li>\n<li><strong>Excess:</strong> Rolled Hit Dice that are not sufficient to affect a creature are wasted.</li>\n</ul>\n<p><strong>Killing: </strong>Creatures enchanted by this spell are helpless and can be killed instantly with a bladed weapon.</p>\n<p><strong>Awakening:</strong> Slapping or wounding awakens an affected creature.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "4d4 turns",
+    "range": "240'",
+    "roll": "4d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 6300000,
+  "_key": "!items!uCttJGFTY4eS8lQo"
+}

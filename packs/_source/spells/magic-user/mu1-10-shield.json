@@ -1,0 +1,37 @@
+{
+  "name": "MU1.10 Shield",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "DTVjDH9CEja77X82",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><em>Shield</em> creates an invisible field of force that protects the caster:</p>\n<ul>\n<li><strong>Against missile attacks: </strong>The caster&rsquo;s AC is 2 [17].</li>\n<li><strong>Against other attacks:</strong> The caster&rsquo;s AC is 4 [15].</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "Self",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 6400000,
+  "_key": "!items!DTVjDH9CEja77X82"
+}

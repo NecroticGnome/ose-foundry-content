@@ -1,0 +1,36 @@
+{
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "Yako3OU1COwHhJGg",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">An elf may construct a stronghold in the depths of the forest, blending in with the natural environment of a site of great beauty, for example: in the treetops, beside a serene valley, or hidden behind a waterfall. Whatever material it is made of, the construction costs as much as similar work in stone, due to the exquisite quality of craftsmanship involved.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Forest animals within a 5 mile radius of the completed stronghold will become friends with the elves. They may warn of intruders, carry messages and news, and so on. In exchange for this friendship, the elf must protect the animals from harm.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">An elf ruler may only hire elven mercenaries. Specialists and retainers of any race may be hired.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Elf, Level 9",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!Yako3OU1COwHhJGg"
+}

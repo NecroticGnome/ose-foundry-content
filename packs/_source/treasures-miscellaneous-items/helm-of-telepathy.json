@@ -1,0 +1,38 @@
+{
+  "name": "Helm of Telepathy",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/head/helm-norman-shrouded.webp",
+  "effects": [],
+  "_id": "sO6s7agXKJJhMeeO",
+  "system": {
+    "description": "<p>A beautifully crafted helmet that grants the magical ability of telepathy: reading and sending thoughts.</p>\n<ul>\n<li><strong>Range:</strong> The range of the power is 90′.</li>\n<li><strong>Concentration:</strong> To read a creature&rsquo;s thoughts, the wearer must remain still and concentrate on that creature.</li>\n<li><strong>Comprehension:</strong> The creature&rsquo;s thoughts are made comprehensible to the wearer of the helm.</li>\n<li><strong>Bidirectional communication:</strong> The wearer may initiate bidirectional, telepathic communication, though the creatur</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456629009,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!sO6s7agXKJJhMeeO"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "MU6.03 Death Spell",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "KvXh8nsZq4tpwmnB",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Up to [[/r 4d8 # Hit Dice of creatures within a 60' cube]] Hit Dice of creatures within a 60' cube area must <strong>save versus death</strong> or die, instantly.</p>\n<p><strong>Restrictions:</strong> Undead and creatures with greater than 7 Hit Dice are unaffected.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "death",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "240'",
+    "roll": "4d8",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 800000,
+  "_key": "!items!KvXh8nsZq4tpwmnB"
+}

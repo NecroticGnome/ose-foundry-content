@@ -1,0 +1,38 @@
+{
+  "name": "Staff of Withering",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/staves/staff-engraved-wood.webp",
+  "effects": [],
+  "_id": "scScATG2diuqgFXx",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Creatures hit by the staff are magically aged:</p>\n<ul>\n<li><strong>Divine magic:</strong> Usable by divine spell casters only.</li>\n<li><strong>Effect:</strong> The target is aged 10 years. Living creatures die upon reaching their natural life span.</li>\n<li><strong>Especially long-lived species:</strong> Ignore the effects of a certain amount of ageing. (For example, elves may ignore up to 200 years of ageing, dwarves ignore up to 50 years, and so on.)</li>\n<li><strong>Undead creatures:</strong> Are unaffected by the power of this staff.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!scScATG2diuqgFXx"
+}

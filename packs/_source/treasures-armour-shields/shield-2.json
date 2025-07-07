@@ -1,0 +1,44 @@
+{
+  "name": "Shield +2",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/equipment/shield/heater-wooden-brown-axe.webp",
+  "effects": [],
+  "_id": "0gPHfe8U1gQsluzR",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 3
+    },
+    "aac": {
+      "value": null
+    },
+    "type": "shield"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!0gPHfe8U1gQsluzR"
+}

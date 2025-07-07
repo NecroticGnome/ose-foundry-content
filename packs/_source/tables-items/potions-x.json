@@ -1,0 +1,678 @@
+{
+  "name": "Potions X",
+  "flags": {},
+  "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+  "description": "<p>Potions (Expert Table)</p>",
+  "results": [
+    {
+      "_id": "AnR7xY2slcRIvheK",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Clairaudience",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.AnR7xY2slcRIvheK"
+    },
+    {
+      "_id": "BnArweB28BgVMXMa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        4,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Clairvoyance",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.BnArweB28BgVMXMa"
+    },
+    {
+      "_id": "xZjRgqsCCPCrdH7T",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Control Animal",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.xZjRgqsCCPCrdH7T"
+    },
+    {
+      "_id": "juhev3uDKUJVDhVV",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Control Dragon",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.juhev3uDKUJVDhVV"
+    },
+    {
+      "_id": "ROcrafhNXlxDFptT",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Control Giant",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.ROcrafhNXlxDFptT"
+    },
+    {
+      "_id": "iUyy9HlSZh4W07L9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        20,
+        22
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Control Plant",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.iUyy9HlSZh4W07L9"
+    },
+    {
+      "_id": "sYZxXB9dcAR28ph5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        23,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Control Undead",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.sYZxXB9dcAR28ph5"
+    },
+    {
+      "_id": "DPgy67aM04Ni4kzq",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        26,
+        32
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Delusion",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.DPgy67aM04Ni4kzq"
+    },
+    {
+      "_id": "j9OLWvOwOJJXH53p",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        33,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Diminution",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.j9OLWvOwOJJXH53p"
+    },
+    {
+      "_id": "hxVJ91AnZJV5Vvr4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        36,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of ESP",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.hxVJ91AnZJV5Vvr4"
+    },
+    {
+      "_id": "I5efw9bjdSJA1Of6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        40,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Fire Resistance",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.I5efw9bjdSJA1Of6"
+    },
+    {
+      "_id": "T1kMCyP0pRj2deOC",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        44,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Flying",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.T1kMCyP0pRj2deOC"
+    },
+    {
+      "_id": "VdJPvRkXFTZG6G9U",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        48,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Gaseous Form",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.VdJPvRkXFTZG6G9U"
+    },
+    {
+      "_id": "2eoeg7VpqFJnjRZS",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        52,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Giant Strength",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.2eoeg7VpqFJnjRZS"
+    },
+    {
+      "_id": "2N0WUYvOTYOIN7lO",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        56,
+        59
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Growth",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.2N0WUYvOTYOIN7lO"
+    },
+    {
+      "_id": "5Pr8hrvKp3fjMS0W",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        60,
+        63
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Healing",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.5Pr8hrvKp3fjMS0W"
+    },
+    {
+      "_id": "2AiO1dZt01UzdHYL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        64,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Heroism",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.2AiO1dZt01UzdHYL"
+    },
+    {
+      "_id": "EkOH0i78V3wwR9cs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        69,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Invisibility",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.EkOH0i78V3wwR9cs"
+    },
+    {
+      "_id": "L5lupbuVhYq1e0ub",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        73,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Invulnerability",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.L5lupbuVhYq1e0ub"
+    },
+    {
+      "_id": "eAD2SkEmOggoEJjy",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        77,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Levitation",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.eAD2SkEmOggoEJjy"
+    },
+    {
+      "_id": "Oqp5RIKjoHwrGNzd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Longevity",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.Oqp5RIKjoHwrGNzd"
+    },
+    {
+      "_id": "c4p72amK5k1o27uF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        85,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Poison",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.c4p72amK5k1o27uF"
+    },
+    {
+      "_id": "wJoFXZdPHdEUkfyK",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        87,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Polymorph Self",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.wJoFXZdPHdEUkfyK"
+    },
+    {
+      "_id": "aT2FUqtK6kvLoaOC",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        90,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Speed",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.aT2FUqtK6kvLoaOC"
+    },
+    {
+      "_id": "tJxBmiBlqxmF9fkI",
+      "flags": {},
+      "type": "text",
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "weight": 1,
+      "range": [
+        98,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of Treasure Finding",
+      "name": "",
+      "_key": "!tables.results!J5o5pdzr16HbTYIz.tJxBmiBlqxmF9fkI"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "J5o5pdzr16HbTYIz",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863509915,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!J5o5pdzr16HbTYIz"
+}

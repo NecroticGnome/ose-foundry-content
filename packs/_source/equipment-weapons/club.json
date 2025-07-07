@@ -1,0 +1,59 @@
+{
+  "name": "Club",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/clubs/club-simple-black.webp",
+  "effects": [],
+  "_id": "enUmfq78M7VYbjlI",
+  "system": {
+    "description": "<p><strong>Melee:</strong> Close quarters weapon (5’ or less).</p>\n<p><strong>Blunt:</strong> May be used by clerics.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 50,
+    "cost": 3,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135621,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!enUmfq78M7VYbjlI"
+}

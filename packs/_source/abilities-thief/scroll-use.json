@@ -1,0 +1,36 @@
+{
+  "name": "Scroll Use",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "tMWBvkjKFG7KE9B2",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">A thief of <strong>10th level</strong> or higher can cast arcane spells from scrolls. There is a 10% chance of error: the spell does not function as expected and creates an unusual or deleterious effect.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Thief, Level 10",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 90,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!tMWBvkjKFG7KE9B2"
+}

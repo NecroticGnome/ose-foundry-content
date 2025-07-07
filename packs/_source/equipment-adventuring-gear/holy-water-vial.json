@@ -1,0 +1,38 @@
+{
+  "_id": "00gPVNNHm6YRbe9p",
+  "name": "Holy water (vial)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "effects": [],
+  "system": {
+    "description": "<p>Water that has been blessed by a holy person. It is used in some religious rituals and inflicts damage on undead monsters (see <a href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Weapons_And_Armour\">Weapon Combat Stats</a>).</p>\n<p>Holy water does not retain its power if stored in any other container than the special vials it is blessed in.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 25,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456150249,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!00gPVNNHm6YRbe9p"
+}

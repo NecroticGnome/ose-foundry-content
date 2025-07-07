@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Control Giant",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "pH0mXASv69uWdf1e",
+  "system": {
+    "description": "<p>A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.</p>\n<ul>\n<li><strong>Concentration:</strong> Exercising control requires concentration.</li>\n<li><strong>Visual range:</strong> The character can only control creatures that they can see.</li>\n<li><strong>Suicidal commands:</strong> Controlled creatures will resist commands that are deadly to themselves.</li>\n</ul>\n<h3><span id=\"Control_Giant\" class=\"mw-headline\">Control Giant</span></h3>\n<ul>\n<li><strong>Affects:</strong> 1&ndash;4 giants of a specific type. (The referee should determine which type of giant the potion affects.)</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456769729,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!pH0mXASv69uWdf1e"
+}

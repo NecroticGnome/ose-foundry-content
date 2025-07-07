@@ -1,0 +1,38 @@
+{
+  "name": "Boots of Levitation",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/feet/boots-collared-blue-gold.webp",
+  "effects": [],
+  "_id": "WPyswHSbN2pCvOk1",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The wearer is able to move up and down through the air at will.</p>\n<ul>\n<li><strong>Vertical:</strong> The wearer mentally directs movement up or down at up to 20′ per round.</li>\n<li><strong>Horizontal:</strong> The caster can push against solid objects to move laterally.</li>\n<li><strong>Weight:</strong> A normal amount of weight can be carried while levitating.</li>\n<li><strong>Usage:</strong> The enchantment may be used without limit of frequency or duration.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!WPyswHSbN2pCvOk1"
+}

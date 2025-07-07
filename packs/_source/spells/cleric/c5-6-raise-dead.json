@@ -1,0 +1,37 @@
+{
+  "name": "C5.6 Raise Dead",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "CW6VsUVAdI6Asr4Y",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863180926,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell has two uses:</p>\n<ol>\n<li><strong>Restore life:</strong> To a recently deceased human or demihuman. See below.</li>\n<li><strong>Destroy undead:</strong> A single undead monster is destroyed, if it fails a <strong>saving throw versus spells</strong>.</li>\n</ol>\n<p><strong>Restoring life: </strong>When used to restore life, the following stipulations apply:</p>\n<ul>\n<li><strong>Time limit: </strong>The caster can raise a person that has been dead for no longer than four days per level of the caster above 7th. <br />For example, a 10th level caster can revive a character that has been dead for twelve days (three levels above 7th &times; four days).</li>\n<li><strong>Weakness:</strong> Returning from death is an ordeal. Until the subject gets two full weeks of bed rest, they have 1 hit point, move at half the normal rate, cannot carry heavy items, and cannot attack, cast spells, or use other class abilities. This period of weakness may not be shortened by any magical healing.</li>\n</ul>\n<h2>Reversed</h2>\n<p>See <strong>Finger of Death</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "Instant",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 103125,
+  "_key": "!items!CW6VsUVAdI6Asr4Y"
+}

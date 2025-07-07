@@ -1,0 +1,38 @@
+{
+  "_id": "KXtDnAkucUiVCnIX",
+  "name": "Rations, standard",
+  "type": "item",
+  "flags": {},
+  "img": "icons/environment/creatures/fish-crosshatched-silver-blue.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Fresh, unpreserved food.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 7,
+      "max": 7
+    },
+    "weight": null,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!KXtDnAkucUiVCnIX"
+}

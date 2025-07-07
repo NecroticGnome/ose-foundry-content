@@ -1,0 +1,38 @@
+{
+  "_id": "tdyDafIe9T9lUcv3",
+  "name": "Sack (large)",
+  "type": "container",
+  "flags": {},
+  "img": "icons/containers/bags/sack-cloth-brown.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Can hold up to 600 coins.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 2,
+    "containerId": "",
+    "itemIds": [],
+    "treasure": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!tdyDafIe9T9lUcv3"
+}

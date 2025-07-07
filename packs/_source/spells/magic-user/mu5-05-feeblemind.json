@@ -1,0 +1,37 @@
+{
+  "name": "MU5.05 Feeblemind",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "elMHqe3lsrZviqlt",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An arcane spell caster (e.g. a magic-user or elf) within range must <strong>save versus spells (at a &ndash;4 penalty)</strong> or become an imbecile, unable to think clearly or cast spells.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 2000000,
+  "_key": "!items!elMHqe3lsrZviqlt"
+}

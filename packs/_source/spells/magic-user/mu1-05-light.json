@@ -1,0 +1,37 @@
+{
+  "name": "MU1.05 Light",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "sN6Ei0LY5Dcaj4cN",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell has three usages:</p>\n<ol>\n<li><strong>Conjuring light:</strong> In a 15' radius. The magical light is sufficient for reading, but is not as bright as daylight. The spell may be cast upon an object, in which case the light moves with the object.</li>\n<li><strong>Blinding a creature:</strong> By casting the spell upon its eyes. If the target fails a <strong>saving throw versus spells</strong>, it is blinded for the duration. A blind creature cannot attack.</li>\n<li><strong>Cancelling darkness: </strong><em>Light </em>may cancel a <em>darkness </em>spell (see below).</li>\n</ol>\n<h2>Reversed</h2>\n<p>See<strong> Darkness</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "6 turns + 1 per level",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 7000000,
+  "_key": "!items!sN6Ei0LY5Dcaj4cN"
+}

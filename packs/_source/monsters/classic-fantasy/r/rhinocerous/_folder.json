@@ -1,0 +1,21 @@
+{
+  "color": "#232d9c",
+  "name": "Rhinocerous",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "lxdUqjiSPJLfJ1aE",
+  "_id": "qR36NKvjLr2GsROF",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!qR36NKvjLr2GsROF"
+}

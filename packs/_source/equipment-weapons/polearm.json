@@ -1,0 +1,63 @@
+{
+  "name": "Polearm",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/polearms/halberd-engraved-black.webp",
+  "effects": [],
+  "_id": "6sigc3caYw0EAxov",
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:&nbsp;</strong>Close quarters weapon (5’ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text;\"><span style=\"color: #191813;\"><strong>Brace: </strong>Bracing against the ground dou</span><span style=\"box-sizing: border-box; user-select: text;\"><span style=\"color: #191813;\">bles damage against charging monsters.</span></span></p>\n<p style=\"box-sizing: border-box; user-select: text;\"><strong style=\"color: #191813; box-sizing: border-box; user-select: text;\">Slow:&nbsp;</strong><span style=\"color: #191813;\">The character acts last in each combat round (see Combat, p120).</span></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Two-handed:</strong>&nbsp;Requires both hands; the character cannot use a shield.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 150,
+    "cost": 7,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d10",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      },
+      {
+        "title": "Brace",
+        "value": "Brace"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135562,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6sigc3caYw0EAxov"
+}

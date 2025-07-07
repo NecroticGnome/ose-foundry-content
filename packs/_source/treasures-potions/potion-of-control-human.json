@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Control Human",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "asndiRZmXSUjA0FA",
+  "system": {
+    "description": "<p>A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.</p>\n<ul>\n<li><strong>Concentration:</strong> Exercising control requires concentration.</li>\n<li><strong>Visual range:</strong> The character can only control creatures that they can see.</li>\n<li><strong>Suicidal commands:</strong> Controlled creatures will resist commands that are deadly to themselves.</li>\n</ul>\n<h3><span id=\"Control_Human\" class=\"mw-headline\">Control Human</span></h3>\n<ul>\n<li><strong>Usage:</strong> A charm may be placed upon a human within 60′. One target may be charmed per round.</li>\n<li><strong>Resisting:</strong> The subject may <strong>save versus spells</strong> to resist the charm.</li>\n<li><strong>Maximum subjects:</strong> Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as &frac12; HD.</li>\n<li><strong>Charmed individuals:</strong> Regard the character as a trusted friend, and will come to their defence. They will obey the character&rsquo;s commands, as long as these are not obviously harmful and do not contradict the subject&rsquo;s alignment.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456776213,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!asndiRZmXSUjA0FA"
+}

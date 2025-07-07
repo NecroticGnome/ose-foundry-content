@@ -1,0 +1,36 @@
+{
+  "name": "Missile Attack Bonus",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "n2Yt80eWHzIyMN2G",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Halflings&rsquo; keen coordination grants them a +1 bonus to attack rolls with all missile weapons.</span></p>\n<p><span style=\"color: #191813;\"><strong>FoundryVTT Note:</strong> Halfling players should access the <strong>Tweaks</strong> options at the top of the character sheet and adjust the <strong>Missile Bonus</strong> value.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!n2Yt80eWHzIyMN2G"
+}

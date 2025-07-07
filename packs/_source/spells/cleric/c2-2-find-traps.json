@@ -1,0 +1,37 @@
+{
+  "name": "C2.2 Find Traps",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "qWwKBeRfB1PuP5q2",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Trapped objects or areas within range of the caster glow with a magical blue light.</p>\n<ul>\n<li><strong>Magical and mechanical traps:</strong> Are both detected.</li>\n<li><strong>No knowledge: </strong>About the nature of the trap or how to deactivate it is granted.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "2 turns",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 2600000,
+  "_key": "!items!qWwKBeRfB1PuP5q2"
+}

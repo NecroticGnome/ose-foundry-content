@@ -1,0 +1,22 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Cleric",
+  "color": null,
+  "sorting": "a",
+  "_id": "ZqMuAcZCeYDB8FsT",
+  "description": "",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1751863154984,
+    "modifiedTime": 1751863203471,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!ZqMuAcZCeYDB8FsT"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "#789c23",
+  "name": "Fish, Giant",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "ezSAv9Ix3KwS0LoL",
+  "_id": "nxAoIoEhp7I1uy5H",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!nxAoIoEhp7I1uy5H"
+}

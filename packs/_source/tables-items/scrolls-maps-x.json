@@ -1,0 +1,600 @@
+{
+  "name": "Scrolls & Maps X",
+  "flags": {},
+  "img": "icons/tools/navigation/map-simple-brown.webp",
+  "description": "Magic Scrolls and Maps (Expert Tables)",
+  "results": [
+    {
+      "_id": "2WBsdIK6dpoRv13s",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 Spell",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.2WBsdIK6dpoRv13s"
+    },
+    {
+      "_id": "x4EpaaQ5OIHcYNXf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        16,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2 Spells",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.x4EpaaQ5OIHcYNXf"
+    },
+    {
+      "_id": "11RQH7kPxKFoEoNV",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        26,
+        31
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3 Spells",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.11RQH7kPxKFoEoNV"
+    },
+    {
+      "_id": "ggJbMODrTWEGCIuh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        32,
+        34
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5 Spells",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.ggJbMODrTWEGCIuh"
+    },
+    {
+      "_id": "Yb46UKUJOVER7Qls",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "7 Spells",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.Yb46UKUJOVER7Qls"
+    },
+    {
+      "_id": "lDhrFJI21dHIT5iR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-triangle-pink.webp",
+      "weight": 1,
+      "range": [
+        36,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Scroll",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.lDhrFJI21dHIT5iR"
+    },
+    {
+      "_id": "RmtmvKSY0Ruu66FQ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+      "weight": 1,
+      "range": [
+        41,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scroll of Prot. from Elementals",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.RmtmvKSY0Ruu66FQ"
+    },
+    {
+      "_id": "mk3fcVDQicJNgJ63",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+      "weight": 1,
+      "range": [
+        51,
+        60
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scroll of Prot. from Lychantropes",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.mk3fcVDQicJNgJ63"
+    },
+    {
+      "_id": "4rzb5ZmhBk8S3X16",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+      "weight": 1,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scroll of Prot. from Magic",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.4rzb5ZmhBk8S3X16"
+    },
+    {
+      "_id": "6TEDiz0IvIIjCSLd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+      "weight": 1,
+      "range": [
+        66,
+        75
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scroll of Prot. from Undead",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.6TEDiz0IvIIjCSLd"
+    },
+    {
+      "_id": "e47lNeY2By9v1lxF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        76,
+        78
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: I",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.e47lNeY2By9v1lxF"
+    },
+    {
+      "_id": "yAD7Kid1dJVatK7A",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        79,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: II",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.yAD7Kid1dJVatK7A"
+    },
+    {
+      "_id": "cDZUCGASpc1mNbdH",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: III",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.cDZUCGASpc1mNbdH"
+    },
+    {
+      "_id": "zSvqjFQORPPVjqiE",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: IV",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.zSvqjFQORPPVjqiE"
+    },
+    {
+      "_id": "0fm03EOhEHvVzd94",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: V",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.0fm03EOhEHvVzd94"
+    },
+    {
+      "_id": "gRm4bvgjPlu2YvgU",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: VI",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.gRm4bvgjPlu2YvgU"
+    },
+    {
+      "_id": "uBY4BDYZPFSTVcT8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: VII",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.uBY4BDYZPFSTVcT8"
+    },
+    {
+      "_id": "xsn2PvASobkv455L",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        87,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: VIII",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.xsn2PvASobkv455L"
+    },
+    {
+      "_id": "bslX55nx24A4Iyk2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: IX",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.bslX55nx24A4Iyk2"
+    },
+    {
+      "_id": "vozRrSt3VTQO6LR7",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: X",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.vozRrSt3VTQO6LR7"
+    },
+    {
+      "_id": "ecmtQBmOAg6ENAfJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        97,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: XI",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.ecmtQBmOAg6ENAfJ"
+    },
+    {
+      "_id": "uJZ1v7ISePEpxjtv",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: XII",
+      "name": "",
+      "_key": "!tables.results!YdujzQJ9Q3qmUDwv.uJZ1v7ISePEpxjtv"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "YdujzQJ9Q3qmUDwv",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!YdujzQJ9Q3qmUDwv"
+}

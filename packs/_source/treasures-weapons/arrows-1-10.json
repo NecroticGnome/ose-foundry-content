@@ -1,0 +1,38 @@
+{
+  "name": "Arrows +1 (10)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+  "effects": [],
+  "_id": "a7vt0ZxL8F5wAwnM",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Ammunition for bows.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 10,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!a7vt0ZxL8F5wAwnM"
+}

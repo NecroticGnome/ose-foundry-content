@@ -1,0 +1,59 @@
+{
+  "name": "Sword +1, Wishes",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/swords/greatsword-crossguard-flanged-red.webp",
+  "effects": [],
+  "_id": "qnX5dbAVuZn4Pqdb",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Melee: Close quarters weapon (5′ or less).</p>\n<p>Has the power to grant the wielder&rsquo;s <a title=\"Magic Items (General)\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)#Wishes\">Wishes</a>.</p>\n<ul>\n<li><strong>Charges:</strong> The sword grants a total of 1d4 wishes.</li>\n<li><strong>Wishing:</strong> The wish must be spoken out loud by the wielder of the sword.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8+1",
+    "bonus": 1,
+    "tags": [
+      {
+        "title": "Melee",
+        "value": "Melee"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!qnX5dbAVuZn4Pqdb"
+}

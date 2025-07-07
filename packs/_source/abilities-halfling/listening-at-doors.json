@@ -1,0 +1,36 @@
+{
+  "name": "Listening at Doors",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "8vL9qBwz8Aq1xTej",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Halflings have a 2-in-6 chance of hearing noises (see&nbsp;</span><a style=\"box-sizing: border-box; user-select: text;\" title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring\">Dungeon Adventuring</a><span style=\"color: #191813;\">).</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Halfling",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!8vL9qBwz8Aq1xTej"
+}

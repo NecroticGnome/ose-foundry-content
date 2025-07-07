@@ -1,0 +1,38 @@
+{
+  "_id": "3chSe99dOSEtJVUX",
+  "name": "Staff of Power",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/staves/staff-engraved-wood.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An item of great wizardly power, this staff may be used as a weapon in melee, and may evoke five different magical effects.</p>\n<ul>\n<li><strong>Arcane magic:</strong> Usable by arcane spell casters only.</li>\n<li><strong>Melee:</strong> Expending one charge, inflicts 2d6 damage on a successful hit.</li>\n<li><strong>Cone of cold:</strong> Conjures a cone of freezing energy, 60′ long and 30′ wide at the far end. Creatures caught in the cone suffer 8d6 damage (<strong>save versus spells</strong> for half damage).</li>\n<li><strong>Spells:</strong> Can cast: <a title=\"Continual Light (Continual Darkness)\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Continual_Light_(Continual_Darkness)\">Continual light</a>, <a title=\"Fire Ball\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Fire_Ball\">Fire Ball</a> (8d6 damage), <a title=\"Lightning Bolt\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Lightning_Bolt\">Lightning Bolt</a> (8d6 damage), <a title=\"Telekinesis\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Telekinesis\">Telekinesis</a> (up to 2,400 coins of weight).</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!3chSe99dOSEtJVUX"
+}

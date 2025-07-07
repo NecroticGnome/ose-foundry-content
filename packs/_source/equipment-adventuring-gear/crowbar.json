@@ -1,0 +1,38 @@
+{
+  "_id": "97hXAAop9n3KxLu7",
+  "name": "Crowbar",
+  "type": "item",
+  "flags": {},
+  "img": "systems/ose/assets/default/item.png",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>2&ndash;3&prime; long and made of solid iron. Can be used for forcing doors and other objects open.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 10,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!97hXAAop9n3KxLu7"
+}

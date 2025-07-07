@@ -1,0 +1,38 @@
+{
+  "_id": "pdz21inLwWv7wyl0",
+  "name": "Rations, iron",
+  "type": "item",
+  "flags": {},
+  "img": "icons/tools/cooking/can.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Dried and preserved food to be carried on long voyages when securing fresh food may be uncertain.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 7,
+      "max": 7
+    },
+    "weight": null,
+    "cost": 15,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!pdz21inLwWv7wyl0"
+}

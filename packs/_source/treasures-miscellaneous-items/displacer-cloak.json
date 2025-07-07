@@ -1,0 +1,38 @@
+{
+  "name": "Displacer Cloak",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/back/cloak-hooded-green-gold.webp",
+  "effects": [],
+  "_id": "RTJKvBmAk8HnU5dK",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A cloak that bends light, making one who wears it appear to be 5′ away from their true location.</p>\n<ul>\n<li><strong>Save bonus:</strong> The wearer gains a +2 bonus to saving throws against petrification, rods, spells, staves, and wands.</li>\n<li><strong>Melee attacks:</strong> Against the wearer are penalised by &ndash;2.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!RTJKvBmAk8HnU5dK"
+}

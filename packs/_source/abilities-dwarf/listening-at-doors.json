@@ -1,0 +1,36 @@
+{
+  "name": "Listening at Doors",
+  "type": "ability",
+  "flags": {},
+  "img": "systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "sCUA5kBwa4N2cTIL",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Dwarves have a 2-in-6 chance of hearing noises (see&nbsp;<a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring\">Dungeon Adventuring</a>).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Dwarf",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!sCUA5kBwa4N2cTIL"
+}

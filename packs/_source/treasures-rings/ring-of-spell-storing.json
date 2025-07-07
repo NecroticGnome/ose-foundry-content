@@ -1,0 +1,38 @@
+{
+  "name": "Ring of Spell Storing",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "8YT5ke71BugKXybH",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Stores a number of magical spells that the wearer can release on command.</p>\n<ul>\n<li><strong>Capacity:</strong> The ring contains 1d6 spells. (The spells can be triggered and recharged, but cannot be changed.)</li>\n<li><strong>Type of magic:</strong> There is a 20% chance of divine spells, otherwise they are arcane spells.</li>\n<li><strong>Knowledge:</strong> The wearer of the ring knows which spells it contains.</li>\n<li><strong>Triggering:</strong> The wearer of the ring can trigger the spells at will (up to one spell per round).</li>\n<li><strong>Caster level:</strong> For spells whose effects vary by the level of the caster, the wearer of the ring is treated as a caster of the lowest level required to cast the spell.</li>\n<li><strong>Recharging:</strong> Once a spell is triggered, it may not be reused until it is recharged&mdash;the expired spell must be cast directly onto the ring.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!8YT5ke71BugKXybH"
+}

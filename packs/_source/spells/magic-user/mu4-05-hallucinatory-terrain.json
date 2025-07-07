@@ -1,0 +1,37 @@
+{
+  "name": "MU4.05 Hallucinatory Terrain",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "MKRDcI1aMCxxbFEb",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><em>Hallucinatory terrain</em> either conjures an illusory terrain feature (e.g. a hill, wood, marsh, etc.) or hides an existing terrain feature.</p>\n<p><strong>Area: </strong>The illusion must fit completely within the spell&rsquo;s range.</p>\n<p><strong>Touching:</strong> If the illusion is touched by an intelligent being, the spell is negated.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Until touched",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 3300000,
+  "_key": "!items!MKRDcI1aMCxxbFEb"
+}

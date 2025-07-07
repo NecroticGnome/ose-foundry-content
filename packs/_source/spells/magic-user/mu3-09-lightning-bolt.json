@@ -1,0 +1,37 @@
+{
+  "name": "MU3.09 Lightning Bolt",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "Kg9t4S5CHrmEDD8O",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A powerful stroke of electrical energy, 60' long and 5' wide, is conjured.</p>\n<p><strong>Damage: </strong>Creatures caught in the <em>lightning bolt</em> suffer 1d6 damage per level of the caster, with a successful save versus spells indicating half damage.</p>\n<p><strong>Bouncing:</strong> If the <em>lightning bolt</em> hits a solid barrier before its full length is reached, it is reflected and travels for any remaining distance of its full length in the direction of the caster.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "180'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4100000,
+  "_key": "!items!Kg9t4S5CHrmEDD8O"
+}

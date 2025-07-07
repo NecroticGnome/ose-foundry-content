@@ -1,0 +1,38 @@
+{
+  "_id": "cpUaTALrWcZS6o62",
+  "name": "Lantern",
+  "type": "item",
+  "flags": {},
+  "img": "icons/sundries/lights/lantern-iron-yellow.webp",
+  "effects": [],
+  "system": {
+    "description": "<p>Can be closed to hide the light.</p>\n<p>Burns one oil flask every four hours (24 turns). Casts light in a 30&prime; radius.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 24,
+      "max": 24
+    },
+    "weight": null,
+    "cost": 10,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682551516401,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!cpUaTALrWcZS6o62"
+}

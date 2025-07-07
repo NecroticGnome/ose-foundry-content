@@ -1,0 +1,37 @@
+{
+  "name": "C2.8 Speak with Animals",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "pLXkp984Q3pwYle4",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster can communicate with one type of animal within range when the spell is cast.</p>\n<ul>\n<li><strong>Type of animal:</strong> Ordinary animals or giant versions of ordinary animals may be targeted.</li>\n<li><strong>Questions:</strong> The caster can ask questions of and receive answers from animals of the chosen kind, although the spell doesn&rsquo;t make animals any more friendly or cooperative than normal (a reaction roll may be required).</li>\n<li><strong>Services:</strong> If an animal is friendly toward the caster, it may perform some favour or service.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 2000000,
+  "_key": "!items!pLXkp984Q3pwYle4"
+}

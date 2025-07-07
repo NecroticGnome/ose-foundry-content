@@ -1,0 +1,38 @@
+{
+  "_id": "tmIjR0SufKaQSpfB",
+  "name": "[00.10] Silver (sp)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/commodities/currency/coins-assorted-mix-silver.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<h3>Coin Conversion Rates</h3>\n<table style=\"width: 79.9208%;\">\n<tbody>\n<tr>\n<td style=\"width: 30.9529%;\">&nbsp;</td>\n<td style=\"width: 11.9139%;\"><strong>1 pp </strong></td>\n<td style=\"width: 11.9099%;\"><strong>1 gp </strong></td>\n<td style=\"width: 13.2137%;\"><strong>1 ep </strong></td>\n<td style=\"width: 13.2177%;\"><strong> 1 sp </strong></td>\n<td style=\"width: 16.6388%;\"><strong> 1 cp </strong></td>\n</tr>\n<tr>\n<td style=\"width: 30.9529%;\"><strong>Value in pp </strong></td>\n<td style=\"width: 11.9139%;\">1</td>\n<td style=\"width: 11.9099%;\">1/5</td>\n<td style=\"width: 13.2137%;\">1/10</td>\n<td style=\"width: 13.2177%;\">1/50</td>\n<td style=\"width: 16.6388%;\">1/500</td>\n</tr>\n<tr>\n<td style=\"width: 30.9529%;\"><strong>Value in gp </strong></td>\n<td style=\"width: 11.9139%;\">5</td>\n<td style=\"width: 11.9099%;\">1</td>\n<td style=\"width: 13.2137%;\">1/2</td>\n<td style=\"width: 13.2177%;\">1/10</td>\n<td style=\"width: 16.6388%;\">1/100</td>\n</tr>\n<tr>\n<td style=\"width: 30.9529%;\"><strong>Value in ep </strong></td>\n<td style=\"width: 11.9139%;\">10</td>\n<td style=\"width: 11.9099%;\">2</td>\n<td style=\"width: 13.2137%;\">1</td>\n<td style=\"width: 13.2177%;\">1/5</td>\n<td style=\"width: 16.6388%;\">1/50</td>\n</tr>\n<tr>\n<td style=\"width: 30.9529%;\"><strong>Value in sp </strong></td>\n<td style=\"width: 11.9139%;\">50</td>\n<td style=\"width: 11.9099%;\">10</td>\n<td style=\"width: 13.2137%;\">5</td>\n<td style=\"width: 13.2177%;\">1</td>\n<td style=\"width: 16.6388%;\">1/10</td>\n</tr>\n<tr>\n<td style=\"width: 30.9529%;\"><strong>Value in cp </strong></td>\n<td style=\"width: 11.9139%;\">500</td>\n<td style=\"width: 11.9099%;\">100</td>\n<td style=\"width: 13.2137%;\">50</td>\n<td style=\"width: 13.2177%;\">10</td>\n<td style=\"width: 16.6388%;\">1</td>\n</tr>\n</tbody>\n</table>\n<p>See <a title=\"OSE SRD: Coin Conversion Rates\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Wealth#Coin_Conversion_Rates\">OSE SRD: Wealth: Coin Conversion Rates</a></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 0,
+      "max": 0
+    },
+    "weight": 1,
+    "cost": 0.1,
+    "containerId": "",
+    "treasure": true,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!tmIjR0SufKaQSpfB"
+}

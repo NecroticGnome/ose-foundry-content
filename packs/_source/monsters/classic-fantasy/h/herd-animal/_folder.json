@@ -1,0 +1,21 @@
+{
+  "color": "#389c23",
+  "name": "Herd Animal",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "nloYRN34cCJIGt9R",
+  "_id": "WVanrCvTNbh5cj1i",
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!WVanrCvTNbh5cj1i"
+}
