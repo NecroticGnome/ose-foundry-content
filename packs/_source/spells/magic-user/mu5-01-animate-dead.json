@@ -1,0 +1,37 @@
+{
+  "name": "MU5.01 Animate Dead",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "rbIZ5WAyPSSyXa1w",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell turns the bones or bodies of dead creatures into undead skeletons or zombies:</p>\n<ul>\n<li><strong>Obedient: </strong>They obey the caster’s commands.</li>\n<li><strong>Special abilities:</strong> They are unable to use any special abilities (including spell casting) that they possessed in life.</li>\n<li><strong>Duration:</strong> They remain animated until they are destroyed or until a dispel magic spell is cast upon them.</li>\n</ul>\n<p><strong>Number:</strong> The spell animates a number of Hit Dice of zombies or skeletons equal to the caster’s level:</p>\n<ul>\n<li><strong>Skeletons:</strong> Have AC 7 [12] and HD equal to those the creature had in life.</li>\n<li><strong>Zombies:</strong> Have AC 8 [11] and HD one greater than the creature had in life.</li>\n<li><strong>Classed characters:</strong> If a PC or NPC with levels in a class is reanimated by this spell, the levels are not counted as HD.<br>For example, the reanimated corpse of a 5th level fighter would have 2 HD (1 HD as a normal human, +1 for being reanimated as a zombie).</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 2400000,
+  "_key": "!items!rbIZ5WAyPSSyXa1w"
+}

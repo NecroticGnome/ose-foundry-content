@@ -1,0 +1,548 @@
+{
+  "name": "Dungeon Encounters Level 2",
+  "flags": {},
+  "img": "icons/svg/tower.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "RJYuwaKjQ1wmwgvh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beetle, Oil [[1d8]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.RJYuwaKjQ1wmwgvh"
+    },
+    {
+      "_id": "8N0lFIqQ6Jy2tMNk",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Berserker [[1d8]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.8N0lFIqQ6Jy2tMNk"
+    },
+    {
+      "_id": "NeDWm7mMghL3GeCF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cat, Mountain Lion [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.NeDWm7mMghL3GeCF"
+    },
+    {
+      "_id": "rfZPuxp2ZQcfq5Q9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elf [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.rfZPuxp2ZQcfq5Q9"
+    },
+    {
+      "_id": "AvtrJvog5DiK244L",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ghoul [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.AvtrJvog5DiK244L"
+    },
+    {
+      "_id": "TwiiI9F4K2nR6pz5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gnoll [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.TwiiI9F4K2nR6pz5"
+    },
+    {
+      "_id": "x0vvK0ZBbTdcjEXU",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grey Ooze (1)",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.x0vvK0ZBbTdcjEXU"
+    },
+    {
+      "_id": "dcNJ43gOJhACnXiJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hobgoblin [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.dcNJ43gOJhACnXiJ"
+    },
+    {
+      "_id": "BJYcIITbzb5KFWKF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lizard, Draco [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.BJYcIITbzb5KFWKF"
+    },
+    {
+      "_id": "P6lALn8PdkvUduin",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lizard Man [[2d4]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.P6lALn8PdkvUduin"
+    },
+    {
+      "_id": "VjTG0ffVtIBJ0Ezh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neanderthal [[1d10]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.VjTG0ffVtIBJ0Ezh"
+    },
+    {
+      "_id": "Mdnmd0PUGpTUyQ1S",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noble [[2d6]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.Mdnmd0PUGpTUyQ1S"
+    },
+    {
+      "_id": "gr8Ok3QY00T75oIs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pixie [[2d4]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.gr8Ok3QY00T75oIs"
+    },
+    {
+      "_id": "cbFJ2HwmoalxveJo",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Robber Fly [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.cbFJ2HwmoalxveJo"
+    },
+    {
+      "_id": "bY6jxV94PJilItys",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rock Baboon [[2d6]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.bY6jxV94PJilItys"
+    },
+    {
+      "_id": "0Zd1Y8bEhd5BG6jJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snake, Pit Viper [[1d8]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.0Zd1Y8bEhd5BG6jJ"
+    },
+    {
+      "_id": "AMCogYpFoUHmDYRo",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spider, Black Widow [[1d3]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.AMCogYpFoUHmDYRo"
+    },
+    {
+      "_id": "GQ73soeLeymf8Qto",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Troglodyte [[1d8]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.GQ73soeLeymf8Qto"
+    },
+    {
+      "_id": "XNU6ybpGzuldUKmI",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Veteran [[2d4]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.XNU6ybpGzuldUKmI"
+    },
+    {
+      "_id": "BCdUBbmGtT1CfgDS",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zombie [[2d4]]",
+      "name": "",
+      "_key": "!tables.results!IXbtfaW3ALid48Td.BCdUBbmGtT1CfgDS"
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "IXbtfaW3ALid48Td",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!IXbtfaW3ALid48Td"
+}

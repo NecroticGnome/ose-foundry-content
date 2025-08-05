@@ -1,0 +1,36 @@
+{
+  "name": "Climb sheer surfaces (CS)",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "OD28wQY2ozmSnHhs",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">A roll is required for each 100' to be climbed. If the roll fails, the thief falls at the halfway point, suffering falling damage.</span></p>\n<p><span style=\"color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">FoundryVTT Note:</strong>&nbsp;Each time a&nbsp; thief character is leveled, adjust the&nbsp;<strong style=\"box-sizing: border-box; user-select: text;\">Target</strong>&nbsp;value to match the successful result value; i.e. at 1<sup style=\"box-sizing: border-box; user-select: text; font-size: xx-small;\">st</sup>&nbsp;level, CS has &ldquo;87&rdquo;, therefore the Target value should be &ldquo;87&rdquo;.</span></p>\n<table style=\"height: 496px; width: 98.5222%; border-color: #000000; border-style: solid;\" border=\"1px\" cellpadding=\"8px\"><caption>Chance of Success</caption>\n<thead>\n<tr style=\"box-sizing: border-box; user-select: text; height: 34px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 34px; text-align: center;\" scope=\"col\"><strong style=\"box-sizing: border-box; user-select: text;\">Level</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 34px; text-align: center;\" scope=\"col\"><strong style=\"box-sizing: border-box; user-select: text;\">CS</strong></td>\n</tr>\n</thead>\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">1</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">87</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">2</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">88</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">3</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">89</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">4</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">90</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">5</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">91</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">6</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">92</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">7</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">93</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">8</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">94</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">9</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">95</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">10</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">96</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">11</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">97</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">12</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">98</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">13</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">99</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 33px;\">\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">14</td>\n<td style=\"box-sizing: border-box; user-select: text; padding: 8px; border: none; width: 50%; height: 33px; text-align: center;\">99</td>\n</tr>\n</tbody>\n</table>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Thief",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": null,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!OD28wQY2ozmSnHhs"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "MU5.12 Wall of Stone",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "ygJ4kXE2dk1vvI2L",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A wall of solid rock appears.</p>\n<ul>\n<li><strong>Size:</strong> The wall may be of whatever shape the caster desires and is of 1,000 cubic feet in volume. (For example, a 2' thick wall, 50' long and 10' high.)</li>\n<li><strong>Location: </strong>The wall must rest upon a solid surface and may not be evoked so that it appears where objects are.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 1200000,
+  "_key": "!items!ygJ4kXE2dk1vvI2L"
+}

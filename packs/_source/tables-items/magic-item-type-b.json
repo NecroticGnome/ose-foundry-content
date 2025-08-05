@@ -1,0 +1,236 @@
+{
+  "name": "Magic Item Type B",
+  "flags": {},
+  "img": "icons/containers/chest/chest-reinforced-box-brown.webp",
+  "description": "Magic Item Type (Basic Table)",
+  "results": [
+    {
+      "_id": "X87cb09hLiRK54BE",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-banded-blue.webp",
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour or Shield",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.X87cb09hLiRK54BE"
+    },
+    {
+      "_id": "HumJwbx0HMzflemz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/misc/admission-ticket-grey.webp",
+      "weight": 1,
+      "range": [
+        11,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miscellaneous Item",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.HumJwbx0HMzflemz"
+    },
+    {
+      "_id": "uLC5hXwdo2ihfgpr",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/laboratory/vial-orange.webp",
+      "weight": 1,
+      "range": [
+        16,
+        40
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.uLC5hXwdo2ihfgpr"
+    },
+    {
+      "_id": "Bfa8fdkn85dpT9mW",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-copper.webp",
+      "weight": 1,
+      "range": [
+        41,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.Bfa8fdkn85dpT9mW"
+    },
+    {
+      "_id": "ZSr0kaiTQ83eF9Rh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/staves/staff-nature-spiral.webp",
+      "weight": 1,
+      "range": [
+        46,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rod / Staff / Wand",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.ZSr0kaiTQ83eF9Rh"
+    },
+    {
+      "_id": "QJ2p6JaI8l7ZTjLt",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-brown.webp",
+      "weight": 1,
+      "range": [
+        51,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scroll or Map",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.QJ2p6JaI8l7ZTjLt"
+    },
+    {
+      "_id": "FkT6eD5dkLRHISzz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/greatsword-blue.webp",
+      "weight": 1,
+      "range": [
+        71,
+        90
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.FkT6eD5dkLRHISzz"
+    },
+    {
+      "_id": "4utCQ7UJfRD4Xdf6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/bows/bow-ornamental-carved-brown.webp",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapon",
+      "name": "",
+      "_key": "!tables.results!PLFQ9qAxtU2u0REW.4utCQ7UJfRD4Xdf6"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "PLFQ9qAxtU2u0REW",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!PLFQ9qAxtU2u0REW"
+}

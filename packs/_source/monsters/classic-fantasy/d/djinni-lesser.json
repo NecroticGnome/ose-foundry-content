@@ -1,0 +1,457 @@
+{
+  "_id": "Ln34b2XnHzm2BZAo",
+  "name": "Djinni (Lesser)",
+  "type": "monster",
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+  "items": [
+    {
+      "_id": "zUb2k9wLUuXti4aY",
+      "name": "Mundane damage immunity",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p><span style=\"color: #191813;\">Can only be harmed by magical attacks.</span></p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!Ln34b2XnHzm2BZAo.zUb2k9wLUuXti4aY"
+    },
+    {
+      "_id": "SH55cB1sV3Rh44LD",
+      "name": "Whirlwind",
+      "type": "weapon",
+      "sort": 600000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>5 rounds to transform (or change back). 70’ tall, 20’ wide at top, 10’ wide at base. Moves at 120’ (40’). [[/r 2d6]] damage to all in path. Creatures with less than 2HD swept aside (save vs death).</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "death",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "2d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!Ln34b2XnHzm2BZAo.SH55cB1sV3Rh44LD"
+    },
+    {
+      "_id": "i6yJCmHePBt8tTQ7",
+      "name": "Magic Powers",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Each can be used three times per day:</p>\n<p><strong>a. Whirlwind form</strong>: 5 rounds to transform (or change back). 70’ tall, 20’ wide at top, 10’ wide at base.</p>\n<p>Moves at 120’ (40’). 2d6 damage to all in path. Creatures with less than 2HD swept aside (save vs death).</p>\n<p><strong>b. Gaseous form</strong></p>\n<p><strong>c. Invisibility</strong></p>\n<p><strong>d. Illusion:</strong> Visual and audial. No concentration required. Remains until touched or dispelled.</p>\n<p><strong>e. Create food and drink</strong>: For 12 humans and mounts for one day.</p>\n<p><strong>f. Conjure metallic objects</strong>: Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).</p>\n<p><strong>g. Conjure soft goods / wooden objects</strong>: Up to 1,000 coins weight. Permanent.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!Ln34b2XnHzm2BZAo.i6yJCmHePBt8tTQ7"
+    },
+    {
+      "_id": "Fnz3flkp0M3CTfxv",
+      "name": "Carrying Capacity",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>6,000 coins without fatigue. Up to 12,000 coins for 3 turns walking / 1 turn flying. Must rest 1 turn afterwards.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!Ln34b2XnHzm2BZAo.Fnz3flkp0M3CTfxv"
+    },
+    {
+      "_id": "IjN4rULMktR3AwFO",
+      "name": "If Killed",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Returns to the plane of air.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!Ln34b2XnHzm2BZAo.IjN4rULMktR3AwFO"
+    },
+    {
+      "_id": "Wn6PIaUgn5IF8KFL",
+      "name": "Fists",
+      "type": "weapon",
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d4+1",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!Ln34b2XnHzm2BZAo.Wn6PIaUgn5IF8KFL"
+    }
+  ],
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866302355,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "7d8+1",
+      "value": 32,
+      "max": 32
+    },
+    "ac": {
+      "value": 5,
+      "mod": 0
+    },
+    "aac": {
+      "value": 14,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 12,
+      "bba": 7,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 4
+      },
+      "wand": {
+        "value": 5
+      },
+      "paralysis": {
+        "value": 6
+      },
+      "breath": {
+        "value": 5
+      },
+      "spell": {
+        "value": 8
+      }
+    },
+    "movement": {
+      "base": 90,
+      "encounter": 30
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "<p>Highly magical, free-willed, intelligent beings from the elemental plane of air. Tall humanoids wreathed in clouds.</p>",
+      "alignment": "Neutral",
+      "xp": "850",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1",
+        "w": "1"
+      },
+      "morale": "12",
+      "movement": "90’ (30’) / 240’ (80’) flying"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Djinni",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "negative": false,
+      "priority": 0,
+      "color": "#ffb638",
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "rotation": 0,
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "alpha": 1,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "folder": "9GFyEfB00XrME9tG",
+  "_key": "!actors!Ln34b2XnHzm2BZAo"
+}

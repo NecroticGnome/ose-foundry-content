@@ -1,0 +1,38 @@
+{
+  "name": "Arrow quiver",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/ammunition/arrows-war-white.webp",
+  "effects": [],
+  "_id": "vCumnwG7CdDOCwUf",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 20,
+      "max": 20
+    },
+    "weight": 0,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!vCumnwG7CdDOCwUf"
+}

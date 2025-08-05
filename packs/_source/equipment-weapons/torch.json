@@ -1,0 +1,54 @@
+{
+  "name": "Torch",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/sundries/lights/torch-black.webp",
+  "effects": [],
+  "_id": "YMJJnOYQzz1QU2Mm",
+  "system": {
+    "description": "<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Melee:&nbsp;</strong><span style=\"box-sizing: border-box; user-select: text; color: #191813;\">Close quarters weapon (5&rsquo; or less).</span></p>\n<hr />\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">FoundryVTT Note:</strong><span style=\"box-sizing: border-box; user-select: text; color: #191813;\">&nbsp;This is a zero cost/weight version of the torch intended to be kept as a weapon for making attacks. Use the standard&nbsp; non-weapon torch item to track your torch inventory.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": null,
+    "cost": null,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135601,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!YMJJnOYQzz1QU2Mm"
+}

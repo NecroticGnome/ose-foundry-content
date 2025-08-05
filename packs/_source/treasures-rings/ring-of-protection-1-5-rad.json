@@ -1,0 +1,38 @@
+{
+  "name": "Ring of Protection +1 (5' rad)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "AT2InXj8kbgk8eBS",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Grants a measure of protection from harm:</p>\n<ul>\n<li><strong>Armour Class:</strong> A +1 AC bonus.</li>\n<li><strong>Saving throws:</strong> A +1 bonus to all saves.</li>\n</ul>\n<p><span id=\"Ring_of_Protection,_5′_Radius\"></span><strong><span id=\"Ring_of_Protection.2C_5.E2.80.99_Radius\" class=\"mw-headline\">Ring of Protection, 5′ Radius:</span></strong></p>\n<p>Allies within 5′ of the wearer also benefit from the ring&rsquo;s protective power. For example, two characters fighting beside the wearer of the ring would gain the protective benefit.&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!AT2InXj8kbgk8eBS"
+}

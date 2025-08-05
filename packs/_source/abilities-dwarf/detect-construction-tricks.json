@@ -1,0 +1,36 @@
+{
+  "name": "Detect Construction Tricks",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "E7D4JsNKxnFA6j7S",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">As expert miners, dwarves have a 2-in-6 chance of being able to detect new construction, sliding walls, or sloping passages when searching.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Dwarf",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!E7D4JsNKxnFA6j7S"
+}

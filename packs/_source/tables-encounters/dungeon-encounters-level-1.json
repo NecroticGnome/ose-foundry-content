@@ -1,0 +1,548 @@
+{
+  "name": "Dungeon Encounters Level 1",
+  "flags": {},
+  "img": "icons/svg/tower.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "RJYuwaKjQ1wmwgvh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acolyte [[1d8]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.RJYuwaKjQ1wmwgvh"
+    },
+    {
+      "_id": "8N0lFIqQ6Jy2tMNk",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bandit [[1d8]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.8N0lFIqQ6Jy2tMNk"
+    },
+    {
+      "_id": "NeDWm7mMghL3GeCF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beetle, Fire [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.NeDWm7mMghL3GeCF"
+    },
+    {
+      "_id": "rfZPuxp2ZQcfq5Q9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dwarf [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.rfZPuxp2ZQcfq5Q9"
+    },
+    {
+      "_id": "AvtrJvog5DiK244L",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gnome [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.AvtrJvog5DiK244L"
+    },
+    {
+      "_id": "TwiiI9F4K2nR6pz5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Goblin [[2d4]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.TwiiI9F4K2nR6pz5"
+    },
+    {
+      "_id": "x0vvK0ZBbTdcjEXU",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Green Slime [[2d4]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.x0vvK0ZBbTdcjEXU"
+    },
+    {
+      "_id": "dcNJ43gOJhACnXiJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Halfling [[3d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.dcNJ43gOJhACnXiJ"
+    },
+    {
+      "_id": "BJYcIITbzb5KFWKF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Killer Bee [[3d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.BJYcIITbzb5KFWKF"
+    },
+    {
+      "_id": "P6lALn8PdkvUduin",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kobold [[4d4]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.P6lALn8PdkvUduin"
+    },
+    {
+      "_id": "VjTG0ffVtIBJ0Ezh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lizard, Gecko [[1d3]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.VjTG0ffVtIBJ0Ezh"
+    },
+    {
+      "_id": "Mdnmd0PUGpTUyQ1S",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orc [[2d4]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.Mdnmd0PUGpTUyQ1S"
+    },
+    {
+      "_id": "gr8Ok3QY00T75oIs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrew, Giant [[1d10]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.gr8Ok3QY00T75oIs"
+    },
+    {
+      "_id": "cbFJ2HwmoalxveJo",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skeleton [[3d4]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.cbFJ2HwmoalxveJo"
+    },
+    {
+      "_id": "bY6jxV94PJilItys",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snake, Cobra [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.bY6jxV94PJilItys"
+    },
+    {
+      "_id": "0Zd1Y8bEhd5BG6jJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spider, Crab [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.0Zd1Y8bEhd5BG6jJ"
+    },
+    {
+      "_id": "AMCogYpFoUHmDYRo",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sprite [[3d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.AMCogYpFoUHmDYRo"
+    },
+    {
+      "_id": "GQ73soeLeymf8Qto",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stirge [[1d10]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.GQ73soeLeymf8Qto"
+    },
+    {
+      "_id": "XNU6ybpGzuldUKmI",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trader [[1d8]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.XNU6ybpGzuldUKmI"
+    },
+    {
+      "_id": "BCdUBbmGtT1CfgDS",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wolf [[2d6]]",
+      "name": "",
+      "_key": "!tables.results!yOzW3PcZAKJaAnBX.BCdUBbmGtT1CfgDS"
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "yOzW3PcZAKJaAnBX",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!yOzW3PcZAKJaAnBX"
+}

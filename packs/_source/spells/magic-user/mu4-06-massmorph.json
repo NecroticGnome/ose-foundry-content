@@ -1,0 +1,37 @@
+{
+  "name": "MU4.06 Massmorph",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "EWBsxmHqv9BgprIk",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A force of human-sized creatures within a 240' diameter area is veiled by illusion to appear as a copse of trees or orchard.</p>\n<ul>\n<li><strong>Moving through:</strong> Once the illusion is in place, even creatures moving among the veiled subjects are deceived.</li>\n<li><strong>Subjects who leave the affected area:</strong> Cease to be veiled.</li>\n<li><strong>Dismissing:</strong> The caster may dismiss the illusion in its entirety at any time.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 3200000,
+  "_key": "!items!EWBsxmHqv9BgprIk"
+}

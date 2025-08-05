@@ -1,0 +1,37 @@
+{
+  "name": "MU1.06 Magic Missile",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "YOkRHRObEBkkFiPM",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell conjures a glowing dart of energy that the caster may choose to shoot at a visible target within range.</p>\n<p><strong>Hit:</strong> The missile hits unerringly (no attack roll or saving throw is required).</p>\n<p><strong>Damage:</strong> The missile inflicts 1d6+1 damage.</p>\n<p><strong>Higher level casters:</strong> May conjure more missiles: two additional missiles are conjured per five experience levels the caster has gained (i.e. three missiles at 6th–10th level, five missiles at 11th–15th level, etc.). Multiple missiles may be directed at a single target.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "1 turn",
+    "range": "150'",
+    "roll": "1d6+1",
+    "memorized": 0,
+    "cast": -1
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 6800000,
+  "_key": "!items!YOkRHRObEBkkFiPM"
+}

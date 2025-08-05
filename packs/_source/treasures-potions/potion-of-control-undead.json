@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Control Undead",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "5VCQce7v1UBchvhe",
+  "system": {
+    "description": "<p>A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.</p>\n<ul>\n<li><strong>Concentration:</strong> Exercising control requires concentration.</li>\n<li><strong>Visual range:</strong> The character can only control creatures that they can see.</li>\n<li><strong>Suicidal commands:</strong> Controlled creatures will resist commands that are deadly to themselves.</li>\n</ul>\n<h3><span id=\"Control_Undead\" class=\"mw-headline\">Control Undead</span></h3>\n<ul>\n<li><strong>Affects:</strong> Up to 3d6 Hit Dice of undead.</li>\n<li><strong>When the potion&rsquo;s effect ends:</strong> Affected undead have a hostile reaction.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456786002,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5VCQce7v1UBchvhe"
+}

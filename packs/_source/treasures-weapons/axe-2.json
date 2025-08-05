@@ -1,0 +1,54 @@
+{
+  "name": "Axe +2",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/axes/axe-battle-blackened.webp",
+  "effects": [],
+  "_id": "Mb407U0H76qzii6R",
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:&nbsp;</strong>Close quarters weapon (5′ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Missile:</strong> Thrown or fired weapon (greater than 5′ distance).The distances for short (+1 to hit), medium, and long (&ndash;1 to hit) range are shown in parentheses.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "pattern": "transparent",
+    "damage": "1d6",
+    "bonus": 2,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458202515,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Mb407U0H76qzii6R"
+}

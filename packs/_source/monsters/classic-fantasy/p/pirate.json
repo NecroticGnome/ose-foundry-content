@@ -1,0 +1,542 @@
+{
+  "_id": "3PasdwWUjSCK6tgH",
+  "name": "Pirate",
+  "type": "monster",
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+  "items": [
+    {
+      "_id": "TMOzatFKzO72TLbV",
+      "name": "Ships and crew",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Depends where encountered. Rivers or lakes:[[/r 1d8]] river boats ([[/r 1d2 * 10]] pirates each); coastal waters: 1d6 small galleys ([[/r 1d3+1 * 10]] pirates each); any: 1d4 longships ([[/r 1d3+2 * 10]] pirates each); ocean: [[/r 1d3]] small warships ([[/r 1d5+3 * 10]] pirates each). (See Classic Fantasy: Genre Rules for details on ships.)</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.TMOzatFKzO72TLbV"
+    },
+    {
+      "_id": "JGkfBuyf87JatRss",
+      "name": "Arms",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "50% of group have: leather armour, sword; 35% have: leather armour, sword, crossbow; 15% have: chainmail, sword.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.JGkfBuyf87JatRss"
+    },
+    {
+      "_id": "69xssUrwOQgjSb96",
+      "name": "Leaders",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "For every 30 pirates, there is a 4th level fighter. For every 50 pirates, and for each ship, there is a 5th level fighter. For every 100 pirates, and per fleet, there is an 8th level fighter.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.69xssUrwOQgjSb96"
+    },
+    {
+      "_id": "9clTyyguxEDEYGHe",
+      "name": "Fleet commander",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Fleets of 300 or more pirates are led by a pirate lord (11th level fighter). 75% chance of a magic-user (level [[/r 1d2+8]]).</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.9clTyyguxEDEYGHe"
+    },
+    {
+      "_id": "ydukitGKCrk6IJBs",
+      "name": "Treacherous",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Will attack other pirates, if they can profit from it.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.ydukitGKCrk6IJBs"
+    },
+    {
+      "_id": "0gIBMPit5fShc1jX",
+      "name": "Prisoners",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>25% chance of [[/r 1d3]] prisoners to be ransomed.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.0gIBMPit5fShc1jX"
+    },
+    {
+      "_id": "wNcIWvmMNJ2rb1IG",
+      "name": "Treasure",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Divided between vessels. Instead of carrying with them, may have a map to where it is buried.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.wNcIWvmMNJ2rb1IG"
+    },
+    {
+      "_id": "w6rff1ejgdKXAqyI",
+      "name": "Havens",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Lawless, fortified, coastal towns may act as a haven for pirates.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.w6rff1ejgdKXAqyI"
+    },
+    {
+      "_id": "zU2u2Lg9648hV5o1",
+      "name": "Shortsword",
+      "type": "weapon",
+      "sort": 1400000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Melee</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 30,
+        "cost": 7,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!3PasdwWUjSCK6tgH.zU2u2Lg9648hV5o1"
+    }
+  ],
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866302355,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "1d8",
+      "value": 4,
+      "max": 4
+    },
+    "ac": {
+      "value": 5,
+      "mod": 0
+    },
+    "aac": {
+      "value": 14,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 12
+      },
+      "wand": {
+        "value": 13
+      },
+      "paralysis": {
+        "value": 14
+      },
+      "breath": {
+        "value": 15
+      },
+      "spell": {
+        "value": 16
+      }
+    },
+    "movement": {
+      "base": 120,
+      "encounter": 40,
+      "value": ""
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "Sailors who make a living by raiding coastal settlements, robbing other ships, and illegal slaving. Typically ply the open seas. Renowned for their ruthless and evil ways.",
+      "alignment": "Chaotic",
+      "xp": "10",
+      "specialAbilities": "0",
+      "treasure": {
+        "table": "@UUID[Compendium.classicfantasycompendium.treasures.RollTable.4hd3r9dGyNWZJN4N]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "see below"
+      },
+      "morale": "7",
+      "movement": ""
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Pirate",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "negative": false,
+      "priority": 0,
+      "color": "#ffb638",
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "rotation": 0,
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "alpha": 1,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "folder": "yMMvXvQSe2Tcp71h",
+  "_key": "!actors!3PasdwWUjSCK6tgH"
+}

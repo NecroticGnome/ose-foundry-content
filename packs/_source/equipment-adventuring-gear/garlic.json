@@ -1,0 +1,38 @@
+{
+  "_id": "VnJzTjTBVeQz6x8o",
+  "name": "Garlic",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/vegetable/garlic-white.webp",
+  "effects": [],
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456254650,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!VnJzTjTBVeQz6x8o"
+}

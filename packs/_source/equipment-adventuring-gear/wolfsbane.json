@@ -1,0 +1,38 @@
+{
+  "_id": "IGQmvVB13WY5QKSY",
+  "name": "Wolfsbane",
+  "type": "item",
+  "flags": {},
+  "img": "icons/commodities/flowers/lily-bloom-purple.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Per bunch.</p>\n<p>This herb can be used to repel lycanthropes.</p>\n<p>The creature must be hit with the herb in melee combat.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 10,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!IGQmvVB13WY5QKSY"
+}

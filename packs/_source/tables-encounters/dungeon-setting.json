@@ -1,0 +1,184 @@
+{
+  "name": "Dungeon Setting",
+  "flags": {},
+  "img": "icons/svg/castle.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "N1lpVMCK6WZ0ODEV",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/wilderness/tomb-entrance.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crypt or tomb complex",
+      "name": "",
+      "_key": "!tables.results!cCUBfCtP09FI5qFZ.N1lpVMCK6WZ0ODEV"
+    },
+    {
+      "_id": "teFk9IAh4y3Ea4eN",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/wilderness/cave-entrance-mountain.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Natural caverns",
+      "name": "",
+      "_key": "!tables.results!cCUBfCtP09FI5qFZ.teFk9IAh4y3Ea4eN"
+    },
+    {
+      "_id": "bS30KUrhWGhXxgBm",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/settlement/house-two-stories.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settlement (e.g. stronghold, city)",
+      "name": "",
+      "_key": "!tables.results!cCUBfCtP09FI5qFZ.bS30KUrhWGhXxgBm"
+    },
+    {
+      "_id": "5XaSOZRCezbvUMqr",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/wilderness/mine-entrance-02.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subterranean delving (e.g. mine)",
+      "name": "",
+      "_key": "!tables.results!cCUBfCtP09FI5qFZ.5XaSOZRCezbvUMqr"
+    },
+    {
+      "_id": "WrOGj9f6ANdLQEZS",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/wilderness/altar-hidden.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temple",
+      "name": "",
+      "_key": "!tables.results!cCUBfCtP09FI5qFZ.WrOGj9f6ANdLQEZS"
+    },
+    {
+      "_id": "JgsUlRjQkzZ8NyeV",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/settlement/watchtower-cliff.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tower or fortification",
+      "name": "",
+      "_key": "!tables.results!cCUBfCtP09FI5qFZ.JgsUlRjQkzZ8NyeV"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "cCUBfCtP09FI5qFZ",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!cCUBfCtP09FI5qFZ"
+}

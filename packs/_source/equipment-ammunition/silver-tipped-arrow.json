@@ -1,0 +1,38 @@
+{
+  "name": "Silver tipped arrow",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/ammunition/arrow-head-war.webp",
+  "effects": [],
+  "_id": "vn3q0Aab1A2l9nrJ",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!vn3q0Aab1A2l9nrJ"
+}

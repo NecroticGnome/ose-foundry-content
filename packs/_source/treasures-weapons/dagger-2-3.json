@@ -1,0 +1,54 @@
+{
+  "name": "Dagger +2 (+3)",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/daggers/dagger-double-engraved-black.webp",
+  "effects": [],
+  "_id": "MxxMtwJhzRlsWCTR",
+  "system": {
+    "description": "<p><strong>Melee: </strong>Close quarters weapon (5′ or less).</p>\n<p><strong>Missile:</strong> Thrown or fired weapon (greater than 5′ distance).The distances for short (+1 to hit), medium, and long (&ndash;1 to hit) range are shown in parentheses.</p>\n<p><strong>Spec Bonus:</strong> +3 vs orcs, goblins, and kobolds&nbsp;</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 10,
+    "cost": 3,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 2,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458202526,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!MxxMtwJhzRlsWCTR"
+}

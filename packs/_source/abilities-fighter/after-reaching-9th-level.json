@@ -1,0 +1,36 @@
+{
+  "name": "After Reaching 9th Level",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "qWn6CLEb2BvMkpMn",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">A fighter may be granted a title such as Baron or Baroness. The land under the fighter&rsquo;s control is then known as a Barony.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Fighter, Level 9",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!qWn6CLEb2BvMkpMn"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Efreeti Bottle",
+  "type": "item",
+  "flags": {},
+  "img": "icons/containers/kitchenware/vase-clay-painted-blue-gold.webp",
+  "effects": [],
+  "_id": "ktsrZd2HcL1uMj5t",
+  "system": {
+    "description": "<p>A 3′ tall, weighty jug with a sealed stopper. Breaking the seal and removing the stopper releases a trapped efreeti (see <a title=\"Efreeti (Lesser)\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Efreeti_(Lesser)\">Efreeti (Lesser)</a>), who will serve the character.</p>\n<ul>\n<li><strong>Frequency of service:</strong> The efreeti will serve the one who freed it (and only that character) once per day.</li>\n<li><strong>Duration:</strong> After 101 days, its service ends. The creature then returns to its home&mdash;the legendary City of Brass.</li>\n<li><strong>If the efreeti is killed:</strong> Its service ends.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456582324,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ktsrZd2HcL1uMj5t"
+}

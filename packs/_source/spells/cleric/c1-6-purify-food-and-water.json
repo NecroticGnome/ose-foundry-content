@@ -1,0 +1,37 @@
+{
+  "name": "C1.6 Purify Food and Water",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "59z8lMwrVGKIpmM0",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell makes spoiled, rotten, poisonous, or otherwise contaminated food and water pure and suitable for eating and drinking. One of the following may be affected:</p>\n<ul>\n<li><strong>Drink:</strong> 6 quarts.</li>\n<li><strong>Rations:</strong> One trail ration (iron or standard).</li>\n<li><strong>Unpreserved food:</strong> A quantity sufficient for 12 human-sized beings.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Cleric",
+    "duration": "Permanent",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 3200000,
+  "_key": "!items!59z8lMwrVGKIpmM0"
+}

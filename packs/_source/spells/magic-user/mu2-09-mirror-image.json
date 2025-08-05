@@ -1,0 +1,37 @@
+{
+  "name": "MU2.09 Mirror Image",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "N6DU6GybuF1ZSTuM",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>[[/r 1d4]] illusory duplicates of the caster appear.</p>\n<ul>\n<li><strong>Behaviour:</strong> The mirror images look and behave exactly as the caster.</li>\n<li><strong>Attacks on the caster:</strong> Destroy one of the mirror images (even if the attack misses).</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "6 turns",
+    "range": "The caster",
+    "roll": "1d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 5300000,
+  "_key": "!items!N6DU6GybuF1ZSTuM"
+}

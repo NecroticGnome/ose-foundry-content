@@ -1,0 +1,240 @@
+{
+  "name": "Treasure Type H",
+  "flags": {
+    "ose": {
+      "treasure": true
+    }
+  },
+  "description": "These treasure types indicate the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the monsters’ lair.\n\nSmall lairs: Monster listings note the number of individuals found in a lair. If the number rolled is below average and the lair encounter size is at least 1d4, the amount of treasure in the hoard may be reduced accordingly.",
+  "results": [
+    {
+      "_id": "Fc2zpNP7PH10IBAr",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[3d8 * 1000]] cp.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.Fc2zpNP7PH10IBAr"
+    },
+    {
+      "_id": "8sPqgrCY4CQfiyHQ",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100 * 1000]] sp.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.8sPqgrCY4CQfiyHQ"
+    },
+    {
+      "_id": "8y6CvYqyQXoxSaEj",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4 * 10000]] ep.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.8y6CvYqyQXoxSaEj"
+    },
+    {
+      "_id": "VSyqUi1IPQJkepvA",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 35,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d6 * 10000]] gp.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.VSyqUi1IPQJkepvA"
+    },
+    {
+      "_id": "vzVpKDywa3oP2BPW",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 25,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[5d4 * 1000]] pp.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.vzVpKDywa3oP2BPW"
+    },
+    {
+      "_id": "uTcVxYaPKSSbOqAX",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]] gems.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.uTcVxYaPKSSbOqAX"
+    },
+    {
+      "_id": "a19JbWUY9oMipeMK",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 50,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4 * 10]] pieces of jewellery.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.a19JbWUY9oMipeMK"
+    },
+    {
+      "_id": "hzid3UADZc02ohPq",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 30,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4 magic items, plus 1 potion, plus 1 scroll.",
+      "name": "",
+      "_key": "!tables.results!wRHjD8Kj7kmZn2ba.hzid3UADZc02ohPq"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "wRHjD8Kj7kmZn2ba",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!wRHjD8Kj7kmZn2ba"
+}

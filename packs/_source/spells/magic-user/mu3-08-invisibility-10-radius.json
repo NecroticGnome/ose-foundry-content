@@ -1,0 +1,37 @@
+{
+  "name": "MU3.08 Invisibility 10′ Radius",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "RtRdfuPPTNe8coNs",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A selected creature and all creatures within 10&prime; of it become invisible:</p>\n<ul>\n<li><strong>Area:</strong> The 10&prime; radius area of the spell&rsquo;s effect moves with the chosen creature.</li>\n<li><strong>Exiting the area:</strong> Subjects that move more than 10&prime; away from the chosen creature become visible.</li>\n<li><strong>Entering the area:</strong> Creatures that move into the area after the spell is cast do not become invisible.</li>\n<li><strong>Gear:</strong> Any gear a subject is carrying is also rendered invisible. Items dropped or put down by an invisible creature become visible. Carried light sources become invisible but the emitted light does not.</li>\n<li><strong>Breaking the invisibility:</strong> If a subject attacks or casts a spell, the invisibility is broken for that subject.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "Permanent (but may be broken, see below)",
+    "range": "120′",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4200000,
+  "_key": "!items!RtRdfuPPTNe8coNs"
+}

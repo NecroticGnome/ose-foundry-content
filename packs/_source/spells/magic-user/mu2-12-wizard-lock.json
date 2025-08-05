@@ -1,0 +1,37 @@
+{
+  "name": "MU2.12 Wizard Lock",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "HdJbBBtAlvgv1TEL",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A <em>wizard lock</em> spell magically locks a door, gate, similar portal, or any item that has a lock.</p>\n<p><strong>Bypassing:</strong> The magical lock is permanent but may be bypassed as follows:</p>\n<ul>\n<li><strong>The caster:</strong> Can freely pass their own wizard lock.</li>\n<li><strong>A <em>knock</em> spell:</strong> Allows passage.</li>\n<li><strong>Higher level casters:</strong> Any magic-using character who is at least 3 levels higher than the caster of the wizard lock may pass through unimpeded.</li>\n</ul>\n<p><strong>Temporary:</strong> Bypassing does not destroy a wizard lock.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "10'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 5000000,
+  "_key": "!items!HdJbBBtAlvgv1TEL"
+}

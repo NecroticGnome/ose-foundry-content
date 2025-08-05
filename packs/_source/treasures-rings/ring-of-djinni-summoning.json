@@ -1,0 +1,38 @@
+{
+  "name": "Ring of Djinni Summoning",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "DAxrArXRYu3Fr1Cc",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This ring grants the power to summon a <a title=\"Djinni (Lesser)\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Djinni_(Lesser)\">djinni</a>.</p>\n<ul>\n<li><strong>Duration of service:</strong> The djinni will serve the character who summoned it for up to 24 hours.</li>\n<li><strong>Commands:</strong> The djinni only obeys the one who summoned it&mdash;another character who takes the ring has no power over the djinni.</li>\n<li><strong>Usage frequency:</strong> The ring may be used up to once per day.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!DAxrArXRYu3Fr1Cc"
+}

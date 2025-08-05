@@ -1,0 +1,38 @@
+{
+  "_id": "6VLgwtvKStUa3xTS",
+  "name": "Rope",
+  "type": "item",
+  "flags": {},
+  "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Can hold the weight of approximately three human-sized beings.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 50,
+      "max": 50
+    },
+    "weight": null,
+    "cost": 1,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!6VLgwtvKStUa3xTS"
+}

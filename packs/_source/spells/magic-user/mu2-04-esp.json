@@ -1,0 +1,37 @@
+{
+  "name": "MU2.04 ESP",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "VwanNeltxMdfp4oh",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell grants the caster the ability to perceive and understand the thoughts of other living creatures.</p>\n<ul>\n<li><strong>Focus for 1 turn:</strong> To pick up thoughts, the caster must focus their concentration in one direction for one turn.</li>\n<li><strong>After this turn:</strong> The thoughts of all creatures within range in that direction can be perceived.</li>\n<li><strong>Multiple creatures:</strong> If multiple creatures are within the range in the direction being focused on, their thoughts mingle into a confusing jumble. The caster must spend an additional turn to sort out one creature&rsquo;s thoughts.</li>\n<li><strong>Meaning:</strong> The caster understands the meaning of all thoughts even if they do not share the creature&rsquo;s language.</li>\n<li><strong>Obstructions: </strong>The ability to perceive thoughts is obstructed by a thin layer of lead or by rock of 2' thick or greater.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 5800000,
+  "_key": "!items!VwanNeltxMdfp4oh"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Levitation",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "bs7xtDuPXQxtnNWH",
+  "system": {
+    "description": "<p>The character gains the ability to move up and down through the air at will.</p>\n<p>&nbsp;</p>\n<ul>\n<li><strong>Vertical:</strong> The character mentally directs vertical movement at up to 60′ per round.</li>\n<li><strong>Horizontal:</strong> The character can push against solid objects to move laterally.</li>\n<li><strong>Weight:</strong> A normal amount of weight can be carried while levitating.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456854361,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bs7xtDuPXQxtnNWH"
+}

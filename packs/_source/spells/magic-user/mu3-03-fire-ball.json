@@ -1,0 +1,37 @@
+{
+  "name": "MU3.03 Fire Ball",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "h0wyDTlP6AVoSJmL",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Flame streaks towards a point within range and detonates in a 20′ radius sphere.</p>\n<p><strong>Damage:</strong> Creatures caught in the<em> fire ball</em> suffer 1d6 damage per level of the caster, with a successful <strong>save versus spells</strong> indicating half damage.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "Instant",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4700000,
+  "_key": "!items!h0wyDTlP6AVoSJmL"
+}

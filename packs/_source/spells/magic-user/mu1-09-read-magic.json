@@ -1,0 +1,37 @@
+{
+  "name": "MU1.09 Read Magic",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "521JLTdFYGMuEyuu",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>By means of <em>read magic</em>, the caster can decipher magical inscriptions or runes, as follows:</p>\n<ul>\n<li><strong>Scrolls:</strong> The magical script of a scroll of arcane spells can be understood.The caster is then able to activate the scroll at any time in the future.</li>\n<li><strong>Spell books:</strong> A spell book written by another arcane spell caster can be deciphered.</li>\n<li><strong>Inscriptions:</strong> Runes or magical words inscribed on an object or surface can be understood.</li>\n<li><strong>Reading again:</strong> Once the caster has read a magical inscription using <em>read magic,</em> is thereafter able to read that particular writing without recourse to the use of this spell.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "1 turn",
+    "range": "The caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 6500000,
+  "_key": "!items!521JLTdFYGMuEyuu"
+}

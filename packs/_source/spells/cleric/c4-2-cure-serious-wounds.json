@@ -1,0 +1,37 @@
+{
+  "name": "C4.2 Cure Serious Wounds",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "sozTS5lWsMyevwjU",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster&rsquo;s touch heals 2d6+2 hit points of damage in one living subject. This cannot grant more hit points than the subject&rsquo;s normal maximum.</p>\n<h2>Reversed</h2>\n<p>See <strong>Cause Serious</strong> <strong>Wounds</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "Instant",
+    "range": "Touch",
+    "roll": "2d6+2",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 900000,
+  "_key": "!items!sozTS5lWsMyevwjU"
+}

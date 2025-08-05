@@ -1,0 +1,36 @@
+{
+  "name": "Hiding in Woods or Undergrowth",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "hifOr2JMS80hpmjs",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Halflings have an uncanny ability to disappear from sight:</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813;\">\n<li style=\"box-sizing: border-box; user-select: text;\">In woods or undergrowth, a halfling can hide with a 90% chance of success. [[/r 1d100 # 90% Chance to hide in woods or undergrowth]]</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Halfling",
+    "roll": "1d100",
+    "rollType": "below",
+    "rollTarget": 90,
+    "blindroll": true
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!hifOr2JMS80hpmjs"
+}

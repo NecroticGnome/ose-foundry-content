@@ -1,0 +1,36 @@
+{
+  "name": "Hiding in Dungeons",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "2IQru0PF1zJ0rxcf",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Halflings have an uncanny ability to disappear from sight:</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813;\">\n<li style=\"box-sizing: border-box; user-select: text;\">In dungeons, a halfling can hide in shadows or behind other forms of cover. The chance of success is 2-in-6. Hiding requires the halfling to be motionless.&nbsp; [[/r 1d6 # 2-in-6 to hide in shadows or behind cover in dungeons]]</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Halfling",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": true
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!2IQru0PF1zJ0rxcf"
+}

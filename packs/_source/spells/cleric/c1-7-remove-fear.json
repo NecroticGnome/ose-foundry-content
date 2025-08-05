@@ -1,0 +1,37 @@
+{
+  "name": "C1.7 Remove Fear",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "Kn5Z7KsoXUwu953Y",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The creature touched is calmed and purged of fear. Magically induced fear may be dispelled, but this requires the subject to make a <strong>saving throw versus spells</strong> .The save is modified by +1 per level of the caster.</p>\n<h2>Reversed</h2>\n<p>See <strong>Cause Fear</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Cleric",
+    "duration": "2 turns",
+    "range": "The caster or a creature touched",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 3100000,
+  "_key": "!items!Kn5Z7KsoXUwu953Y"
+}

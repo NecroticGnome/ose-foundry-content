@@ -1,0 +1,37 @@
+{
+  "name": "C4.4 Protection from Evil 10′ radius",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "xqUd74mmwoFLtGTQ",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell wards the caster and all allies within 10&prime; from attacks by creatures of another alignment, as follows:</p>\n<ul>\n<li><strong>Bonuses: </strong>Those warded gain a +1 bonus to saving throws against attacks or special abilities of affected creatures.</li>\n<li><strong>Affected creatures&rsquo; attacks:</strong> Against those warded are penalised by -1.</li>\n<li><strong>Enchanted, constructed, or summoned creatures: </strong>The spell additionally prevents such creatures from making melee attacks against those warded, though they may still make ranged attacks. If any of the warded party engages such a creature in melee, this protection is broken (those warded still gain the save and attack bonuses mentioned above).</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "12 turns",
+    "range": "10′ around the caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 600000,
+  "_key": "!items!xqUd74mmwoFLtGTQ"
+}

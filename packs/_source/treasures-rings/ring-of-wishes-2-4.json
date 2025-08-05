@@ -1,0 +1,38 @@
+{
+  "name": "Ring of Wishes, 2-4",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "APH03JyNplFnl7Kl",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Grants the wearer&rsquo;s wishes (see <a title=\"Magic Items (General)\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)#Wishes\">Wishes</a>).</p>\n<ul>\n<li><strong>Charges:</strong> The number of wishes granted is noted in the <em><strong>Rings</strong></em> table. Once all wishes have been used, the ring&rsquo;s magic is spent.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!APH03JyNplFnl7Kl"
+}

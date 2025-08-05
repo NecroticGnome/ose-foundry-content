@@ -1,0 +1,37 @@
+{
+  "name": "C4.1 Create Water",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "q2Goxz3LsrlAfLKT",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell causes a magical fount to spring forth from the ground or a wall.</p>\n<p><strong>Volume: </strong>The fount produces approximately 50 gallons of water—enough to sustain twelve humans and twelve mounts for one day.</p>\n<p><strong>Higher level casters: </strong>If the caster is higher than 8th level, water sufficient for an additional twelve humans and mounts is produced for each level beyond 8th.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "Permanent",
+    "range": "Touch",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 1000000,
+  "_key": "!items!q2Goxz3LsrlAfLKT"
+}

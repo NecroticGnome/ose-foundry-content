@@ -1,0 +1,38 @@
+{
+  "name": "Wand of Illusion",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/wands/wand-gem-purple.webp",
+  "effects": [],
+  "_id": "hZVg24kfduhBYciH",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Expending a charge, an illusion of the character&rsquo;s choosing manifests. This works in the same way as the magic-user spell <a title=\"Phantasmal Force\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Phantasmal_Force\">Phantasmal Force</a>, except:</p>\n<ul>\n<li><strong>Concentration:</strong> Is required to maintain the illusion. The wielder of the wand may move at up to half normal movement rate while concentrating. Concentration is broken if the wielder attacks, casts a spell, or is successfully attacked (damaged, targeted by a malicious spell, etc.).</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!hZVg24kfduhBYciH"
+}

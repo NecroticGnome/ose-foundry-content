@@ -1,0 +1,36 @@
+{
+  "name": "Combat",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "Nn9yUjDWVyX7KSWN",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Clerics can use all types of armour. Strict holy doctrine prevents clerics&rsquo; use of weapons that have a sharp, cutting edge or stabbing point. They may use the following weapons: club, mace, sling, staff, warhammer.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Cleric",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!Nn9yUjDWVyX7KSWN"
+}

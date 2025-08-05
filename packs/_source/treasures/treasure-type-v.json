@@ -1,0 +1,214 @@
+{
+  "name": "Treasure Type V",
+  "flags": {
+    "ose": {
+      "treasure": true
+    }
+  },
+  "description": "Intelligent monsters: The group carries this much treasure between them.\n\nUnintelligent monsters: The treasure is loot from the bodies of the monsters’ victims.",
+  "results": [
+    {
+      "_id": "dF6pZQxT7x5avGuV",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]] sp.",
+      "name": "",
+      "_key": "!tables.results!wxMOZR3vhARVkN3Y.dF6pZQxT7x5avGuV"
+    },
+    {
+      "_id": "xTSCIZEksBQtCByl",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 5,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]] ep.",
+      "name": "",
+      "_key": "!tables.results!wxMOZR3vhARVkN3Y.xTSCIZEksBQtCByl"
+    },
+    {
+      "_id": "D867gFrcUfYBkwf4",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]] gp.",
+      "name": "",
+      "_key": "!tables.results!wxMOZR3vhARVkN3Y.D867gFrcUfYBkwf4"
+    },
+    {
+      "_id": "7HbmAIerffykyLur",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 5,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d100]] pp.",
+      "name": "",
+      "_key": "!tables.results!wxMOZR3vhARVkN3Y.7HbmAIerffykyLur"
+    },
+    {
+      "_id": "0Yx4TyMRfJpPc6Mx",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4]] gems.",
+      "name": "",
+      "_key": "!tables.results!wxMOZR3vhARVkN3Y.0Yx4TyMRfJpPc6Mx"
+    },
+    {
+      "_id": "i8av5H8B4p7eW4hi",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 10,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d4]] pieces of jewellery.",
+      "name": "",
+      "_key": "!tables.results!wxMOZR3vhARVkN3Y.i8av5H8B4p7eW4hi"
+    },
+    {
+      "_id": "GKrB8BOa2PA1uSAn",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/treasure.png",
+      "weight": 5,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 magic item.",
+      "name": "",
+      "_key": "!tables.results!wxMOZR3vhARVkN3Y.GKrB8BOa2PA1uSAn"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "wxMOZR3vhARVkN3Y",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!wxMOZR3vhARVkN3Y"
+}

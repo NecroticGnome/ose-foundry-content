@@ -1,0 +1,22 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "Wilderness Encounter Sub-Tables",
+  "color": null,
+  "sorting": "a",
+  "_id": "fZRYW6KY1lW6YE6E",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752203707779,
+    "modifiedTime": 1752204260410,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "_key": "!folders!fZRYW6KY1lW6YE6E"
+}

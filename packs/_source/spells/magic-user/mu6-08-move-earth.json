@@ -1,0 +1,37 @@
+{
+  "name": "MU6.08 Move Earth",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "4orKK8PFOhbeMTi6",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Earth (but not stone) within range is rearranged as the caster wishes.</p>\n<ul>\n<li><strong>Movement rate: </strong>The caster can move earth in the area at up to 60' per turn.</li>\n<li><strong>Excavations: </strong>The range of the spell also extends downwards, allowing excavations to be made.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "6 turns",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 200000,
+  "_key": "!items!4orKK8PFOhbeMTi6"
+}

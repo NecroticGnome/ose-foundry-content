@@ -1,0 +1,38 @@
+{
+  "name": "Ring of Water Walking",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "R1imPJHFtKxKPWrs",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Grants the power to walk on the surface of water, without sinking.&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!R1imPJHFtKxKPWrs"
+}

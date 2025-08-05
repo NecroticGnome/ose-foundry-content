@@ -1,0 +1,37 @@
+{
+  "name": "MU5.12r Flesh to Stone",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "y24vWOsdozQYun3e",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Turns one creature into a statue, including all gear and any items currently held.</p>\n<p>A&nbsp;<strong>saving throw versus paralysis</strong>&nbsp;is permitted to resist the transformation.</p>\n<hr />\n<p>This is the reversal of <strong>Stone to Flesh</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "paralysis",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 1100000,
+  "_key": "!items!y24vWOsdozQYun3e"
+}

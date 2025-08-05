@@ -1,0 +1,37 @@
+{
+  "name": "C2.1r Blight",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "Ea2C8cRP1ijaZmCT",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Incurs a &ndash;1 penalty to morale checks, attacks rolls, and damage rolls of enemies within a 20' square area. A <strong>save versus spells</strong> is allowed to resist the blight.</p>\n<hr />\n<p>This is the reversal of <strong>Bless</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 2700000,
+  "_key": "!items!Ea2C8cRP1ijaZmCT"
+}

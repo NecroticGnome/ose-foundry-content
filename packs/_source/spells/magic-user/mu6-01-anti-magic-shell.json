@@ -1,0 +1,37 @@
+{
+  "name": "MU6.01 Anti-Magic Shell",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "1tOq6b38GIvD43hT",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An anti-magic barrier is created around the caster.</p>\n<ul>\n<li><strong>Blocks magic: </strong>No spells or spell effects can pass through this barrier, whether from inside or outside.</li>\n<li><strong>Dismissing: </strong>The caster may end this spell at any time before the duration has expired.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "The caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 1000000,
+  "_key": "!items!1tOq6b38GIvD43hT"
+}

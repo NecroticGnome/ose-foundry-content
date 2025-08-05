@@ -1,0 +1,58 @@
+{
+  "name": "Treasure Type R",
+  "flags": {
+    "ose": {
+      "treasure": true
+    }
+  },
+  "description": "Intelligent monsters: Each individual carries this much treasure.\n\nUnintelligent monsters: The treasure is loot from the bodies of the monsters’ victims.",
+  "results": [
+    {
+      "_id": "6QKZrQJfx6RqcP15",
+      "flags": {},
+      "type": "text",
+      "img": "systems/ose/assets/gold.png",
+      "weight": 100,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[2d6]] ep.",
+      "name": "",
+      "_key": "!tables.results!7xIB9sb6R4hkYSoG.6QKZrQJfx6RqcP15"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "7xIB9sb6R4hkYSoG",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!7xIB9sb6R4hkYSoG"
+}

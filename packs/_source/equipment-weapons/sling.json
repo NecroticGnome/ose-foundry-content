@@ -1,0 +1,59 @@
+{
+  "name": "Sling",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/slings/slingshot-wood.webp",
+  "effects": [],
+  "_id": "bEkUiPKsDHQ0QfTU",
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Blunt:</strong><span style=\"color: #191813;\">&nbsp;May be used by clerics.</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 20,
+    "cost": 2,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 40,
+      "medium": 80,
+      "long": 160
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Blunt",
+        "value": "Blunt"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": false,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135614,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bEkUiPKsDHQ0QfTU"
+}

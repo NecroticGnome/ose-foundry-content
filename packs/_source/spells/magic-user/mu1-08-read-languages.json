@@ -1,0 +1,37 @@
+{
+  "name": "MU1.08 Read Languages",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "aknsby5MB8XneNrI",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>For the duration of this spell, the caster may read any language, coded message, map, or other set of written instructions.</p>\n<p>This spell does not grant any ability to <em>speak</em> unknown languages.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "The caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 6600000,
+  "_key": "!items!aknsby5MB8XneNrI"
+}

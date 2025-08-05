@@ -1,0 +1,37 @@
+{
+  "name": "MU4.10 Wall of Fire",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "KYWSS2WEObZUe9ma",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>An immobile, opaque curtain of shimmering, violet fire springs into existence.</p>\n<ul>\n<li><strong>Size:</strong> The wall can be any size, and may be shaped in any manner and to any dimensions the caster desires, up to 1,200 sq. ft. For example, it may be a straight wall or curved into a protective circle.</li>\n<li><strong>Location:</strong> The wall may not be evoked so that it appears where objects are.</li>\n<li><strong>Monsters with fewer than 4 HD:</strong> Cannot pass the wall of flames.</li>\n<li><strong>Monsters with more than 4 HD:</strong> Take [[/r 1d6&nbsp; # HP Damage from Wall of Fire or Double to Undead and Cold Creatures]] hit points of damage when they pass through the wall. The wall deals double damage to undead creatures or creatures that use cold or are accustomed to cold.</li>\n<li><strong>Concentration:</strong> The wall persists as long as the caster concentrates on the spell and does not move.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Concentration",
+    "range": "60'",
+    "roll": "1d6",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 2700000,
+  "_key": "!items!KYWSS2WEObZUe9ma"
+}

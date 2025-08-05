@@ -1,0 +1,54 @@
+{
+  "name": "Silver dagger",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/daggers/dagger-straight-cracked.webp",
+  "effects": [],
+  "_id": "8XrJM94weLAggBMH",
+  "system": {
+    "description": "<p><strong>Melee:&nbsp;</strong>Close quarters weapon (5’ or less).</p>\n<p><strong>Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 10,
+    "cost": 30,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "pattern": "white",
+    "damage": "1d4",
+    "bonus": 0,
+    "tags": [],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135566,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8XrJM94weLAggBMH"
+}

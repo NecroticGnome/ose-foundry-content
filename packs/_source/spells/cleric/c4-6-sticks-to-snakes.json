@@ -1,0 +1,37 @@
+{
+  "name": "C4.6 Sticks to Snakes",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "YRd9IhxkbMa23OU6",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>2d8 normal sticks are miraculously transformed into snakes that follow the caster&rsquo;s orders.</p>\n<p><strong>Reversion: </strong>When killed or at the end of the spell&rsquo;s duration, the snakes revert back into sticks.</p>\n<section class=\"secret\">\n<p><strong>Conjured Snakes</strong></p>\n<p><strong>AC</strong> 6 [13], <strong>HD</strong> 1 (4hp), <strong>Att</strong> 1 &times; bite ([[/r 1d4 # Conjured Snake]]), <strong>THAC0</strong> 19 [0], <strong>MV</strong> 90' (30'), <strong>SV </strong>D12 W13 P14 B15 S16 (1), <strong>ML</strong> 17, <strong>AL</strong> Neutral, <strong>XP</strong> 10 (13 if poisonous), <strong>NA</strong> See above, <strong>TT</strong> None</p>\n</section>\n<ul>\n<li><strong>Poison: </strong>There is a 50% chance of the snakes being poisonous.</li>\n<li><strong>When killed:</strong> Revert back to sticks.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 4,
+    "class": "Cleric",
+    "duration": "6 turns",
+    "range": "120'",
+    "roll": "2d8",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 400000,
+  "_key": "!items!YRd9IhxkbMa23OU6"
+}

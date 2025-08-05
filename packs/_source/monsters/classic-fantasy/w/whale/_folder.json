@@ -1,0 +1,21 @@
+{
+  "color": "#9c2381",
+  "name": "Whale",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "XrTLZdJoAEnMuORP",
+  "_id": "zSy1688OQ1TC4ZJt",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!zSy1688OQ1TC4ZJt"
+}

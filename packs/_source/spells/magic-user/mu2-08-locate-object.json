@@ -1,0 +1,37 @@
+{
+  "name": "MU2.08 Locate Object",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "idpX5YzN8MF0aDPP",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster can sense the direction (but not distance) of an object. One of two types of object may be located:</p>\n<ol>\n<li><strong>General class: </strong>An object of a general class (e.g. a stairway, an altar, etc). In this case, the nearest object of the type is located.</li>\n<li><strong>Specific object: </strong>A specific object known to the caster.</li>\n</ol>\n<p><strong>Restrictions:</strong> This spell cannot be used to locate creatures.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "2 turns",
+    "range": "60' + 10' per level",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 5400000,
+  "_key": "!items!idpX5YzN8MF0aDPP"
+}

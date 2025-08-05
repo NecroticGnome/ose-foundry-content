@@ -1,0 +1,548 @@
+{
+  "name": "Dungeon Encounters Level 8+",
+  "flags": {},
+  "img": "icons/svg/tower.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "RJYuwaKjQ1wmwgvh",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Black Pudding (1)",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.RJYuwaKjQ1wmwgvh"
+    },
+    {
+      "_id": "pelj6gZSsA7mcexk",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chimera [[1d2]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.pelj6gZSsA7mcexk"
+    },
+    {
+      "_id": "vBB6MTE8hmDbIpEf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon, Black [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.vBB6MTE8hmDbIpEf"
+    },
+    {
+      "_id": "mc9aBVtXTQ1dCf4P",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon, Blue [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.mc9aBVtXTQ1dCf4P"
+    },
+    {
+      "_id": "yRf9RreM8RLVCDqS",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon, Gold [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.yRf9RreM8RLVCDqS"
+    },
+    {
+      "_id": "UifUhpkb5w868H8y",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon, Green [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.UifUhpkb5w868H8y"
+    },
+    {
+      "_id": "MGOGMYmTFP8HN78h",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon, Red [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.MGOGMYmTFP8HN78h"
+    },
+    {
+      "_id": "y0mr1GRhpy3ofACT",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expert Adventurer [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.y0mr1GRhpy3ofACT"
+    },
+    {
+      "_id": "vTIgLd0iLwOrdMBQ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "iant, Hill [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.vTIgLd0iLwOrdMBQ"
+    },
+    {
+      "_id": "j70LYcxeyxZQ9khN",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Giant, Stone [[1d2]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.j70LYcxeyxZQ9khN"
+    },
+    {
+      "_id": "wsxMM7FXOplBa4k8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Golem, Amber (1)",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.wsxMM7FXOplBa4k8"
+    },
+    {
+      "_id": "jFCAIiCOHvKyOuA3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Golem, Bone (1)",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.jFCAIiCOHvKyOuA3"
+    },
+    {
+      "_id": "dC71A5pbP2i2A5Mc",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydra 1d4+8HD (1)",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.dC71A5pbP2i2A5Mc"
+    },
+    {
+      "_id": "jgZHjCTOjXCo3hnA",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lycanthrope, Devil Swine [[1d3]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.jgZHjCTOjXCo3hnA"
+    },
+    {
+      "_id": "0kK1cWKG97mgOm48",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lycanthrope, Werebear [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.0kK1cWKG97mgOm48"
+    },
+    {
+      "_id": "zTRA9PlNzHcb0L5o",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manticore [[1d2]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.zTRA9PlNzHcb0L5o"
+    },
+    {
+      "_id": "4DpUULQRO5b60UoC",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Purple Worm [[1d2]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.4DpUULQRO5b60UoC"
+    },
+    {
+      "_id": "SBsHcDDo7ItWIwvB",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salamander, Flame [[1d4+1]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.SBsHcDDo7ItWIwvB"
+    },
+    {
+      "_id": "pF1SKf44EhYxebs8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salamander, Frost [[1d3]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.pF1SKf44EhYxebs8"
+    },
+    {
+      "_id": "KjfWlMAnnuot47zB",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vampire [[1d4]]",
+      "name": "",
+      "_key": "!tables.results!TOClRQECJfCsoWUb.KjfWlMAnnuot47zB"
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "TOClRQECJfCsoWUb",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!TOClRQECJfCsoWUb"
+}

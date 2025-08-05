@@ -1,0 +1,38 @@
+{
+  "name": "Ring of X-Ray Vision",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "FS91azz501JKG954",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Grants the power to see through solid objects.</p>\n<ul>\n<li><strong>Through dense materials:</strong> Sight up to 60′ through less dense materials (cloth, water, wood) is possible.</li>\n<li><strong>Through stone:</strong> Sight up to 30′ through stone is possible.</li>\n<li><strong>Obstructions:</strong> Sight through gold or lead is blocked.</li>\n<li><strong>Searching:</strong> When used for the purpose of searching (see <a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring\">Dungeon Adventuring</a>), the wearer is guaranteed to notice secret doors or traps in the 10′ square area being examined.</li>\n<li><strong>Concentration:</strong> Using the ring requires concentration (the wearer cannot move).</li>\n<li><strong>Usage frequency:</strong> May be used at most once per turn.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!FS91azz501JKG954"
+}

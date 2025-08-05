@@ -1,0 +1,37 @@
+{
+  "name": "MU2.07 Levitate",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "IHfQvmpXzlTZDj63",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This enchantment allows the caster to move up and down through the air:</p>\n<ul>\n<li><strong>Vertical:</strong> The caster mentally directs vertical movement at up to 20' per round.</li>\n<li><strong>Horizontal: </strong>The caster can push against solid objects to move laterally.</li>\n<li><strong>Weight:</strong> A normal amount of weight can be carried while levitating.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "6 turns + 1 per level",
+    "range": "The caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 5500000,
+  "_key": "!items!IHfQvmpXzlTZDj63"
+}

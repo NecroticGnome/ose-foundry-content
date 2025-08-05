@@ -1,0 +1,158 @@
+{
+  "name": "Gems",
+  "flags": {},
+  "img": "icons/commodities/gems/gem-faceted-radiant-teal.webp",
+  "description": "Random gems value.",
+  "results": [
+    {
+      "_id": "dNnTuHYR8PpUxTd2",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/gems/gem-faceted-hexagon-blue.webp",
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "10gp",
+      "name": "",
+      "_key": "!tables.results!bitVCJPE6BZzfjJY.dNnTuHYR8PpUxTd2"
+    },
+    {
+      "_id": "5pZbX9OOZBYyHmgI",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/gems/gem-faceted-cushion-teal-black.webp",
+      "weight": 1,
+      "range": [
+        5,
+        9
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "50gp",
+      "name": "",
+      "_key": "!tables.results!bitVCJPE6BZzfjJY.5pZbX9OOZBYyHmgI"
+    },
+    {
+      "_id": "4Mb64rehyQz7XCfJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/gems/gem-fragments-red.webp",
+      "weight": 1,
+      "range": [
+        10,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "100gp",
+      "name": "",
+      "_key": "!tables.results!bitVCJPE6BZzfjJY.4Mb64rehyQz7XCfJ"
+    },
+    {
+      "_id": "lj7xCDanRJqarZYq",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/gems/gem-faceted-asscher-blue.webp",
+      "weight": 1,
+      "range": [
+        16,
+        19
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "500gp",
+      "name": "",
+      "_key": "!tables.results!bitVCJPE6BZzfjJY.lj7xCDanRJqarZYq"
+    },
+    {
+      "_id": "aXRdpS2FNFlc3WgN",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/gems/gem-rough-round-pink.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 000gp",
+      "name": "",
+      "_key": "!tables.results!bitVCJPE6BZzfjJY.aXRdpS2FNFlc3WgN"
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "bitVCJPE6BZzfjJY",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!bitVCJPE6BZzfjJY"
+}

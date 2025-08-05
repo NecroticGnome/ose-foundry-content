@@ -1,0 +1,38 @@
+{
+  "name": "Elven Cloak and Boots",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/feet/boots-leather-simple-green.webp",
+  "effects": [],
+  "_id": "6DzSy465BZg1ZdA9",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A set of enchanted boots and a matching cloak, of elven origin.</p>\n<ul>\n<li><strong>Stealth:</strong> The wearer of the boots is able to move silently.</li>\n<li><strong>Near invisibility:</strong> The wearer of the cloak is rendered almost invisible: there is only a 1-in-6 chance of them being spotted.</li>\n<li><strong>Attacking:</strong> The cloak&rsquo;s power of invisibility is nullified for one turn, if the wearer attacks.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!6DzSy465BZg1ZdA9"
+}

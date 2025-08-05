@@ -1,0 +1,37 @@
+{
+  "name": "MU1.01 Charm Person",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "Y5LzSD0tngHJb7Ac",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863191533,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A single, humanoid creature must save versus spells or be charmed, as follows:</p>\n<ul>\n<li><strong>Friendship:</strong> The subject regards the caster as its trusted friend and ally and will come to the caster&rsquo;s defence.</li>\n<li><strong>Commands:</strong> If they share a language, the caster may give the charmed creature commands, which it will obey.</li>\n<li><strong>Subject&rsquo;s nature:</strong> Commands that contradict the charmed creature&rsquo;s habits or alignment may be ignored.</li>\n<li><strong>Suicidal commands:</strong> An affected creature never obeys suicidal or obviously harmful orders.</li>\n</ul>\n<p><strong>Restrictions:</strong> Humanoids of greater than 4+1 HD and undead are not affected.</p>\n<p><strong>Duration: </strong>The charm lasts indefinitely, but the subject is allowed to make further <strong>saves versus spells</strong> at intervals, depending on its INT score. If one of these saves succeeds, the spell ends.</p>\n<ul>\n<li><strong>INT 3&ndash;8:</strong> The creature gains a new save once every month.</li>\n<li><strong>INT 9&ndash;12:</strong> The creature gains a new save each week.</li>\n<li><strong>INT 13&ndash;18:</strong> The creature gains a new save once every day.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 1,
+    "class": "Magic-User",
+    "duration": "1+ days (see below)",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 100000,
+  "_key": "!items!Y5LzSD0tngHJb7Ac"
+}

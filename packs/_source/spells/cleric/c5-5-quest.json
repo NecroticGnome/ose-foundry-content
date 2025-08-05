@@ -1,0 +1,37 @@
+{
+  "name": "C5.5 Quest",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "Jb7etHKBd3YnrsBO",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863180025,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster commands a single subject to perform a specific quest or task.</p>\n<p><strong>Examples:</strong> Rescuing a prisoner, killing a specific monster, bringing a magic item to the caster, or going on a journey to a holy site.</p>\n<p><strong>Suicidal quests: </strong>The prescribed quest must not be obviously suicidal.</p>\n<p><strong>Saving throw: </strong>The subject may <strong>save versus spells</strong>, with success indicating that the <em>quest </em>has no effect.</p>\n<p><strong>Refusal:</strong> Otherwise, the subject must undertake the quest or fall under a curse (per the <em>curse </em>spell, with the exact nature of the curse determined by the referee).</p>\n<p><strong>Completion:</strong> Once the task is completed, the spell ends.</p>\n<h2>Reversed</h2>\n<p>See <strong>Remove Quest</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "Until quest is completed",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 112500,
+  "_key": "!items!Jb7etHKBd3YnrsBO"
+}

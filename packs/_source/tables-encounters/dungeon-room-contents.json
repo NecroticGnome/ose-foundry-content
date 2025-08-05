@@ -1,0 +1,132 @@
+{
+  "name": "Dungeon Room Contents",
+  "flags": {},
+  "img": "icons/svg/door-steel.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "aUqmUlzJH1C2uDU5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/circle.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Empty, Treasure 1-in-6 [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!aHrzFwFVkBXgtykB.aUqmUlzJH1C2uDU5"
+    },
+    {
+      "_id": "CP5WBWcVBh10ydK1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/people/charge.webp",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monster, Treasure 3-in-6 [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!aHrzFwFVkBXgtykB.CP5WBWcVBh10ydK1"
+    },
+    {
+      "_id": "emIKT60a3TbYFSxx",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/laboratory/cauldron-empty-black.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Special, No Treasure",
+      "name": "",
+      "_key": "!tables.results!aHrzFwFVkBXgtykB.emIKT60a3TbYFSxx"
+    },
+    {
+      "_id": "zZc29ZKiaf08Byic",
+      "flags": {},
+      "type": "text",
+      "img": "icons/environment/traps/trap-jaw-steel.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trap, Treasure 2-in-6 [[1d6]]",
+      "name": "",
+      "_key": "!tables.results!aHrzFwFVkBXgtykB.zZc29ZKiaf08Byic"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "aHrzFwFVkBXgtykB",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!aHrzFwFVkBXgtykB"
+}

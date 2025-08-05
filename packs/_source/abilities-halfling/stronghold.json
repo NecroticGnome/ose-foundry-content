@@ -1,0 +1,36 @@
+{
+  "name": "Stronghold",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "oEw9q3N9wc83ow8O",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Any time a halfling wishes (and has sufficient money), they may build a stronghold, which will form the basis of a new community of halflings. Halfling communities&mdash;known as Shires&mdash;are typically located in gentle countryside of little rivers and rolling hills. The leader of the community is called the Sheriff.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!oEw9q3N9wc83ow8O"
+}

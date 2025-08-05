@@ -1,0 +1,37 @@
+{
+  "name": "C5.3 Dispel Evil",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "go9WG5i3Gg5UGnXa",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863179165,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell has three uses:</p>\n<ol>\n<li><strong>Ward: </strong>By concentrating and remaining stationary, enchanted or undead monsters that come within range may be banished or destroyed. Each monster may <strong>save versus spells</strong> to avoid banishment or destruction. If a monster’s save succeeds, it flees the affected area.</li>\n<li><strong>Target single monster:</strong> Instantly banish or destroy a single enchanted or undead monster within range. The monster may <strong>save versus spells (with a -2 penalty)</strong> to avoid banishment or destruction. If the monster’s save succeeds, it flees the affected area.</li>\n<li><strong>Dispel curse:</strong> Instantly dispel the hold that a cursed item has over a being within range.</li>\n</ol>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "Concentration (up to 1 turn) or instant (see below)",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 150000,
+  "_key": "!items!go9WG5i3Gg5UGnXa"
+}

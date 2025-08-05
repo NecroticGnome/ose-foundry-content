@@ -1,0 +1,36 @@
+{
+  "name": "Initiative Bonus",
+  "type": "ability",
+  "flags": {},
+  "img": "/systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "2G7cRIJGlZPbszN6",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">If using the optional rule for individual initiative (see&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" title=\"Combat\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat\">Combat</a>), halflings get a bonus of +1 to initiative rolls.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Halfling",
+    "roll": "",
+    "rollType": "result",
+    "rollTarget": 0,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!2G7cRIJGlZPbszN6"
+}

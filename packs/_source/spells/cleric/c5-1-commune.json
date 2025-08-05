@@ -1,0 +1,37 @@
+{
+  "name": "C5.1 Commune",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "yrroIScEu1ImvcnW",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster calls upon divine powers in order to seek knowledge.</p>\n<p><strong>Questions: </strong>The caster may ask three questions per casting. Once per year, the caster may instead ask six questions.</p>\n<p><strong>Answers:</strong> Each question receives a simple “yes” or “no” answer.</p>\n<p><strong>Usage limit:</strong> <em>Commune </em>may only be cast once per week. If the referee feels this spell is being overused, its usage may be&nbsp;limited to once per month.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "3 turns",
+    "range": "The caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 300000,
+  "_key": "!items!yrroIScEu1ImvcnW"
+}

@@ -1,0 +1,236 @@
+{
+  "name": "Scrolls & Maps B",
+  "flags": {},
+  "img": "icons/tools/navigation/map-simple-brown.webp",
+  "description": "Magic Scrolls and Maps (Basic Table)",
+  "results": [
+    {
+      "_id": "2WBsdIK6dpoRv13s",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 Spell",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.2WBsdIK6dpoRv13s"
+    },
+    {
+      "_id": "x4EpaaQ5OIHcYNXf",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2 Spells",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.x4EpaaQ5OIHcYNXf"
+    },
+    {
+      "_id": "11RQH7kPxKFoEoNV",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-lightning-brown.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3 Spells",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.11RQH7kPxKFoEoNV"
+    },
+    {
+      "_id": "lDhrFJI21dHIT5iR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-triangle-pink.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Scroll",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.lDhrFJI21dHIT5iR"
+    },
+    {
+      "_id": "mk3fcVDQicJNgJ63",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scroll of Prot. from Lychantropes",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.mk3fcVDQicJNgJ63"
+    },
+    {
+      "_id": "6TEDiz0IvIIjCSLd",
+      "flags": {},
+      "type": "text",
+      "img": "icons/sundries/documents/document-symbol-circle-gold-red.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scroll of Prot. from Undead",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.6TEDiz0IvIIjCSLd"
+    },
+    {
+      "_id": "e47lNeY2By9v1lxF",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: I",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.e47lNeY2By9v1lxF"
+    },
+    {
+      "_id": "uBY4BDYZPFSTVcT8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treasure Map: VIII",
+      "name": "",
+      "_key": "!tables.results!xW1T4om8FXlo1Vcd.uBY4BDYZPFSTVcT8"
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "xW1T4om8FXlo1Vcd",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!xW1T4om8FXlo1Vcd"
+}

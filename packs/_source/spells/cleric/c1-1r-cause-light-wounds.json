@@ -1,0 +1,37 @@
+{
+  "name": "C1.1r Cause Light Wounds",
+  "type": "spell",
+  "flags": {},
+  "img": "/systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "BqdtGaJv0ddpRNZg",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p><span style=\"color: #191813;\">Inflicts 1d6+1 hit points of damage to a touched creature. In combat, a melee attack roll is required.</span></p>\n<hr />\n<p>This is the reversal of&nbsp;<strong>Cure Light Wounds</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 1,
+    "class": "Cleric",
+    "duration": "Instant",
+    "range": "The caster or a creature touched",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 3800000,
+  "_key": "!items!BqdtGaJv0ddpRNZg"
+}

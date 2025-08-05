@@ -1,0 +1,37 @@
+{
+  "name": "C3.6 Striking",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "niCRkpyPxXnfCmYJ",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A single weapon is enchanted:</p>\n<ul>\n<li><strong>Damage:</strong> It deals an additional 1d6 damage.</li>\n<li><strong>Treated as magical:</strong> It is able to harm monsters which are normally only harmed by magical weapons.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Cleric",
+    "duration": "1 turn",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 1100000,
+  "_key": "!items!niCRkpyPxXnfCmYJ"
+}

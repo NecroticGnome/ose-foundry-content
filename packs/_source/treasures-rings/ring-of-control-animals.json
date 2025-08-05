@@ -1,0 +1,38 @@
+{
+  "name": "Ring of Control Animals",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "effects": [],
+  "_id": "TgXxKM0M32Lq7I1p",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Grants the power to control the actions of animals.</p>\n<ul>\n<li><strong>Affects:</strong> 1d6 normal animals or 1 giant animal (not magical or intelligent animals).</li>\n<li><strong>Resisting:</strong> No saving throw is allowed.</li>\n<li><strong>Visual range:</strong> The character can only control animals that they can see.</li>\n<li><strong>Concentration:</strong> Control is broken if the user of the ring moves or attacks.</li>\n<li><strong>When concentration ends:</strong> The referee should make a reaction roll with a &ndash;1 penalty (see <a title=\"Encounters\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Encounters\">Encounters</a>) to determine the animals&rsquo; behaviour.</li>\n<li><strong>Usage frequency:</strong> May be used up to once per turn.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!TgXxKM0M32Lq7I1p"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "MU3.04 Fly",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "OIu7WR5IjXGS2Mer",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The subject gains the ability to fly through the air.</p>\n<ul>\n<li><strong>Movement rate:</strong> Up to 360' (120').</li>\n<li><strong>Free movement:</strong> Is possible in any direction, including the ability to levitate and to hover in mid-air.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "1d6 turns + 1 per level",
+    "range": "The caster or a creature touched",
+    "roll": "1d6+5",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4600000,
+  "_key": "!items!OIu7WR5IjXGS2Mer"
+}

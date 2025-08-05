@@ -1,0 +1,59 @@
+{
+  "name": "Spear +3",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/polearms/spear-flared-blue.webp",
+  "effects": [],
+  "_id": "YO8TaqYuXjRrqswc",
+  "system": {
+    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:&nbsp;</strong>Close quarters weapon (5’ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><span style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">Brace: </strong>Bracing against the ground dou</span><span style=\"box-sizing: border-box; user-select: text;\">bles damage against charging monsters.</span></p>\n<p><span style=\"box-sizing: border-box; user-select: text;\">&nbsp;</span></p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 30,
+    "cost": 4,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 20,
+      "medium": 40,
+      "long": 60
+    },
+    "pattern": "white",
+    "damage": "1d6",
+    "bonus": 3,
+    "tags": [
+      {
+        "title": "Brace",
+        "value": "Brace"
+      }
+    ],
+    "slow": false,
+    "missile": true,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458202546,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!YO8TaqYuXjRrqswc"
+}

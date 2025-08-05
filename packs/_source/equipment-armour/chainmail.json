@@ -1,0 +1,44 @@
+{
+  "name": "Chainmail",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/commodities/metal/mail-chain-steel.webp",
+  "effects": [],
+  "_id": "Fz8pG8FPvTadAlVG",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 400,
+    "cost": 40,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 5
+    },
+    "aac": {
+      "value": 14
+    },
+    "type": "heavy"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!Fz8pG8FPvTadAlVG"
+}

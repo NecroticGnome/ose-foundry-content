@@ -1,0 +1,541 @@
+{
+  "_id": "N4FmlgdkHtSmtkRB",
+  "name": "Nomad",
+  "type": "monster",
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+  "items": [
+    {
+      "_id": "ngFMwwEMjkRA5EG8",
+      "name": "Mounted",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "On riding horses or (in the desert) on camels.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.ngFMwwEMjkRA5EG8"
+    },
+    {
+      "_id": "mr4q5b5wgI7i1gIe",
+      "name": "Arms (desert)",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "50% of group have: leather armour, shield, lance; 30% have: chainmail, shield, lance; 20% have: leather armour, shortbow.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.mr4q5b5wgI7i1gIe"
+    },
+    {
+      "_id": "CFM1f1K3kzuGWNo6",
+      "name": "Arms (steppes)",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>50% of group have: leather armour, shortbow; 20% have: leather armour, shield, lance; 20% have: chainmail, shortbow; 10% have: chainmail, shield, lance, and may be mounted on a war horse.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.CFM1f1K3kzuGWNo6"
+    },
+    {
+      "_id": "b9SSuoodm3JiNV4q",
+      "name": "Leaders",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "For every 25 nomads, there is a 2nd level fighter. For every 40 nomads, there is a 4th level fighter.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.b9SSuoodm3JiNV4q"
+    },
+    {
+      "_id": "f8Dyw8rJdyRSQ0Jr",
+      "name": "Camps",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Hunting / foraging groups commonly combine and live in a tribe of up to 300 nomad warriors.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.f8Dyw8rJdyRSQ0Jr"
+    },
+    {
+      "_id": "wsrWqDvjO4iaUDfl",
+      "name": "Camp leaders",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Tribal chief (8th level fighter), plus a 5th level fighter for every 100 nomads. 50% chance of a cleric (9th level); 25% chance of a magic-user (8th level).",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.wsrWqDvjO4iaUDfl"
+    },
+    {
+      "_id": "RLOnjwFPZQuppkx4",
+      "name": "Hoard",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Only have treasure type A in the camp.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.RLOnjwFPZQuppkx4"
+    },
+    {
+      "_id": "1gc0C9xjUMLdfHZ4",
+      "name": "Traders",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Often carry trade route tales of faraway lands.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.1gc0C9xjUMLdfHZ4"
+    },
+    {
+      "_id": "7jfzrvk7X6xx9Nwu",
+      "name": "Shortsword",
+      "type": "weapon",
+      "sort": 1400000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Melee</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 30,
+        "cost": 7,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!N4FmlgdkHtSmtkRB.7jfzrvk7X6xx9Nwu"
+    }
+  ],
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866302355,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "1d8",
+      "value": 4,
+      "max": 4
+    },
+    "ac": {
+      "value": 7,
+      "mod": 0
+    },
+    "aac": {
+      "value": 12,
+      "mod": 0
+    },
+    "thac0": {
+      "value": 19,
+      "bba": 0,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 12
+      },
+      "wand": {
+        "value": 13
+      },
+      "paralysis": {
+        "value": 14
+      },
+      "breath": {
+        "value": 15
+      },
+      "spell": {
+        "value": 16
+      }
+    },
+    "movement": {
+      "base": 120,
+      "encounter": 40
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": []
+    },
+    "spells": {
+      "1": {
+        "max": 0
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": false
+    },
+    "details": {
+      "biography": "Superstitious tribes who wander steppes and desert regions, living in tents or temporary huts. Demeanour depends on the tribe: some are warlike, others peaceful.",
+      "alignment": "Any",
+      "xp": "10",
+      "specialAbilities": "0",
+      "treasure": {
+        "table": "@UUID[Compendium.classicfantasycompendium.treasures.RollTable.4hd3r9dGyNWZJN4N]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "0",
+        "w": "1d4 * 10"
+      },
+      "morale": "8",
+      "movement": "120’ (40’)"
+    },
+    "encumbrance": {
+      "value": null,
+      "max": null
+    },
+    "config": {}
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Nomad",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "negative": false,
+      "priority": 0,
+      "color": "#ffb638",
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "texture": {
+      "src": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "rotation": 0,
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "alpha": 1,
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "folder": "nRY9vkeVMcU0sPjW",
+  "_key": "!actors!N4FmlgdkHtSmtkRB"
+}

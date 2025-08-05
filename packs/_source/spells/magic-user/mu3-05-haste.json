@@ -1,0 +1,37 @@
+{
+  "name": "MU3.05 Haste",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "980drpB2MTN3IzWA",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Up to 24 creatures in a 60' diameter area are enchanted to be able to move and act twice as quickly as normal:</p>\n<ul>\n<li><strong>Movement:</strong> Subjects&rsquo; maximum movement rates are doubled.</li>\n<li><strong>Attacks:</strong> Subjects may make double the normal number of attacks per round.</li>\n<li><strong>Spells: </strong>The number of spells a subject may cast per round is not doubled.</li>\n<li><strong>Magical devices:</strong> The use of devices such as wands is also not doubled.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "3 turns",
+    "range": "240'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4500000,
+  "_key": "!items!980drpB2MTN3IzWA"
+}

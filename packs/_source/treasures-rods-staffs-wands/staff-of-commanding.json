@@ -1,0 +1,38 @@
+{
+  "_id": "66ZUjZlXsHVi1jB6",
+  "name": "Staff of Commanding",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/staves/staff-engraved-wood.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Grants the power to control animals, humans, and plants.</p>\n<h2><span id=\"Commanding_Animals\" class=\"mw-headline\">Commanding Animals</span></h2>\n<ul>\n<li><strong>Affects:</strong> 1d6 normal animals or 1 giant animal (but not magical or intelligent animals).</li>\n<li><strong>Resisting:</strong> No saving throw is allowed.</li>\n<li><strong>Visual range:</strong> The character can only control animals that they can see.</li>\n<li><strong>Concentration:</strong> Control is broken if the user of the staff moves or attacks.</li>\n<li><strong>When concentration ends:</strong> The referee should make a reaction roll with a &ndash;1 penalty (see <a title=\"Encounters\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Encounters\">Encounters</a>) to determine the animals&rsquo; behaviour.</li>\n<li><strong>Usage frequency:</strong> This power of the staff may be used up to once per turn.</li>\n</ul>\n<h2><span id=\"Commanding_Humans\" class=\"mw-headline\">Commanding Humans</span></h2>\n<ul>\n<li><strong>Usage:</strong> A charm may be placed upon a human within 60′. One target may be charmed per round.</li>\n<li><strong>Resisting:</strong> The subject may <strong>save versus spells (with a &ndash;2 penalty)</strong> to resist.</li>\n<li><strong>Maximum subjects:</strong> Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as &frac12; HD.</li>\n<li><strong>Charmed individuals:</strong> Regard the character as a trusted friend, and will come to their defence. They will obey the character&rsquo;s commands, as long as these are not obviously harmful and do not contradict the subject&rsquo;s alignment.</li>\n<li><strong>Duration:</strong> The charm lasts indefinitely, but ends if cancelled by the wielder of the staff, or when dispelled.</li>\n</ul>\n<h2><span id=\"Commanding_Plants\" class=\"mw-headline\">Commanding Plants</span></h2>\n<ul>\n<li><strong>Affects:</strong> All plants (including plant monsters) in a 10′ square area.</li>\n<li><strong>Range:</strong> The area may be up to 60′ distant.</li>\n<li><strong>Commands:</strong> Affected plants may be commanded to move around as the character wishes.</li>\n<li><strong>Concentration:</strong> The effect lasts as long as the wielder of the staff concentrates.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!66ZUjZlXsHVi1jB6"
+}

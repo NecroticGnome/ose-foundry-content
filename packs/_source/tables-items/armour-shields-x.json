@@ -1,0 +1,574 @@
+{
+  "name": "Armour & Shields X",
+  "flags": {},
+  "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+  "description": "Armour and Shields (Expert Table)",
+  "results": [
+    {
+      "_id": "Gz0qGfftqrLjpN4Q",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +1",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.Gz0qGfftqrLjpN4Q"
+    },
+    {
+      "_id": "tUL7igRMzQUW9LJs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        16,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +1, Shield +1",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.tUL7igRMzQUW9LJs"
+    },
+    {
+      "_id": "1Pzf1xh5HeHAJEpJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        26,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +1, Shield +2",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.1Pzf1xh5HeHAJEpJ"
+    },
+    {
+      "_id": "JEiNZoXbJTXaJI3t",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +1, Shield +3",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.JEiNZoXbJTXaJI3t"
+    },
+    {
+      "_id": "oWOqlSCCBWVbwDJL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        29,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +2",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.oWOqlSCCBWVbwDJL"
+    },
+    {
+      "_id": "ZncGyxwlhMCFRq17",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        34,
+        36
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +2, Shield +1",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.ZncGyxwlhMCFRq17"
+    },
+    {
+      "_id": "hOwYRzweWqO4lwNQ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        37,
+        41
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +2, Shield +2",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.hOwYRzweWqO4lwNQ"
+    },
+    {
+      "_id": "N4MYJdjSFLJAICOQ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +2, Shield +3",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.N4MYJdjSFLJAICOQ"
+    },
+    {
+      "_id": "lSuHNtNVMAf2uxyD",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        43,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +3",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.lSuHNtNVMAf2uxyD"
+    },
+    {
+      "_id": "HQWg3Zh6yXvoc9eM",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +3, Shield +1",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.HQWg3Zh6yXvoc9eM"
+    },
+    {
+      "_id": "ZAaEdWhIPhEovuVE",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +3, Shield +2",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.ZAaEdWhIPhEovuVE"
+    },
+    {
+      "_id": "sORtiCGDZKVaIyIi",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armour +3, Shield +3",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.sORtiCGDZKVaIyIi"
+    },
+    {
+      "_id": "ZSwihveKtbusQz6N",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        49,
+        51
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Armour -1",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.ZSwihveKtbusQz6N"
+    },
+    {
+      "_id": "EpWaa5qJnAA4m2eW",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        52,
+        53
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Armour -2",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.EpWaa5qJnAA4m2eW"
+    },
+    {
+      "_id": "gv1WtgOLmGCfjjvA",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Armour -2, Shield +1",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.gv1WtgOLmGCfjjvA"
+    },
+    {
+      "_id": "5QPZa9zC5Jn4JbIe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
+      "weight": 1,
+      "range": [
+        55,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Armour AC 9 [10]",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.5QPZa9zC5Jn4JbIe"
+    },
+    {
+      "_id": "KyTjgLXRAce5oFKE",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/shield/heater-wooden-worn.webp",
+      "weight": 1,
+      "range": [
+        57,
+        62
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Shield -2",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.KyTjgLXRAce5oFKE"
+    },
+    {
+      "_id": "SziYidwa6X7H6uZm",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/shield/heater-wooden-worn.webp",
+      "weight": 1,
+      "range": [
+        63,
+        65
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cursed Shield, AC 9 [10]",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.SziYidwa6X7H6uZm"
+    },
+    {
+      "_id": "vhiPLDJFfHnqQxfa",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/shield/heater-wooden-worn.webp",
+      "weight": 1,
+      "range": [
+        66,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shield +1",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.vhiPLDJFfHnqQxfa"
+    },
+    {
+      "_id": "W4uTga5mII7buAfV",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/shield/heater-wooden-worn.webp",
+      "weight": 1,
+      "range": [
+        86,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shield +2",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.W4uTga5mII7buAfV"
+    },
+    {
+      "_id": "kwtbehiW7B3mDHWz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/shield/heater-wooden-worn.webp",
+      "weight": 1,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shield +3",
+      "name": "",
+      "_key": "!tables.results!jyhvEkPuLYO7dDPR.kwtbehiW7B3mDHWz"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "jyhvEkPuLYO7dDPR",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!jyhvEkPuLYO7dDPR"
+}

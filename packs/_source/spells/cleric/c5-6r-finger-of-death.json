@@ -1,0 +1,37 @@
+{
+  "name": "C5.6r Finger of Death",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "Shz5PmxgpPAlKJD4",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863182032,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Directs a ray of deadly magic at a single target. If the target fails a <strong>saving throw versus death</strong>, it dies instantly. Casting <em>finger of death </em>is a chaotic act; it will only be used by lawful casters in desperate situations.</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "death",
+    "lvl": 5,
+    "class": "Cleric",
+    "duration": "Instant",
+    "range": "120'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 101563,
+  "_key": "!items!Shz5PmxgpPAlKJD4"
+}

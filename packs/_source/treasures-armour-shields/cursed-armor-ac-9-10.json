@@ -1,0 +1,44 @@
+{
+  "name": "Cursed Armor AC 9 [10]",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+  "effects": [],
+  "_id": "KBNkddbB5bSQQlMe",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 9
+    },
+    "aac": {
+      "value": 10
+    },
+    "type": "light"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!KBNkddbB5bSQQlMe"
+}

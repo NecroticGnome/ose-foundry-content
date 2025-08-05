@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Polymorph Self",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "k62AeZeeYFqhhdxK",
+  "system": {
+    "description": "<p>Upon drinking this potion, the character transforms into another being (of their choice). This works in the same way as the magic-user spell <a title=\"Polymorph Self\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Polymorph_Self\">Polymorph Self</a>. The standard potion duration applies.&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456868456,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!k62AeZeeYFqhhdxK"
+}

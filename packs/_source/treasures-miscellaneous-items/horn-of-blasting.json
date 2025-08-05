@@ -1,0 +1,38 @@
+{
+  "name": "Horn of Blasting",
+  "type": "item",
+  "flags": {},
+  "img": "icons/tools/instruments/megaphone.webp",
+  "effects": [],
+  "_id": "jb6641D0FWhD9bS1",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A horn that can be blown to release a blast of destructive noise.</p>\n<ul>\n<li><strong>Creatures:</strong> Within a 100′ long cone (20′ wide at the end) suffer 2d6 damage.</li>\n<li><strong>Deafness:</strong> Affected creatures are also deafened for one turn (save versus spells to avoid).</li>\n<li><strong>Buildings:</strong> At the referee&rsquo;s discretion, the horn may also be able to damage objects and buildings (e.g. a single blast might be enough to destroy a simple cottage; a 10′ section of castle wall might require three blasts).</li>\n<li><strong>Frequency:</strong> The horn may be usedonce per turn.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!jb6641D0FWhD9bS1"
+}

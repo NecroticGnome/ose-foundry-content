@@ -1,0 +1,106 @@
+{
+  "name": "Armour Type",
+  "flags": {},
+  "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+  "description": "General type of armour.",
+  "results": [
+    {
+      "_id": "ee3n5BcL7oGgXq1o",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/leather/leather-studded-tan.webp",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leather Armour",
+      "name": "",
+      "_key": "!tables.results!yrhUKZ5dglNQyl7O.ee3n5BcL7oGgXq1o"
+    },
+    {
+      "_id": "H0DtbuHaKxbBb67f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/metal/mail-chain-steel.webp",
+      "weight": 1,
+      "range": [
+        2,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chainmail Armour",
+      "name": "",
+      "_key": "!tables.results!yrhUKZ5dglNQyl7O.H0DtbuHaKxbBb67f"
+    },
+    {
+      "_id": "4KE899O6y7TtvDoy",
+      "flags": {},
+      "type": "text",
+      "img": "icons/commodities/metal/mail-plate-steel.webp",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plate Armour",
+      "name": "",
+      "_key": "!tables.results!yrhUKZ5dglNQyl7O.4KE899O6y7TtvDoy"
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "yrhUKZ5dglNQyl7O",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!yrhUKZ5dglNQyl7O"
+}

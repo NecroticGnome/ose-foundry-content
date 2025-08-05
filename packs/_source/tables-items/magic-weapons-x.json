@@ -1,0 +1,574 @@
+{
+  "name": "Magic Weapons X",
+  "flags": {},
+  "img": "icons/weapons/daggers/dagger-bone-black.webp",
+  "description": "Magic Weapons (Expert Table)",
+  "results": [
+    {
+      "_id": "scWUGbGE5pSyEwAX",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arrows +1 (3d10)",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.scWUGbGE5pSyEwAX"
+    },
+    {
+      "_id": "xd0Nm7FtFSRDvJK0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+      "weight": 1,
+      "range": [
+        3,
+        12
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arrows +1 (2d6)",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.xd0Nm7FtFSRDvJK0"
+    },
+    {
+      "_id": "qbD5b9qrciYtwr7f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+      "weight": 1,
+      "range": [
+        13,
+        18
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arrows +2 (1d6)",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.qbD5b9qrciYtwr7f"
+    },
+    {
+      "_id": "maSKln760MfXykKC",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/axes/axe-battle-blackened.webp",
+      "weight": 1,
+      "range": [
+        19,
+        27
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Axe +1",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.maSKln760MfXykKC"
+    },
+    {
+      "_id": "4LWmAM9kMNucI9nb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/axes/axe-battle-blackened.webp",
+      "weight": 1,
+      "range": [
+        28,
+        30
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Axe +2",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.4LWmAM9kMNucI9nb"
+    },
+    {
+      "_id": "nIICkJ3Y8IyYbR3S",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/bows/bow-ornamental-carved-brown.webp",
+      "weight": 1,
+      "range": [
+        31,
+        33
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Short bow +1",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.nIICkJ3Y8IyYbR3S"
+    },
+    {
+      "_id": "q3vym3ioEty0mb80",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/ammunition/arrows-war-white.webp",
+      "weight": 1,
+      "range": [
+        33,
+        45
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crossbow Bolts +1 (2d6)",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.q3vym3ioEty0mb80"
+    },
+    {
+      "_id": "Pn6tROAsNaScet2N",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/ammunition/arrows-war-white.webp",
+      "weight": 1,
+      "range": [
+        34,
+        43
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crossbow Bolts +1 (3d10)",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.Pn6tROAsNaScet2N"
+    },
+    {
+      "_id": "Qmq1JaQEqkSkXDmz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/ammunition/arrows-war-white.webp",
+      "weight": 1,
+      "range": [
+        46,
+        52
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crossbow Bolts +2 (1d6)",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.Qmq1JaQEqkSkXDmz"
+    },
+    {
+      "_id": "ZJ1T9IW8JfWtfhSL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/daggers/dagger-blue.webp",
+      "weight": 1,
+      "range": [
+        53,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dagger +1",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.ZJ1T9IW8JfWtfhSL"
+    },
+    {
+      "_id": "daYUz3BNpXm93mNX",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/daggers/dagger-blue.webp",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dagger +2 (+3*)",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.daYUz3BNpXm93mNX"
+    },
+    {
+      "_id": "zJ44AxU9fT50YXFq",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/maces/mace-cube-spiked-steel.webp",
+      "weight": 1,
+      "range": [
+        57,
+        64
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mace +1",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.zJ44AxU9fT50YXFq"
+    },
+    {
+      "_id": "qZe95Gu36JfuYlRN",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/maces/mace-cube-spiked-steel.webp",
+      "weight": 1,
+      "range": [
+        65,
+        67
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mace +2",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.qZe95Gu36JfuYlRN"
+    },
+    {
+      "_id": "a78bRU6KsmWybOB4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/maces/mace-cube-spiked-steel.webp",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mace +3}",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.a78bRU6KsmWybOB4"
+    },
+    {
+      "_id": "3myT39DTUt4g0PMk",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/slings/slingshot-wood.webp",
+      "weight": 1,
+      "range": [
+        69,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sling +1",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.3myT39DTUt4g0PMk"
+    },
+    {
+      "_id": "K8wBggLrSrgIM5nJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/polearms/spear-flared-blue.webp",
+      "weight": 1,
+      "range": [
+        75,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spear +1",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.K8wBggLrSrgIM5nJ"
+    },
+    {
+      "_id": "ihQHosGrasslshPn",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/polearms/spear-flared-blue.webp",
+      "weight": 1,
+      "range": [
+        83,
+        86
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spear +2",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.ihQHosGrasslshPn"
+    },
+    {
+      "_id": "vaguVeqSuxLBYhHK",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/polearms/spear-flared-blue.webp",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spear +3",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.vaguVeqSuxLBYhHK"
+    },
+    {
+      "_id": "VpEYx54AzIAFOHSx",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/hammers/hammer-double-engraved-ruby.webp",
+      "weight": 1,
+      "range": [
+        88,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warhammer +1",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.VpEYx54AzIAFOHSx"
+    },
+    {
+      "_id": "ism6Pg7W7pPBUL5f",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/hammers/hammer-double-engraved-ruby.webp",
+      "weight": 1,
+      "range": [
+        95,
+        99
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warhammer +2",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.ism6Pg7W7pPBUL5f"
+    },
+    {
+      "_id": "YnIQMBGhbXiEhCfj",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/hammers/hammer-double-engraved-ruby.webp",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warhammer +3, Dwarven Thrower",
+      "name": "",
+      "_key": "!tables.results!GbTEh9YUk9bws7Pd.YnIQMBGhbXiEhCfj"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "GbTEh9YUk9bws7Pd",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!GbTEh9YUk9bws7Pd"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Treasure Finding",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "QI3vcKX2dop6Tfrj",
+  "system": {
+    "description": "<p>Grants the ability to sense treasure.</p>\n<ul>\n<li><strong>Range:</strong> Treasure up to 360′ away can be detected.</li>\n<li><strong>Direction and distance:</strong> The character gains an awareness of the direction and distance of treasure.</li>\n<li><strong>Concentration:</strong> The character must concentrate in order to sense this information.</li>\n<li><strong>Multiple hoards:</strong> The largest treasure hoard within range is sensed.</li>\n<li><strong>Obstructions:</strong> The magic is blocked by lead.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456877251,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QI3vcKX2dop6Tfrj"
+}

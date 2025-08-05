@@ -1,0 +1,37 @@
+{
+  "name": "MU6.05 Geas",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "4wgMZDXAo80JLPGF",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The caster commands a subject to perform or avoid performing a specific action.</p>\n<ul>\n<li><strong>Examples:</strong> Bringing a specific item to the caster, eating or drinking without restraint, keeping a certain fact secret.</li>\n<li><strong>Impossible or deadly tasks:</strong> The prescribed <em>geas</em> must not be impossible or directly deadly&mdash;if such a <em>geas</em> is cast, it affects the caster, instead.</li>\n<li><strong>Saving throw: </strong>The subject may <strong>save versus spells</strong>, to avoid coming under the spell&rsquo;s effect.</li>\n<li><strong>If the save fails:</strong> The subject must follow the stipulated course of action or suffer gradually increasing (and eventually fatal) penalties determined by the referee. e.g.: penalties to attack, ability score reductions, inability to memorize spells, physical torment and feebleness, etc.</li>\n</ul>\n<h2>Reversed</h2>\n<p>See<strong> Remove Geas</strong>.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 6,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 600000,
+  "_key": "!items!4wgMZDXAo80JLPGF"
+}

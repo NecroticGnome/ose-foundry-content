@@ -1,0 +1,38 @@
+{
+  "name": "Crystal Ball",
+  "type": "item",
+  "flags": {},
+  "img": "icons/tools/laboratory/alembic-glass-ball-blue.webp",
+  "effects": [],
+  "_id": "zuiE0tNrjJhoEMLo",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Allows an arcane spell caster to view any place or object that is brought to mind:</p>\n<ul>\n<li><strong>Duration:</strong> The vision lasts for one turn.</li>\n<li><strong>Clarity</strong> The clarity of the vision is dependant on the scryer&rsquo;s familiarity with the subject.</li>\n<li><strong>Usage frequency:</strong> A crystal ball may be used at most 3 times a day.</li>\n<li><strong>Casting spells:</strong> It is not possible to cast spells through a crystal ball into the viewed scene.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!zuiE0tNrjJhoEMLo"
+}

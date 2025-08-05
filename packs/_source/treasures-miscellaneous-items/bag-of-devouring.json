@@ -1,0 +1,38 @@
+{
+  "name": "Bag of Devouring",
+  "type": "item",
+  "flags": {},
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "effects": [],
+  "_id": "EXvRedkmqrmxPp5q",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A normal-looking, small sack that devours objects placed inside it.</p>\n<ul>\n<li><strong>Objects:</strong> Anything placed inside the bag vanishes from existence after 1d6+6 turns.</li>\n<li><strong>Living creatures:</strong> May be affected, but only if the entire creature fits inside the bag.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!EXvRedkmqrmxPp5q"
+}

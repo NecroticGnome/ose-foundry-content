@@ -1,0 +1,59 @@
+{
+  "name": "Sword +2",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/swords/greatsword-crossguard-flanged-red.webp",
+  "effects": [],
+  "_id": "MKx7E6VL0kLGtdwc",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Melee: Close quarters weapon (5′ or less).</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 60,
+    "cost": 0,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "transparent",
+    "damage": "1d8+2",
+    "bonus": 2,
+    "tags": [
+      {
+        "title": "Melee",
+        "value": "Melee"
+      }
+    ],
+    "slow": false,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!MKx7E6VL0kLGtdwc"
+}

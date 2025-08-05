@@ -1,0 +1,38 @@
+{
+  "_id": "XgH3FiR5Yet1Iusu",
+  "name": "Grappling hook",
+  "type": "item",
+  "flags": {},
+  "img": "icons/tools/fishing/hook-multi-steel-brown.webp",
+  "effects": [],
+  "system": {
+    "description": "<p>Has 3 or 4 prongs. Can be used for anchoring a rope.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 25,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456318475,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!XgH3FiR5Yet1Iusu"
+}

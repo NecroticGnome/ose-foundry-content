@@ -1,0 +1,21 @@
+{
+  "color": "#9c8123",
+  "name": "Dragon",
+  "sorting": "a",
+  "type": "Actor",
+  "folder": "9GFyEfB00XrME9tG",
+  "_id": "U7VOM9meQmalpevz",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866301709,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "description": "",
+  "_key": "!folders!U7VOM9meQmalpevz"
+}

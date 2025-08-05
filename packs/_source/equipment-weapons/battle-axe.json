@@ -1,0 +1,59 @@
+{
+  "name": "Battle axe",
+  "type": "weapon",
+  "flags": {},
+  "img": "icons/weapons/axes/axe-battle-blackened.webp",
+  "effects": [],
+  "_id": "TSefN1YwasWk3C33",
+  "system": {
+    "description": "<p><strong>Melee:</strong>&nbsp;Close quarters weapon (5’ or less).</p>\n<p><strong>Slow:</strong> The character acts last in each combat round.</p>\n<p><strong>Two-handed:</strong> Requires both hands; the character cannot use a shield.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 50,
+    "cost": 7,
+    "containerId": "",
+    "save": "",
+    "equipped": false,
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "pattern": "white",
+    "damage": "1d8",
+    "bonus": 0,
+    "tags": [
+      {
+        "title": "Two-handed",
+        "value": "Two-handed"
+      }
+    ],
+    "slow": true,
+    "missile": false,
+    "melee": true,
+    "counter": {
+      "value": 0,
+      "max": 0
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682458135591,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TSefN1YwasWk3C33"
+}

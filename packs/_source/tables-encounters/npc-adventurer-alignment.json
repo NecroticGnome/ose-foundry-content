@@ -1,0 +1,106 @@
+{
+  "name": "NPC Adventurer Alignment",
+  "flags": {},
+  "img": "icons/svg/aura.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "T0XEnu6Vv8PfoHCW",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lawful",
+      "name": "",
+      "_key": "!tables.results!WO4dO2DRCLpnZwQQ.T0XEnu6Vv8PfoHCW"
+    },
+    {
+      "_id": "oUiY4ySiD7q95K7p",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neutral",
+      "name": "",
+      "_key": "!tables.results!WO4dO2DRCLpnZwQQ.oUiY4ySiD7q95K7p"
+    },
+    {
+      "_id": "XLQapA41UWBIqT3T",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotic",
+      "name": "",
+      "_key": "!tables.results!WO4dO2DRCLpnZwQQ.XLQapA41UWBIqT3T"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "WO4dO2DRCLpnZwQQ",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!WO4dO2DRCLpnZwQQ"
+}

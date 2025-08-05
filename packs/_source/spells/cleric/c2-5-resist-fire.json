@@ -1,0 +1,37 @@
+{
+  "name": "C2.5 Resist Fire",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "3w3wvkiKzokzVaHj",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A single creature is bestowed with supernatural resistance to fire, as follows:</p>\n<ul>\n<li><strong>Normal heat:</strong> Unharmed by non-magical heat or fire.</li>\n<li><strong>Save bonus: </strong>Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.</li>\n<li><strong>Fire-based damage:</strong> Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "2 turns",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 2300000,
+  "_key": "!items!3w3wvkiKzokzVaHj"
+}

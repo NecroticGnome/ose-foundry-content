@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Invisibility",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "6KNbVMeMdCekFul3",
+  "system": {
+    "description": "<p>Drinking this potion, the character becomes invisible. This works the same as the magic-user spell <a title=\"Invisibility\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Invisibility\">Invisibility</a>. The standard potion duration applies.</p>\n<ul>\n<li><strong>Small doses:</strong> At the referee&rsquo;s discretion, a <em>potion of invisibility</em> may be consumed in six smaller doses, each with a reduced duration.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456842365,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6KNbVMeMdCekFul3"
+}

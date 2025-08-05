@@ -1,0 +1,522 @@
+{
+  "name": "Magic Rings X",
+  "flags": {},
+  "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+  "description": "Magic Rings (Expert Table)",
+  "results": [
+    {
+      "_id": "j9OLWvOwOJJXH53p",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Control Animals",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.j9OLWvOwOJJXH53p"
+    },
+    {
+      "_id": "nJwhQ6yspaK9mgxJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Control Humans",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.nJwhQ6yspaK9mgxJ"
+    },
+    {
+      "_id": "bpt3nRedzU40Usoo",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        11,
+        16
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Control Plants",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.bpt3nRedzU40Usoo"
+    },
+    {
+      "_id": "fUUklTvnXQQRcVij",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        17,
+        26
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Delusion",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.fUUklTvnXQQRcVij"
+    },
+    {
+      "_id": "1VObGNNOG1j4IvFw",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        27,
+        29
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Djinni Summoning",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.1VObGNNOG1j4IvFw"
+    },
+    {
+      "_id": "hxVJ91AnZJV5Vvr4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        30,
+        39
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Fire Resistance",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.hxVJ91AnZJV5Vvr4"
+    },
+    {
+      "_id": "VdJPvRkXFTZG6G9U",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        40,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Invisibility",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.VdJPvRkXFTZG6G9U"
+    },
+    {
+      "_id": "SOrdLU2UuykEvIIx",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        51,
+        55
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Protection +1 (5’ rad)}",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.SOrdLU2UuykEvIIx"
+    },
+    {
+      "_id": "2N0WUYvOTYOIN7lO",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        56,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Protection +1",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.2N0WUYvOTYOIN7lO"
+    },
+    {
+      "_id": "WHuoSgqQjROIlRqG",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        71,
+        72
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Regeneration",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.WHuoSgqQjROIlRqG"
+    },
+    {
+      "_id": "Stk8A4M9UitRBS0Z",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        73,
+        74
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Spell Storing",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.Stk8A4M9UitRBS0Z"
+    },
+    {
+      "_id": "JYGPjRmHD6X0vtf1",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        75,
+        80
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Spell Turning",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.JYGPjRmHD6X0vtf1"
+    },
+    {
+      "_id": "b7H8gO8VfeNFXgdM",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Telekinesis",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.b7H8gO8VfeNFXgdM"
+    },
+    {
+      "_id": "5Pr8hrvKp3fjMS0W",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        83,
+        88
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Water Walking",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.5Pr8hrvKp3fjMS0W"
+    },
+    {
+      "_id": "EkOH0i78V3wwR9cs",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Weakness",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.EkOH0i78V3wwR9cs"
+    },
+    {
+      "_id": "JrbB7rRAGoOU90XZ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        95,
+        96
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Wishes, 1-2",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.JrbB7rRAGoOU90XZ"
+    },
+    {
+      "_id": "woHNPx77KgLOCEFw",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Wishes, 1-3",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.woHNPx77KgLOCEFw"
+    },
+    {
+      "_id": "GXLIrjfoJ8t7mp2l",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of Wishes, 2-4",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.GXLIrjfoJ8t7mp2l"
+    },
+    {
+      "_id": "CY3ymMjRu3BPizdr",
+      "flags": {},
+      "type": "text",
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-gold.webp",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring of X-Ray Vision",
+      "name": "",
+      "_key": "!tables.results!F5dS4DX5J4wJJV2n.CY3ymMjRu3BPizdr"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "F5dS4DX5J4wJJV2n",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!F5dS4DX5J4wJJV2n"
+}

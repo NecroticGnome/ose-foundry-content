@@ -1,0 +1,38 @@
+{
+  "name": "Flying Carpet",
+  "type": "item",
+  "flags": {},
+  "img": "icons/sundries/scrolls/scroll-plain-red.webp",
+  "effects": [],
+  "_id": "M8ywj7xJMyY0dAA5",
+  "system": {
+    "description": "<p>An enchanted carpet that can fly through the air, carrying up to three passengers (and their gear). The movement rate depends on the number of passengers:</p>\n<ul>\n<li><strong>1 passenger:</strong> 300′ (100′).</li>\n<li><strong>2 passengers:</strong> 240′ (80′).</li>\n<li><strong>3 passengers:</strong> 180′ (60′).</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456513337,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!M8ywj7xJMyY0dAA5"
+}

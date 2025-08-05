@@ -1,0 +1,38 @@
+{
+  "_id": "8ZID1ekfNgvZycrZ",
+  "name": "Mirror (hand-sized, steel)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/sundries/survival/mirror-plain.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>&nbsp;Useful for looking around corners or for reflecting a gaze attack.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 5,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!8ZID1ekfNgvZycrZ"
+}

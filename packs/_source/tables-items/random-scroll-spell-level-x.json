@@ -1,0 +1,184 @@
+{
+  "name": "Random Scroll Spell Level X",
+  "flags": {},
+  "img": "icons/tools/navigation/map-marked-brown.webp",
+  "description": "Random Scroll Spell Level (Expert Table)",
+  "results": [
+    {
+      "_id": "KRVAYWiQLuM2XqMe",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-brown.webp",
+      "weight": 1,
+      "range": [
+        1,
+        25
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1st level, arcane or divine",
+      "name": "",
+      "_key": "!tables.results!GIgko1uwjjbFdfJS.KRVAYWiQLuM2XqMe"
+    },
+    {
+      "_id": "slxhxZUgcr7Nu2PR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-brown.webp",
+      "weight": 1,
+      "range": [
+        26,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "2nd level, arcane or divine",
+      "name": "",
+      "_key": "!tables.results!GIgko1uwjjbFdfJS.slxhxZUgcr7Nu2PR"
+    },
+    {
+      "_id": "fq8oLxNhGvZNHskI",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-brown.webp",
+      "weight": 1,
+      "range": [
+        51,
+        70
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3rd level, arcane or divine",
+      "name": "",
+      "_key": "!tables.results!GIgko1uwjjbFdfJS.fq8oLxNhGvZNHskI"
+    },
+    {
+      "_id": "IKaSI57q1DBYNWBb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-brown.webp",
+      "weight": 1,
+      "range": [
+        71,
+        85
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "4th level, arcane or divine",
+      "name": "",
+      "_key": "!tables.results!GIgko1uwjjbFdfJS.IKaSI57q1DBYNWBb"
+    },
+    {
+      "_id": "h7bzSqicmPIXVJYz",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-brown.webp",
+      "weight": 1,
+      "range": [
+        86,
+        95
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "5th level, arcane or divine",
+      "name": "",
+      "_key": "!tables.results!GIgko1uwjjbFdfJS.h7bzSqicmPIXVJYz"
+    },
+    {
+      "_id": "jjnc6fOgDagafLkA",
+      "flags": {},
+      "type": "text",
+      "img": "icons/tools/navigation/map-marked-brown.webp",
+      "weight": 1,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "6th level arcane, 5th level divine",
+      "name": "",
+      "_key": "!tables.results!GIgko1uwjjbFdfJS.jjnc6fOgDagafLkA"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "GIgko1uwjjbFdfJS",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!GIgko1uwjjbFdfJS"
+}

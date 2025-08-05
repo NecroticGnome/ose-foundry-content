@@ -1,0 +1,37 @@
+{
+  "name": "MU5.06 Hold Monster",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "xet24lljmr5dXZzk",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell causes one or more creatures to be paralysed if they fail a saving throw versus spells. It may be cast in two ways:</p>\n<ol>\n<li><strong>Against an individual: </strong>The target&rsquo;s saving throw is penalised by -2.</li>\n<li><strong>Against a group:</strong> [[/r 1d4 # Individuals Held]] individuals in the group are targeted.</li>\n</ol>\n<p><strong>Restrictions:</strong> Undead are not affected.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 5,
+    "class": "Magic-User",
+    "duration": "6 turns + 1 per level",
+    "range": "120'",
+    "roll": "1d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 1900000,
+  "_key": "!items!xet24lljmr5dXZzk"
+}

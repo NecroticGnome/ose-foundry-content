@@ -1,0 +1,38 @@
+{
+  "_id": "FKc2ct1YwxELjIdZ",
+  "name": "Pole (10' long, wooden)",
+  "type": "item",
+  "flags": {},
+  "img": "icons/commodities/wood/wood-pole.webp",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A 2&Prime; thick wooden pole useful for poking and prodding suspicious items in a dungeon.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": null
+    },
+    "weight": null,
+    "cost": 1,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!FKc2ct1YwxELjIdZ"
+}

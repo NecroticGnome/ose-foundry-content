@@ -1,0 +1,132 @@
+{
+  "name": "Magic Weapons B",
+  "flags": {},
+  "img": "icons/weapons/daggers/dagger-bone-black.webp",
+  "description": "Magic Weapons (Basic Table)",
+  "results": [
+    {
+      "_id": "xd0Nm7FtFSRDvJK0",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arrows +1 (10)",
+      "name": "",
+      "_key": "!tables.results!DT6NpEwKEwwMxSGX.xd0Nm7FtFSRDvJK0"
+    },
+    {
+      "_id": "maSKln760MfXykKC",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/axes/axe-battle-blackened.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Axe +1",
+      "name": "",
+      "_key": "!tables.results!DT6NpEwKEwwMxSGX.maSKln760MfXykKC"
+    },
+    {
+      "_id": "ZJ1T9IW8JfWtfhSL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/daggers/dagger-blue.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dagger +1",
+      "name": "",
+      "_key": "!tables.results!DT6NpEwKEwwMxSGX.ZJ1T9IW8JfWtfhSL"
+    },
+    {
+      "_id": "zJ44AxU9fT50YXFq",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/maces/mace-cube-spiked-steel.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mace +1",
+      "name": "",
+      "_key": "!tables.results!DT6NpEwKEwwMxSGX.zJ44AxU9fT50YXFq"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "DT6NpEwKEwwMxSGX",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!DT6NpEwKEwwMxSGX"
+}

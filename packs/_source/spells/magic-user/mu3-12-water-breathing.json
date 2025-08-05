@@ -1,0 +1,37 @@
+{
+  "name": "MU3.12 Water Breathing",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "vSMzgEBnGZ8825xH",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>The subject can breathe water freely by means of this spell.</p>\n<p><strong>Breathing air: </strong>The spell does not affect the subject’s ability to breathe air.</p>\n<p><strong>Swimming:</strong> No additional proficiency at swimming is granted.</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "1 day",
+    "range": "30'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 3800000,
+  "_key": "!items!vSMzgEBnGZ8825xH"
+}

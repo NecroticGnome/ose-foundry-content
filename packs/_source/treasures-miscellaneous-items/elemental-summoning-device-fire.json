@@ -1,0 +1,38 @@
+{
+  "name": "Elemental Summoning Device: Fire",
+  "type": "item",
+  "flags": {},
+  "img": "icons/tools/cooking/oven-stone-grey.webp",
+  "effects": [],
+  "_id": "tkA030WvZO5xg7wU",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Ritual items enchanted with the power to summon beings from the elemental planes. Each elemental plane has a different type of device:</p>\n<ul>\n<li><strong>Air:</strong> A censer.</li>\n<li><strong>Earth:</strong> A 6&rdquo; diameter stone.</li>\n<li><strong>Fire:</strong> A brazier.</li>\n<li><strong>Water:</strong> A 3′ diameter bowl.</li>\n</ul>\n<p><strong>Usage:</strong> The items may be used as follows:</p>\n<ul>\n<li><strong>Frequency:</strong> The summoning power may only be used once per day.</li>\n<li><strong>Before use:</strong> The device must be prepared. This takes one turn.</li>\n<li><strong>Activation:</strong> Once prepared, activating the device takes one round.</li>\n<li><strong>Summoned elemental:</strong> A 12 HD elemental (see <a title=\"Elemental\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Elemental\">Elemental</a>) is conjured to do the summoner&rsquo;s bidding.</li>\n<li><strong>Command over the elemental:</strong> Works as described in the magic-user spell <em>conjure elemental</em> (see <a title=\"Conjure Elemental\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Conjure_Elemental\">Conjure Elemental</a>).</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!tkA030WvZO5xg7wU"
+}

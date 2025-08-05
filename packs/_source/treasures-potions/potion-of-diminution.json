@@ -1,0 +1,38 @@
+{
+  "name": "Potion of Diminution",
+  "type": "item",
+  "flags": {},
+  "img": "icons/consumables/potions/potion-tube-corked-orange.webp",
+  "effects": [],
+  "_id": "6HPJslMaeFIdVG5G",
+  "system": {
+    "description": "<p>The character shrinks to 6&rdquo; high.</p>\n<ul>\n<li><strong>Combat effectiveness:</strong> While shrunk, the character is unable to harm creatures larger than 1′ tall.</li>\n<li><strong>Narrow spaces:</strong> The character can slip through narrow spaces.</li>\n<li><strong>Remaining motionless:</strong> The character only has a 10% chance of being spotted.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 5,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "systemId": "ose",
+    "systemVersion": "1.8.3",
+    "coreVersion": "13.342",
+    "createdTime": null,
+    "modifiedTime": 1682456797762,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6HPJslMaeFIdVG5G"
+}

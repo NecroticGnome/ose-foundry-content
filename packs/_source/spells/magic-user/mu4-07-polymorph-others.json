@@ -1,0 +1,37 @@
+{
+  "name": "MU4.07 Polymorph Others",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "ixwnAbuwSju0TMzD",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A living subject is changed into another type of creature, as chosen by the caster:</p>\n<ul>\n<li><strong>HD:</strong> The spell fails if the new form’s HD is more than twice the subject’s HD.</li>\n<li><strong>Hit points:</strong> The subject retains the same number of hit points.</li>\n<li><strong>Abilities: </strong>The subject truly becomes the new form: all special abilities are acquired, along with behavioural patterns, tendencies, and intelligence.</li>\n<li><strong>Specific individuals:</strong> The spell cannot be used to duplicate a specific individual.</li>\n<li><strong>Reversion:</strong> If the subject dies, it returns to its original form.</li>\n<li><strong>An unwilling subject:</strong> May <strong>save versus spells</strong> to negate the effect.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "breath",
+    "lvl": 4,
+    "class": "Magic-User",
+    "duration": "Permanent",
+    "range": "60'",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 3100000,
+  "_key": "!items!ixwnAbuwSju0TMzD"
+}

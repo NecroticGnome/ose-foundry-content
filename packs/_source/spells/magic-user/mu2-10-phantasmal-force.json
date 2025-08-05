@@ -1,0 +1,37 @@
+{
+  "name": "MU2.10 Phantasmal Force",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "2w2WUYMWSkghdy14",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A visual illusion of the caster&rsquo;s choosing manifests in a 20′ cube area. Three types of illusion may be created:</p>\n<ol>\n<li><strong>An illusionary monster: </strong>That can be directed to attack.The monster has an Armour Class of 9 [10] and will vanish if hit in combat.</li>\n<li><strong>An illusionary attack:</strong> For example, an avalanche, a falling ceiling, a magic missile, etc. Targets <strong>who save versus spells</strong> are unaffected.</li>\n<li><strong>A scene:</strong> Either changing the appearance of the affected area or creating the appearance of something new. The scene disappears if touched.</li>\n</ol>\n<p><strong>Stipulations:</strong> The following apply:</p>\n<ul>\n<li><strong>Concentration:</strong> Is required to maintain the illusion. If the caster moves or loses concentration, the spell ends.</li>\n<li><strong>Illusionary monsters or attacks:</strong> May appear to be harmful but no real damage is ever inflicted. A character who appears to die actually falls unconscious, a character turned to stone will actually be paralysed, and so on. Such effects last for [[/r 1d4 #Turns]] turns.</li>\n<li><strong>Illusions from imagination:</strong> If the illusion is of something the caster has not personally seen, the referee should grant targets a bonus to any applicable saving throws.</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Magic-User",
+    "duration": "Conc.",
+    "range": "240'",
+    "roll": "1d4",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 5200000,
+  "_key": "!items!2w2WUYMWSkghdy14"
+}

@@ -1,0 +1,811 @@
+{
+  "_id": "sM1rmA1Bci4Oao28",
+  "name": "Devil Swine",
+  "type": "monster",
+  "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+  "items": [
+    {
+      "_id": "DGauaLlOUDtqsgeh",
+      "name": "Shapechange",
+      "type": "ability",
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Only at night.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.DGauaLlOUDtqsgeh"
+    },
+    {
+      "_id": "CJdpAeNXf1NAZfud",
+      "name": "Ambush",
+      "type": "ability",
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Prefer to attack by surprise.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.CJdpAeNXf1NAZfud"
+    },
+    {
+      "_id": "NBhkOdtaNAdCG5ef",
+      "name": "Charm person",
+      "type": "ability",
+      "sort": 250000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>3 times a day. <strong>Save versus spells</strong> at &ndash;2 or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine&rsquo;s commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the devil swine breaks the charm.</p>",
+        "save": "spell",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.NBhkOdtaNAdCG5ef"
+    },
+    {
+      "_id": "ZLR0TmSuqs0hZay4",
+      "name": "Charmed victims",
+      "type": "ability",
+      "sort": 300000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>[[/r 1d4 1]] accompany a devil swine.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.ZLR0TmSuqs0hZay4"
+    },
+    {
+      "_id": "Yv6ej8KMdsgQRF1W",
+      "name": "Human form",
+      "type": "ability",
+      "sort": 400000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Have physical characteristics reminiscent of the associated animal type.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.Yv6ej8KMdsgQRF1W"
+    },
+    {
+      "_id": "8KTv3EJOeCUMKuso",
+      "name": "Mundane damage immunity",
+      "type": "ability",
+      "sort": 500000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "In animal form, can only harmed by silver weapons or magic.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.8KTv3EJOeCUMKuso"
+    },
+    {
+      "_id": "jCne17AAlcfIY4n8",
+      "name": "Languages",
+      "type": "ability",
+      "sort": 600000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "In human form, can speak normally. In animal form, can only speak with animals of the associated type.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.jCne17AAlcfIY4n8"
+    },
+    {
+      "_id": "Mo7uFpGMdJaJvzCL",
+      "name": "Armour",
+      "type": "ability",
+      "sort": 700000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Not used because it hinders shape-changing.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.Mo7uFpGMdJaJvzCL"
+    },
+    {
+      "_id": "m4JTOI2BPSYBdjJx",
+      "name": "Summon animals",
+      "type": "ability",
+      "sort": 900000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Can summon 1&ndash;2 animals of the associated type from the surrounding area (wererats summon giant rats). These arrive in [[/r 1d4]] rounds.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "1d2",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.m4JTOI2BPSYBdjJx"
+    },
+    {
+      "_id": "VLWkIRCUa8NiajQP",
+      "name": "Wolfsbane",
+      "type": "ability",
+      "sort": 1000000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "If hit, must save versus poison or flee in terror.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.VLWkIRCUa8NiajQP"
+    },
+    {
+      "_id": "9O0gTRVxjUd3bvUQ",
+      "name": "Reversion",
+      "type": "ability",
+      "sort": 1100000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "If killed, a lycanthrope reverts to its human form.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.9O0gTRVxjUd3bvUQ"
+    },
+    {
+      "_id": "uGVaOQuJQnUVO6EM",
+      "name": "Scent",
+      "type": "ability",
+      "sort": 1200000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "Horses and some other animals can smell lycanthropes and will become afraid.",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.uGVaOQuJQnUVO6EM"
+    },
+    {
+      "_id": "cj0Pyq2piPKrx6fA",
+      "name": "Infection",
+      "type": "ability",
+      "sort": 1300000,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>A character who loses more than half their hit points from the natural attacks of lycanthropes (i.e. bites, claws) contracts lycanthropy. Humans become were-creatures of the same type (run by the referee, henceforth); non-humans die. The disease takes full effect in [[/r 2d12]] days, showing signs of infection after half the time.</p>",
+        "save": "",
+        "pattern": "white",
+        "requirements": "",
+        "roll": "2d12",
+        "rollType": "result",
+        "rollTarget": 0,
+        "blindroll": false,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.cj0Pyq2piPKrx6fA"
+    },
+    {
+      "_id": "jcZn3Im8mnrMBGRR",
+      "name": "Shortsword",
+      "type": "weapon",
+      "sort": 1400000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p>Melee</p>",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 30,
+        "cost": 7,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "yellow",
+        "damage": "1d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.jcZn3Im8mnrMBGRR"
+    },
+    {
+      "_id": "0kMlu0SvB5bhpbcg",
+      "name": "Gore",
+      "type": "weapon",
+      "sort": 800000,
+      "flags": {},
+      "img": "icons/skills/melee/swords-parry-block-blue.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "",
+        "quantity": {
+          "value": 1,
+          "max": 0
+        },
+        "weight": 0,
+        "cost": 0,
+        "containerId": "",
+        "save": "",
+        "equipped": false,
+        "range": {
+          "short": 0,
+          "medium": 0,
+          "long": 0
+        },
+        "pattern": "red",
+        "damage": "2d6",
+        "bonus": 0,
+        "tags": [],
+        "slow": false,
+        "missile": false,
+        "melee": true,
+        "counter": {
+          "value": 1,
+          "max": 1
+        },
+        "itemslots": 1
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.0kMlu0SvB5bhpbcg"
+    },
+    {
+      "_id": "uzfsOwpdqiG8BJZj",
+      "name": "Charm Person",
+      "type": "spell",
+      "sort": 0,
+      "flags": {},
+      "img": "icons/sundries/books/book-tooled-eye-gold-red.webp",
+      "effects": [],
+      "folder": null,
+      "system": {
+        "description": "<p><span style=\"color: #191813;\">3 times a day.&nbsp;</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Save versus spells</strong><span style=\"color: #191813;\">&nbsp;at &ndash;2 or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine&rsquo;s commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the devil swine breaks the charm.</span></p>",
+        "save": "spell",
+        "lvl": 1,
+        "class": "Nixie",
+        "duration": "",
+        "range": "",
+        "roll": "",
+        "memorized": 1,
+        "cast": 1,
+        "tags": []
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sM1rmA1Bci4Oao28.uzfsOwpdqiG8BJZj"
+    }
+  ],
+  "effects": [],
+  "folder": "tpLubT9NvRtaXgzu",
+  "flags": {},
+  "system": {
+    "retainer": {
+      "enabled": false,
+      "loyalty": 0,
+      "wage": ""
+    },
+    "hp": {
+      "hd": "9d8",
+      "value": 40,
+      "max": 40
+    },
+    "ac": {
+      "value": 3,
+      "mod": 0,
+      "naked": 12,
+      "shield": 0
+    },
+    "aac": {
+      "value": 16,
+      "mod": 0,
+      "naked": 7,
+      "shield": 0
+    },
+    "thac0": {
+      "value": 12,
+      "bba": 7,
+      "mod": {
+        "missile": 0,
+        "melee": 0
+      }
+    },
+    "saves": {
+      "death": {
+        "value": 8
+      },
+      "wand": {
+        "value": 9
+      },
+      "paralysis": {
+        "value": 10
+      },
+      "breath": {
+        "value": 10
+      },
+      "spell": {
+        "value": 12
+      }
+    },
+    "movement": {
+      "base": 180,
+      "encounter": 60
+    },
+    "initiative": {
+      "value": 0,
+      "mod": 0
+    },
+    "languages": {
+      "value": [],
+      "literacy": "",
+      "spoken": "OSE.NativeBroken"
+    },
+    "spells": {
+      "1": {
+        "max": 0,
+        "value": 1
+      },
+      "2": {
+        "max": 0
+      },
+      "3": {
+        "max": 0
+      },
+      "4": {
+        "max": 0
+      },
+      "5": {
+        "max": 0
+      },
+      "6": {
+        "max": 0
+      },
+      "enabled": true
+    },
+    "details": {
+      "biography": "Corpulent humans who can change into huge swine. Love to eat human flesh. Lurk in isolated human settlements close to forests or marshes. Shapechangers with a human and an animal form.",
+      "alignment": "Chaotic",
+      "xp": "1600",
+      "specialAbilities": "1",
+      "treasure": {
+        "table": "@UUID[Compendium.classicfantasycompendium.treasures.RollTable.jlNmWDPy08DQZdiH]",
+        "type": ""
+      },
+      "appearing": {
+        "d": "1d3",
+        "w": "1d4"
+      },
+      "morale": "10",
+      "notes": "",
+      "class": "",
+      "title": "",
+      "level": 1,
+      "movement": "180’ (60’) / 120’ (40’) in human form"
+    },
+    "config": {
+      "movementAuto": true
+    },
+    "encumbrance": {
+      "max": 1600,
+      "value": 0
+    }
+  },
+  "prototypeToken": {
+    "flags": {},
+    "name": "Devil Swine",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": true,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "dim": 0,
+      "bright": 0,
+      "angle": 360,
+      "color": "#ffb638",
+      "alpha": 0.1,
+      "animation": {
+        "speed": 3,
+        "intensity": 4,
+        "type": "torch",
+        "reverse": false
+      },
+      "coloration": 1,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 0,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "modifiedTime": 1751866302355,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!sM1rmA1Bci4Oao28"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "MU3.10 Protection from Evil 10′ radius",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "IStNp617ZoTWA4q8",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863220482,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>This spell wards the caster and all allies within 10&prime; from attacks by creatures of another alignment, as follows:</p>\n<ul>\n<li><strong>Bonuses: </strong>Those warded gain a +1 bonus to saving throws against attacks or special abilities of affected creatures.</li>\n<li><strong>Affected creatures&rsquo; attacks:</strong> Against those warded are penalised by -1.</li>\n<li><strong>Enchanted, constructed, or summoned creatures: </strong>The spell additionally prevents such creatures from making melee attacks against those warded, though they may still make ranged attacks. If any of the warded party engages such a creature in melee, this protection is broken (those warded still gain the save and attack bonuses mentioned above).</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 3,
+    "class": "Magic-User",
+    "duration": "12 turns",
+    "range": "10′ around the caster",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "1lqsQZofvTDM9PeU",
+  "sort": 4000000,
+  "_key": "!items!IStNp617ZoTWA4q8"
+}

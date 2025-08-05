@@ -1,0 +1,470 @@
+{
+  "name": "Magic Swords X",
+  "flags": {},
+  "img": "icons/weapons/swords/sword-guard-serrated.webp",
+  "description": "Magic Swords (Expert Table)",
+  "results": [
+    {
+      "_id": "zVZrP06byv9tzyEG",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword -1, Cursed",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.zVZrP06byv9tzyEG"
+    },
+    {
+      "_id": "IC8rde81Sh5yeOgR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword -2, Cursed",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.IC8rde81Sh5yeOgR"
+    },
+    {
+      "_id": "znE4t8HX41lh1sHj",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        5,
+        44
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.znE4t8HX41lh1sHj"
+    },
+    {
+      "_id": "MfUibxwGm0xQgHpg",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        45,
+        50
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, +2 vs Lychantropes",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.MfUibxwGm0xQgHpg"
+    },
+    {
+      "_id": "AbKSa5F6DTY2ghe6",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        51,
+        56
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, +2 vs Spell User",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.AbKSa5F6DTY2ghe6"
+    },
+    {
+      "_id": "rnH1sxZVMO1JiHPo",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        57,
+        61
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, +3 vs Dragons",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.rnH1sxZVMO1JiHPo"
+    },
+    {
+      "_id": "vhkHqLLAU7g7najL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        62,
+        66
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, +3 vs Enchanted Creatures",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.vhkHqLLAU7g7najL"
+    },
+    {
+      "_id": "4XfX1cPxXDBZ8EbM",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        67,
+        71
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, +3 vs Regenerating Creature",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.4XfX1cPxXDBZ8EbM"
+    },
+    {
+      "_id": "WhxTlXzFofX2ulbH",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        72,
+        76
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, +3 vs Undead",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.WhxTlXzFofX2ulbH"
+    },
+    {
+      "_id": "qVR4mP4b8ZFyWnvk",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, Energy Drain",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.qVR4mP4b8ZFyWnvk"
+    },
+    {
+      "_id": "vL94Y7BeDIelIP0D",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        78,
+        81
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, Flaming",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.vL94Y7BeDIelIP0D"
+    },
+    {
+      "_id": "2gx71dppsXMPzQj4",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        82,
+        89
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, Light",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.2gx71dppsXMPzQj4"
+    },
+    {
+      "_id": "h7EwLgymkzsHpay3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        90,
+        92
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, Locate Object",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.h7EwLgymkzsHpay3"
+    },
+    {
+      "_id": "KJwDAq9xnQJlhCJ8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +1, Wishes",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.KJwDAq9xnQJlhCJ8"
+    },
+    {
+      "_id": "S4K6svot6tIJmeQJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        94,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +2",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.S4K6svot6tIJmeQJ"
+    },
+    {
+      "_id": "tnnLFbvSb8arjLHb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        97,
+        98
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +2, Charm Person",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.tnnLFbvSb8arjLHb"
+    },
+    {
+      "_id": "KBjVirY3ffrSLa4G",
+      "flags": {},
+      "type": "text",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sword +3",
+      "name": "",
+      "_key": "!tables.results!gXjfuvhPsqPNZvsM.KBjVirY3ffrSLa4G"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": false,
+  "_id": "gXjfuvhPsqPNZvsM",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!gXjfuvhPsqPNZvsM"
+}

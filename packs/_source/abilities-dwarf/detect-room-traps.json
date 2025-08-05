@@ -1,0 +1,36 @@
+{
+  "name": "Detect Room Traps",
+  "type": "ability",
+  "flags": {},
+  "img": "systems/ose/assets/default/ability.png",
+  "effects": [],
+  "_id": "AhRFPWLo39ZKjnkB",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>Due to their expertise with construction, dwarves have a 2-in-6 chance of detecting non-magical room traps when searching (see&nbsp;<a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring\">Dungeon Adventuring</a>).</p>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "pattern": "white",
+    "requirements": "Dwarf",
+    "roll": "1d6",
+    "rollType": "below",
+    "rollTarget": 2,
+    "blindroll": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!AhRFPWLo39ZKjnkB"
+}

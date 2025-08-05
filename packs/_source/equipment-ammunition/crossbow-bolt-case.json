@@ -1,0 +1,38 @@
+{
+  "name": "Crossbow bolt case",
+  "type": "item",
+  "flags": {},
+  "img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
+  "effects": [],
+  "_id": "b62HP8q4n7CSNq6W",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 30,
+      "max": 30
+    },
+    "weight": 0,
+    "cost": 10,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!b62HP8q4n7CSNq6W"
+}

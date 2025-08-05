@@ -1,0 +1,236 @@
+{
+  "name": "NPC Adventurer Class & Level X",
+  "flags": {},
+  "img": "icons/svg/cowled.svg",
+  "description": "NPC Adventurer Class &amp; Level (Expert)",
+  "results": [
+    {
+      "_id": "EbEW6pPeiQbjKg9G",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cleric, lvl [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.EbEW6pPeiQbjKg9G"
+    },
+    {
+      "_id": "nQHKnxGNZoVAPdK9",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dwarf, lvl [[1d6+6]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.nQHKnxGNZoVAPdK9"
+    },
+    {
+      "_id": "kUhAxL44p278SrwL",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elf, lvl [[1d6+2]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.kUhAxL44p278SrwL"
+    },
+    {
+      "_id": "00Ry6e50XAhBxFu3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fighter, lvl [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.00Ry6e50XAhBxFu3"
+    },
+    {
+      "_id": "tvwMgEhsini519sR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fighter, lvl [[1d6+5]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.tvwMgEhsini519sR"
+    },
+    {
+      "_id": "blIqk72W4WdwRf40",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Halfling, lvl [[1d6+2]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.blIqk72W4WdwRf40"
+    },
+    {
+      "_id": "fnmshRjzGJdA2m1E",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magic-User, lvl [[1d6+3]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.fnmshRjzGJdA2m1E"
+    },
+    {
+      "_id": "MdJen3OPzpOb9Ye8",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thief, lvl [[1d6+4]]",
+      "name": "",
+      "_key": "!tables.results!unJJ4Yu7aCT4q3kX.MdJen3OPzpOb9Ye8"
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "unJJ4Yu7aCT4q3kX",
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!tables!unJJ4Yu7aCT4q3kX"
+}

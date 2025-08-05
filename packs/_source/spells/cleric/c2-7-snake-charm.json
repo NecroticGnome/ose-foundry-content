@@ -1,0 +1,37 @@
+{
+  "name": "C2.7 Snake Charm",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "tzYIv5KjJRtPihVM",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>One or more snakes are rendered non-hostile, rearing up and swaying to and fro but not attacking.</p>\n<ul>\n<li><strong>HD affected:</strong>The spell affects snakes whose total Hit Dice do not exceed the caster&rsquo;s level. For example, a 7th level caster can affect 7 HD of snakes, which can equal seven 1 HD snakes, or two 3 HD snakes and one 1 HD snake, or any other combination.</li>\n<li><strong>Duration: </strong>When cast on snakes that are already attacking, the spell lasts for 1d4+1 rounds. Otherwise, it lasts for 1d4+1 turns.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "1d4+1 rounds",
+    "range": "60'",
+    "roll": "1d4+1",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 2100000,
+  "_key": "!items!tzYIv5KjJRtPihVM"
+}

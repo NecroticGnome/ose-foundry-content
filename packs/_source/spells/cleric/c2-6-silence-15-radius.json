@@ -1,0 +1,37 @@
+{
+  "name": "C2.6 Silence 15′ Radius",
+  "type": "spell",
+  "flags": {},
+  "img": "systems/ose/assets/default/spell.png",
+  "effects": [],
+  "_id": "8cf3q2KpU2fPQwkh",
+  "_stats": {
+    "coreVersion": "13.345",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1751863178733,
+    "lastModifiedBy": "osebuilder000000",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A 15&prime; radius area is rendered utterly silent.</p>\n<ul>\n<li><strong>Within the area</strong>: All sound is stopped. Conversation and spell casting are impossible.</li>\n<li><strong>Noise from outside the area</strong>: Can be heard by those within it.</li>\n</ul>\n<ul>\n<li><strong>Casting upon a creature</strong>: <em>Silence </em>may be cast upon a creature, which must <strong>save versus spells</strong>. If the save fails, the 15&prime; radius area of silence moves with the creature. If the save succeeds, the spell&rsquo;s effect remains stationary&mdash;the targeted creature may move out of it.</li>\n</ul>\n<p>&nbsp;</p>",
+    "autoTags": [],
+    "manualTags": [],
+    "save": "spell",
+    "lvl": 2,
+    "class": "Cleric",
+    "duration": "12 turns",
+    "range": "180′",
+    "roll": "",
+    "memorized": 0,
+    "cast": 0
+  },
+  "folder": "ZqMuAcZCeYDB8FsT",
+  "sort": 2200000,
+  "_key": "!items!8cf3q2KpU2fPQwkh"
+}

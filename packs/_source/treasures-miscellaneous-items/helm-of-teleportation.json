@@ -1,0 +1,38 @@
+{
+  "name": "Helm of Teleportation",
+  "type": "item",
+  "flags": {},
+  "img": "icons/equipment/head/helm-spangen-horned-gold.webp",
+  "effects": [],
+  "_id": "XLCmuPfxB2TcLRTI",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "<p>A magical helm that gives an arcane spell caster the ability to cast the <a title=\"Teleport\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Teleport\">Teleport</a> spell.</p>\n<ul>\n<li><strong>Subject:</strong> The wearer may teleport themselves, another creature, or an object.</li>\n<li><strong>Resisting:</strong> If used on another creature or object, a save versus spells is allowed to resist being teleported.</li>\n<li><strong>When first found:</strong> The helm&rsquo;s power is usable only once.</li>\n<li><strong>Recharging:</strong> To be used again, a teleport spell must be cast upon the helm.</li>\n<li><strong>Once recharged:</strong> The wearer may use the helm an unlimited number of times (at most once per round). If the helm is used on an unwilling subject, it once again loses its power and must be</li>\n</ul>",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 0,
+    "cost": 0,
+    "containerId": "",
+    "treasure": false,
+    "isContainer": false
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!XLCmuPfxB2TcLRTI"
+}

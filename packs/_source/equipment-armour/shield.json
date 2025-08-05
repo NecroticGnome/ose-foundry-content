@@ -1,0 +1,44 @@
+{
+  "name": "Shield",
+  "type": "armor",
+  "flags": {},
+  "img": "icons/equipment/shield/round-wooden-boss-steel-red.webp",
+  "effects": [],
+  "_id": "IdYZfRwcaUq1roXV",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "description": "",
+    "autoTags": [],
+    "manualTags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "weight": 100,
+    "cost": 10,
+    "containerId": "",
+    "equipped": false,
+    "ac": {
+      "value": 1
+    },
+    "aac": {
+      "value": 1
+    },
+    "type": "shield"
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!IdYZfRwcaUq1roXV"
+}
