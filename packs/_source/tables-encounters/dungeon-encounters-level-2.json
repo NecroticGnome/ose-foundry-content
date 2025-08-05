@@ -530,12 +530,12 @@
   "displayRoll": false,
   "_id": "IXbtfaW3ALid48Td",
   "_stats": {
-    "coreVersion": "13.342",
+    "coreVersion": "13.346",
     "systemId": null,
     "systemVersion": null,
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000",
     "duplicateSource": null,
     "exportSource": null
   },

@@ -1,0 +1,178 @@
+{
+  "folder": "EFdRf0thEVgZD5ii",
+  "name": "Barren, Hills, Mountains",
+  "_id": "gQaZ9AvfxgDk8VMl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>Notes</strong></p><p><strong>Aerial encounters</strong>: Always use the @UUID[Compendium.classicfantasycompendium.tables-encounters.RollTable.d8Sar5mDdT22BTvk]{Flyer table}.</p><p><strong>Lost World</strong>: In Lost World or prehistoric settings, any Animal result may be rolled on the @UUID[Compendium.classicfantasycompendium.tables-encounters.RollTable.8fm0SA26n8m4GVdX]{Prehistoric Animal table}.</p><p><strong>NPC adventurers</strong>: Encounters with NPC adventuring parties are listed in the tables as “Basic Adventurers”, “Expert Adventurers”, “High-Level Cleric”, “High-Level Fighter”, or “High-Level Magic-User”. Guidelines for generating NPC adven- turers can be found under @UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.tUJiecP7ocI5EY7o.JournalEntryPage.JMX1Z5WDrBb7f6Ay]{Adventuring Parties}.</p>",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Wilderness Sub-Table B: Animal",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.RyULpJ1imwdQBZBH",
+      "_id": "MhEu1fi3Eo5tdG7D",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!gQaZ9AvfxgDk8VMl.MhEu1fi3Eo5tdG7D"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        3
+      ],
+      "name": "Wilderness Sub-Table 1: Dragon",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.0GZBU3lqtm2AN5Zw",
+      "_id": "5nvIaPdWJfEfUzqg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!gQaZ9AvfxgDk8VMl.5nvIaPdWJfEfUzqg"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Wilderness Sub-Table B: Flyer",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.RSWCdZorQKiuXYSC",
+      "_id": "rp1izES3XuhwtK2A",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!gQaZ9AvfxgDk8VMl.rp1izES3XuhwtK2A"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Wilderness Sub-Table B: Human",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.nJX3cq9dnblryFGo",
+      "_id": "AGDTke4cW0WA6nKH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!gQaZ9AvfxgDk8VMl.AGDTke4cW0WA6nKH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        7
+      ],
+      "name": "Wilderness Sub-Table B: Humanoid",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.dHyJdh2oQrqi4Fwf",
+      "_id": "em2PtI5d2p76lz2h",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!gQaZ9AvfxgDk8VMl.em2PtI5d2p76lz2h"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Wilderness Sub-Table 2: Unusual",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.euoPHNBDMmPeHM4g",
+      "_id": "9YLMvPCYHumO0PUu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!gQaZ9AvfxgDk8VMl.9YLMvPCYHumO0PUu"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752203707933,
+    "modifiedTime": 1752204260471,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "formula": "1d8",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!gQaZ9AvfxgDk8VMl"
+}

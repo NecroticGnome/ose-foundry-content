@@ -1,0 +1,203 @@
+{
+  "folder": "EFdRf0thEVgZD5ii",
+  "name": "Clear, Grasslands",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p><strong>Notes</strong></p><p><strong>Aerial encounters</strong>: Always use the @UUID[Compendium.classicfantasycompendium.tables-encounters.RollTable.d8Sar5mDdT22BTvk]{Flyer table}.</p><p><strong>Lost World</strong>: In Lost World or prehistoric settings, any Animal result may be rolled on the @UUID[Compendium.classicfantasycompendium.tables-encounters.RollTable.8fm0SA26n8m4GVdX]{Prehistoric Animal table}.</p><p><strong>NPC adventurers</strong>: Encounters with NPC adventuring parties are listed in the tables as “Basic Adventurers”, “Expert Adventurers”, “High-Level Cleric”, “High-Level Fighter”, or “High-Level Magic-User”. Guidelines for generating NPC adven- turers can be found under @UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.tUJiecP7ocI5EY7o.JournalEntryPage.JMX1Z5WDrBb7f6Ay]{Adventuring Parties}.</p>",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "name": "Wilderness Sub-Table G: Animal",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.TrjwIi25750a5XM4",
+      "_id": "3nq7Bk3D1M0mStfe",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SSFYdVROeUzkGcbp.3nq7Bk3D1M0mStfe"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Wilderness Sub-Table 1: Dragon",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.0GZBU3lqtm2AN5Zw",
+      "_id": "QaoAip5xCI6eN3bt",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SSFYdVROeUzkGcbp.QaoAip5xCI6eN3bt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Wilderness Sub-Table 1: Flyer",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.d8Sar5mDdT22BTvk",
+      "_id": "x5fhQgFOoZrowZeD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SSFYdVROeUzkGcbp.x5fhQgFOoZrowZeD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Wilderness Sub-Table G: Human",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.gnNkJJ5A8qzLgTvx",
+      "_id": "QmTsMxHHd60lr8hC",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SSFYdVROeUzkGcbp.QmTsMxHHd60lr8hC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Wilderness Sub-Table G: Humanoid",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.J5Q8vhSmBurpUrmx",
+      "_id": "XhIMrhZjiWvaPQWH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SSFYdVROeUzkGcbp.XhIMrhZjiWvaPQWH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Wilderness Sub-Table 1: Insect",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.ZJuNZdfnH1nO2VNA",
+      "_id": "i1Ar9zUdvJ1fRoRN",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SSFYdVROeUzkGcbp.i1Ar9zUdvJ1fRoRN"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Wilderness Sub-Table 2: Unusual",
+      "img": "icons/svg/combat.svg",
+      "documentUuid": "Compendium.classicfantasycompendium.tables-encounters.RollTable.euoPHNBDMmPeHM4g",
+      "_id": "5aCJDn2rOfOd7uJk",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "ose",
+        "systemVersion": "2.1.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SSFYdVROeUzkGcbp.5aCJDn2rOfOd7uJk"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "ose",
+    "systemVersion": "2.1.1",
+    "createdTime": 1752204260614,
+    "modifiedTime": 1752204260614,
+    "lastModifiedBy": "osebuilder000000"
+  },
+  "formula": "1d8",
+  "_id": "SSFYdVROeUzkGcbp",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!SSFYdVROeUzkGcbp"
+}
