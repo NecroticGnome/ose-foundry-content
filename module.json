@@ -56,7 +56,6 @@
       "label": "Abilities: Dwarf",
       "package": "classicfantasycompendium",
       "path": "packs/abilities-dwarf",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -65,7 +64,6 @@
       "label": "Abilities: Elf",
       "package": "classicfantasycompendium",
       "path": "packs/abilities-elf",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -74,7 +72,6 @@
       "label": "Abilities: Fighter",
       "package": "classicfantasycompendium",
       "path": "packs/abilities-fighter",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -83,7 +80,6 @@
       "label": "Abilities: Halfling",
       "package": "classicfantasycompendium",
       "path": "packs/abilities-halfling",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -92,7 +88,6 @@
       "label": "Abilities: Magic-User",
       "package": "classicfantasycompendium",
       "path": "packs/abilities-magic-user",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -101,7 +96,6 @@
       "label": "Abilities: Thief",
       "package": "classicfantasycompendium",
       "path": "packs/abilities-thief",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -110,7 +104,6 @@
       "label": "Equipment: Adventuring Gear",
       "package": "classicfantasycompendium",
       "path": "packs/equipment-adventuring-gear",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -119,7 +112,6 @@
       "label": "Equipment: Ammunition",
       "package": "classicfantasycompendium",
       "path": "packs/equipment-ammunition",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -128,7 +120,6 @@
       "label": "Equipment: Armour",
       "package": "classicfantasycompendium",
       "path": "packs/equipment-armour",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -137,7 +128,6 @@
       "label": "Equipment: Coins",
       "package": "classicfantasycompendium",
       "path": "packs/equipment-coins",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -146,7 +136,6 @@
       "label": "Equipment: Weapons",
       "package": "classicfantasycompendium",
       "path": "packs/equipment-weapons",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -155,7 +144,6 @@
       "label": "Monsters",
       "package": "classicfantasycompendium",
       "path": "packs/monsters",
-      "entity": "Actor",
       "type": "Actor",
       "system": "ose"
     },
@@ -164,7 +152,6 @@
       "label": "Spells",
       "package": "classicfantasycompendium",
       "path": "packs/spells",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -173,7 +160,6 @@
       "label": "Tables: Encounters",
       "package": "classicfantasycompendium",
       "path": "packs/tables-encounters",
-      "entity": "RollTable",
       "type": "RollTable",
       "system": "ose"
     },
@@ -182,7 +168,6 @@
       "label": "Tables: Items",
       "package": "classicfantasycompendium",
       "path": "packs/tables-items",
-      "entity": "RollTable",
       "type": "RollTable",
       "system": "ose"
     },
@@ -191,7 +176,6 @@
       "label": "Treasure Tables",
       "package": "classicfantasycompendium",
       "path": "packs/treasures",
-      "entity": "RollTable",
       "type": "RollTable",
       "system": "ose"
     },
@@ -200,7 +184,6 @@
       "label": "Treasures: Armour and Shields",
       "package": "classicfantasycompendium",
       "path": "packs/treasures-armour-shields",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -209,7 +192,6 @@
       "label": "Treasures: Miscellaneous Items",
       "package": "classicfantasycompendium",
       "path": "packs/treasures-miscellaneous-items",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -218,7 +200,6 @@
       "label": "Treasures: Potions",
       "package": "classicfantasycompendium",
       "path": "packs/treasures-potions",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -227,7 +208,6 @@
       "label": "Treasures: Rings",
       "package": "classicfantasycompendium",
       "path": "packs/treasures-rings",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -236,7 +216,6 @@
       "label": "Treasures: Rods, Staffs, Wands",
       "package": "classicfantasycompendium",
       "path": "packs/treasures-rods-staffs-wands",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -245,7 +224,6 @@
       "label": "Treasures: Swords",
       "package": "classicfantasycompendium",
       "path": "packs/treasures-swords",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -254,7 +232,6 @@
       "label": "Treasures: Weapons",
       "package": "classicfantasycompendium",
       "path": "packs/treasures-weapons",
-      "entity": "Item",
       "type": "Item",
       "system": "ose"
     },
@@ -263,7 +240,6 @@
       "label": "Classic Fantasy SRD",
       "package": "classicfantasycompendium",
       "path": "packs/classic-fantasy-srd",
-      "entity": "JournalEntry",
       "type": "JournalEntry",
       "system": "ose"
     }
