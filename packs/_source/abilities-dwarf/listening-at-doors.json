@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p>Dwarves have a 2-in-6 chance of hearing noises (see&nbsp;<a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring\">Dungeon Adventuring</a>).</p>",
+    "description": "<p>Dwarves have a 2-in-6 chance of hearing noises (see&nbsp;<a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=adventuring:dungeon_adventuring\">Dungeon Adventuring</a>).</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",
@@ -28,7 +28,8 @@
     "roll": "1d6",
     "rollType": "below",
     "rollTarget": 2,
-    "blindroll": true
+    "blindroll": true,
+    "exploration": "ld"
   },
   "folder": null,
   "sort": 0,

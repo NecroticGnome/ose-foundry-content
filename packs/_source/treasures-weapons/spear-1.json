@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "YrJvSxMF5VSQF9tt",
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:&nbsp;</strong>Close quarters weapon (5’ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><span style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">Brace: </strong>Bracing against the ground dou</span><span style=\"box-sizing: border-box; user-select: text;\">bles damage against charging monsters.</span></p>\n<p><span style=\"box-sizing: border-box; user-select: text;\">&nbsp;</span></p>",
+    "description": "<p><strong>Melee:&nbsp;</strong>Close quarters weapon (5’ or less).</p>\n<p><strong>Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p><span><strong>Brace: </strong>Bracing against the ground dou</span><span>bles damage against charging monsters.</span></p>\n<p><span>&nbsp;</span></p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

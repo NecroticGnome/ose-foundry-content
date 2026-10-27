@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p>Melee: Close quarters weapon (5′ or less).</p>\n<p>Has the power to grant the wielder&rsquo;s <a title=\"Magic Items (General)\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic_Items_(General)#Wishes\">Wishes</a>.</p>\n<ul>\n<li><strong>Charges:</strong> The sword grants a total of 1d4 wishes.</li>\n<li><strong>Wishing:</strong> The wish must be spoken out loud by the wielder of the sword.</li>\n</ul>",
+    "description": "<p>Melee: Close quarters weapon (5′ or less).</p>\n<p>Has the power to grant the wielder&rsquo;s <a title=\"Magic Items (General)\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=treasures:magic_items#wishes\">Wishes</a>.</p>\n<ul>\n<li><strong>Charges:</strong> The sword grants a total of 1d4 wishes.</li>\n<li><strong>Wishing:</strong> The wish must be spoken out loud by the wielder of the sword.</li>\n</ul>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

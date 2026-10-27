@@ -1,0 +1,386 @@
+{
+  "_id": "XpEQ7C3HVjuvoZhT",
+  "_key": "!items!XpEQ7C3HVjuvoZhT",
+  "name": "Magic-User",
+  "type": "class",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "key": "magic-user",
+    "requirements": "",
+    "primeReqs": [
+      {
+        "ability": "int",
+        "minScore": 3,
+        "percentage": -20,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "int",
+        "minScore": 6,
+        "percentage": -10,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "int",
+        "minScore": 9,
+        "percentage": 0,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "int",
+        "minScore": 13,
+        "percentage": 5,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "int",
+        "minScore": 16,
+        "percentage": 10,
+        "concatLogic": "and",
+        "group": ""
+      }
+    ],
+    "maxLevel": 14,
+    "hitDie": "1d4",
+    "spellList": "Magic-User",
+    "languages": [
+      "Alignment",
+      "Common"
+    ],
+    "titles": [
+      "Medium",
+      "Seer",
+      "Conjurer",
+      "Magician",
+      "Enchanter (Enchantress)",
+      "Warlock (Witch)",
+      "Sorcerer (Sorceress)",
+      "Necromancer",
+      "Wizard"
+    ],
+    "levels": [
+      {
+        "xp": 0,
+        "hd": "1d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 1
+        }
+      },
+      {
+        "xp": 2500,
+        "hd": "2d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 2
+        }
+      },
+      {
+        "xp": 5000,
+        "hd": "3d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 1
+        }
+      },
+      {
+        "xp": 10000,
+        "hd": "4d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 2
+        }
+      },
+      {
+        "xp": 20000,
+        "hd": "5d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 2,
+          "3": 1
+        }
+      },
+      {
+        "xp": 40000,
+        "hd": "6d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 2,
+          "3": 2
+        }
+      },
+      {
+        "xp": 80000,
+        "hd": "7d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 3,
+          "2": 2,
+          "3": 2,
+          "4": 1
+        }
+      },
+      {
+        "xp": 150000,
+        "hd": "8d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 3,
+          "2": 3,
+          "3": 2,
+          "4": 2
+        }
+      },
+      {
+        "xp": 300000,
+        "hd": "9d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 3,
+          "2": 3,
+          "3": 3,
+          "4": 2,
+          "5": 1
+        }
+      },
+      {
+        "xp": 450000,
+        "hd": "9d4+1",
+        "hdcon": false,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 3,
+          "2": 3,
+          "3": 3,
+          "4": 3,
+          "5": 2
+        }
+      },
+      {
+        "xp": 600000,
+        "hd": "9d4+2",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 8,
+          "breath": 11,
+          "spell": 8
+        },
+        "spellSlots": {
+          "1": 4,
+          "2": 3,
+          "3": 3,
+          "4": 3,
+          "5": 2,
+          "6": 1
+        }
+      },
+      {
+        "xp": 750000,
+        "hd": "9d4+3",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 8,
+          "breath": 11,
+          "spell": 8
+        },
+        "spellSlots": {
+          "1": 4,
+          "2": 4,
+          "3": 3,
+          "4": 3,
+          "5": 3,
+          "6": 2
+        }
+      },
+      {
+        "xp": 900000,
+        "hd": "9d4+4",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 8,
+          "breath": 11,
+          "spell": 8
+        },
+        "spellSlots": {
+          "1": 4,
+          "2": 4,
+          "3": 4,
+          "4": 3,
+          "5": 3,
+          "6": 3
+        }
+      },
+      {
+        "xp": 1050000,
+        "hd": "9d4+5",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 8,
+          "breath": 11,
+          "spell": 8
+        },
+        "spellSlots": {
+          "1": 4,
+          "2": 4,
+          "3": 4,
+          "4": 4,
+          "5": 3,
+          "6": 3
+        }
+      }
+    ],
+    "tables": [],
+    "armour": [
+      "none"
+    ],
+    "armourText": "None",
+    "weapons": [
+      "dagger",
+      "staff"
+    ],
+    "weaponsText": "Dagger, staff (optional)",
+    "stealthSkills": [],
+    "description": "<p>Magic-users are adventurers whose study of arcane secrets has taught them how to cast spells. Magic-users are able to cast a greater number of increasingly powerful spells as they advance in level.</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.suQVyiVl9lRsDXPk.JournalEntryPage.uOkszimJnX8rdLhd]{Magic-User}</p>",
+    "abilities": [
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-magic-user.Item.gldRgkh3gY1YrkJ6",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-magic-user.Item.0b0xQ5btT391a4wL",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-magic-user.Item.5NzWmKcrtud5YYzr",
+        "level": 11,
+        "target": ""
+      }
+    ],
+    "level": 1,
+    "xp": 0,
+    "xpBonusOverride": null,
+    "demihuman": false
+  }
+}

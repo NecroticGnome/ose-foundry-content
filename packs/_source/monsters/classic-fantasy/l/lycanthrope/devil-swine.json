@@ -560,7 +560,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">3 times a day.&nbsp;</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Save versus spells</strong><span style=\"color: #191813;\">&nbsp;at &ndash;2 or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine&rsquo;s commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the devil swine breaks the charm.</span></p>",
+        "description": "<p><span>3 times a day.&nbsp;</span><strong>Save versus spells</strong><span>&nbsp;at &ndash;2 or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine&rsquo;s commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the devil swine breaks the charm.</span></p>",
         "save": "spell",
         "lvl": 1,
         "class": "Nixie",

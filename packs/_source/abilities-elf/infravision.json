@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p><span style=\"color: #191813;\">Elves have infravision to 60' (see </span><em style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Darkness</strong></em><span style=\"color: #191813;\">&nbsp;under&nbsp;</span><a style=\"box-sizing: border-box; user-select: text;\" title=\"Hazards and Challenges\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Hazards_and_Challenges\">Hazards and Challenges</a><span style=\"color: #191813;\">).</span></p>",
+    "description": "<p><span>Elves have infravision to 60' (see </span><em><strong>Darkness</strong></em><span>&nbsp;under&nbsp;</span><a title=\"Hazards and Challenges\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=adventuring:hazards_and_challenges\">Hazards and Challenges</a><span>).</span></p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

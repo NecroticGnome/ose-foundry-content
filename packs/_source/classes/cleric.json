@@ -1,0 +1,582 @@
+{
+  "_id": "Wwn7vZSBPvpVpi9O",
+  "_key": "!items!Wwn7vZSBPvpVpi9O",
+  "name": "Cleric",
+  "type": "class",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "key": "cleric",
+    "requirements": "",
+    "primeReqs": [
+      {
+        "ability": "wis",
+        "minScore": 3,
+        "percentage": -20,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "wis",
+        "minScore": 6,
+        "percentage": -10,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "wis",
+        "minScore": 9,
+        "percentage": 0,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "wis",
+        "minScore": 13,
+        "percentage": 5,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "wis",
+        "minScore": 16,
+        "percentage": 10,
+        "concatLogic": "and",
+        "group": ""
+      }
+    ],
+    "maxLevel": 14,
+    "hitDie": "1d6",
+    "spellList": "Cleric",
+    "languages": [
+      "Alignment",
+      "Common"
+    ],
+    "titles": [
+      "Acolyte",
+      "Adept",
+      "Priest(ess)",
+      "Vicar",
+      "Curate",
+      "Elder",
+      "Bishop",
+      "Lama",
+      "Patriarch (Matriarch)"
+    ],
+    "levels": [
+      {
+        "xp": 0,
+        "hd": "1d6",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 14,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 1500,
+        "hd": "2d6",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 14,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 1
+        }
+      },
+      {
+        "xp": 3000,
+        "hd": "3d6",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 14,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 2
+        }
+      },
+      {
+        "xp": 6000,
+        "hd": "4d6",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 11,
+          "wand": 12,
+          "paralysis": 14,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 1
+        }
+      },
+      {
+        "xp": 12000,
+        "hd": "5d6",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 9,
+          "wand": 10,
+          "paralysis": 12,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 2
+        }
+      },
+      {
+        "xp": 25000,
+        "hd": "6d6",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 9,
+          "wand": 10,
+          "paralysis": 12,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 2,
+          "3": 1,
+          "4": 1
+        }
+      },
+      {
+        "xp": 50000,
+        "hd": "7d6",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 9,
+          "wand": 10,
+          "paralysis": 12,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 2,
+          "2": 2,
+          "3": 2,
+          "4": 1,
+          "5": 1
+        }
+      },
+      {
+        "xp": 100000,
+        "hd": "8d6",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 9,
+          "wand": 10,
+          "paralysis": 12,
+          "breath": 14,
+          "spell": 12
+        },
+        "spellSlots": {
+          "1": 3,
+          "2": 3,
+          "3": 2,
+          "4": 2,
+          "5": 1
+        }
+      },
+      {
+        "xp": 200000,
+        "hd": "9d6",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 9,
+          "breath": 11,
+          "spell": 9
+        },
+        "spellSlots": {
+          "1": 3,
+          "2": 3,
+          "3": 3,
+          "4": 2,
+          "5": 2
+        }
+      },
+      {
+        "xp": 300000,
+        "hd": "9d6+1",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 9,
+          "breath": 11,
+          "spell": 9
+        },
+        "spellSlots": {
+          "1": 4,
+          "2": 4,
+          "3": 3,
+          "4": 3,
+          "5": 2
+        }
+      },
+      {
+        "xp": 400000,
+        "hd": "9d6+2",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 9,
+          "breath": 11,
+          "spell": 9
+        },
+        "spellSlots": {
+          "1": 4,
+          "2": 4,
+          "3": 4,
+          "4": 3,
+          "5": 3
+        }
+      },
+      {
+        "xp": 500000,
+        "hd": "9d6+3",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 9,
+          "breath": 11,
+          "spell": 9
+        },
+        "spellSlots": {
+          "1": 5,
+          "2": 5,
+          "3": 4,
+          "4": 4,
+          "5": 3
+        }
+      },
+      {
+        "xp": 600000,
+        "hd": "9d6+4",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 3,
+          "wand": 5,
+          "paralysis": 7,
+          "breath": 8,
+          "spell": 7
+        },
+        "spellSlots": {
+          "1": 5,
+          "2": 5,
+          "3": 5,
+          "4": 4,
+          "5": 4
+        }
+      },
+      {
+        "xp": 700000,
+        "hd": "9d6+5",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 3,
+          "wand": 5,
+          "paralysis": 7,
+          "breath": 8,
+          "spell": 7
+        },
+        "spellSlots": {
+          "1": 6,
+          "2": 5,
+          "3": 5,
+          "4": 5,
+          "5": 4
+        }
+      }
+    ],
+    "tables": [
+      {
+        "key": "turning",
+        "label": "Turning the Undead",
+        "columns": [
+          {
+            "key": "1",
+            "name": "1 HD"
+          },
+          {
+            "key": "2",
+            "name": "2 HD"
+          },
+          {
+            "key": "2s",
+            "name": "2 HD with a special ability"
+          },
+          {
+            "key": "3",
+            "name": "3 HD"
+          },
+          {
+            "key": "4",
+            "name": "4 HD"
+          },
+          {
+            "key": "5",
+            "name": "5 HD"
+          },
+          {
+            "key": "6",
+            "name": "6 HD"
+          },
+          {
+            "key": "7-9",
+            "name": "7-9 HD"
+          }
+        ],
+        "rows": [
+          {
+            "1": 7,
+            "2": 9,
+            "3": "-",
+            "4": "-",
+            "5": "-",
+            "6": "-",
+            "2s": 11,
+            "7-9": "-"
+          },
+          {
+            "1": "T",
+            "2": 7,
+            "3": 11,
+            "4": "-",
+            "5": "-",
+            "6": "-",
+            "2s": 9,
+            "7-9": "-"
+          },
+          {
+            "1": "T",
+            "2": "T",
+            "3": 9,
+            "4": 11,
+            "5": "-",
+            "6": "-",
+            "2s": 7,
+            "7-9": "-"
+          },
+          {
+            "1": "D",
+            "2": "T",
+            "3": 7,
+            "4": 9,
+            "5": 11,
+            "6": "-",
+            "2s": "T",
+            "7-9": "-"
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "T",
+            "4": 7,
+            "5": 9,
+            "6": 11,
+            "2s": "T",
+            "7-9": "-"
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "T",
+            "4": "T",
+            "5": 7,
+            "6": 9,
+            "2s": "D",
+            "7-9": 11
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "T",
+            "5": "T",
+            "6": 7,
+            "2s": "D",
+            "7-9": 9
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "D",
+            "5": "T",
+            "6": "T",
+            "2s": "D",
+            "7-9": 7
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "D",
+            "5": "D",
+            "6": "T",
+            "2s": "D",
+            "7-9": "T"
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "D",
+            "5": "D",
+            "6": "D",
+            "2s": "D",
+            "7-9": "T"
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "D",
+            "5": "D",
+            "6": "D",
+            "2s": "D",
+            "7-9": "D"
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "D",
+            "5": "D",
+            "6": "D",
+            "2s": "D",
+            "7-9": "D"
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "D",
+            "5": "D",
+            "6": "D",
+            "2s": "D",
+            "7-9": "D"
+          },
+          {
+            "1": "D",
+            "2": "D",
+            "3": "D",
+            "4": "D",
+            "5": "D",
+            "6": "D",
+            "2s": "D",
+            "7-9": "D"
+          }
+        ],
+        "legend": [
+          {
+            "value": "-",
+            "text": "The turning fails."
+          },
+          {
+            "value": "#",
+            "text": "If the 2d6 turning roll is higher or equal, the turning attempt succeeds. Effects as per T."
+          },
+          {
+            "value": "T",
+            "text": "The turning succeeds. 2d6 HD of undead flee from the area if possible, and will not harm the cleric."
+          },
+          {
+            "value": "D",
+            "text": "The turning succeeds. 2d6 HD of undead are destroyed - instantly and permanently annihilated."
+          }
+        ]
+      }
+    ],
+    "armour": [],
+    "armourText": "Any, including shields",
+    "weapons": [
+      "blunt"
+    ],
+    "weaponsText": "Any blunt weapons",
+    "stealthSkills": [],
+    "description": "<p>Clerics are adventurers who have sworn to serve a deity. They are trained for battle and channel the power of their deity.</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.suQVyiVl9lRsDXPk.JournalEntryPage.EcBWt6jsi8hIi5HV]{Cleric}</p>",
+    "abilities": [
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-cleric.Item.Nn9yUjDWVyX7KSWN",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-cleric.Item.wtTNJHGiV4d39gvE",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-cleric.Item.iOOOOWZCi9P9KF3U",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-cleric.Item.I41ps84vREIv3t3x",
+        "level": 9,
+        "target": ""
+      }
+    ],
+    "level": 1,
+    "xp": 0,
+    "xpBonusOverride": null,
+    "demihuman": false
+  }
+}

@@ -116,7 +116,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">10 bats can swarm around a target&rsquo;s head, causing confusion: &ndash;2 to attack rolls and saves; unable to cast spells.</span></p>",
+        "description": "<p><span>10 bats can swarm around a target&rsquo;s head, causing confusion: &ndash;2 to attack rolls and saves; unable to cast spells.</span></p>",
         "quantity": {
           "value": 1,
           "max": 0

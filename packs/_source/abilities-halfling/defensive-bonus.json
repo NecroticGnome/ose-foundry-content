@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Due to their small size, halflings gain a +2 bonus to Armour Class when attacked by large opponents (greater than human-sized).</p>",
+    "description": "<p>Due to their small size, halflings gain a +2 bonus to Armour Class when attacked by large opponents (greater than human-sized).</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

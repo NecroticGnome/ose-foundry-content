@@ -1,0 +1,313 @@
+{
+  "_id": "kjTV63v8atqunTVU",
+  "_key": "!items!kjTV63v8atqunTVU",
+  "name": "Fighter",
+  "type": "class",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "key": "fighter",
+    "requirements": "",
+    "primeReqs": [
+      {
+        "ability": "str",
+        "minScore": 3,
+        "percentage": -20,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 6,
+        "percentage": -10,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 9,
+        "percentage": 0,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 13,
+        "percentage": 5,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 16,
+        "percentage": 10,
+        "concatLogic": "and",
+        "group": ""
+      }
+    ],
+    "maxLevel": 14,
+    "hitDie": "1d8",
+    "spellList": "",
+    "languages": [
+      "Alignment",
+      "Common"
+    ],
+    "titles": [
+      "Veteran",
+      "Warrior",
+      "Sword-master",
+      "Hero",
+      "Swashbuckler",
+      "Myrmidon",
+      "Champion",
+      "Superhero",
+      "Lord (Lady)"
+    ],
+    "levels": [
+      {
+        "xp": 0,
+        "hd": "1d8",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 12,
+          "wand": 13,
+          "paralysis": 14,
+          "breath": 15,
+          "spell": 16
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 2000,
+        "hd": "2d8",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 12,
+          "wand": 13,
+          "paralysis": 14,
+          "breath": 15,
+          "spell": 16
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 4000,
+        "hd": "3d8",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 12,
+          "wand": 13,
+          "paralysis": 14,
+          "breath": 15,
+          "spell": 16
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 8000,
+        "hd": "4d8",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 10,
+          "wand": 11,
+          "paralysis": 12,
+          "breath": 13,
+          "spell": 14
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 16000,
+        "hd": "5d8",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 10,
+          "wand": 11,
+          "paralysis": 12,
+          "breath": 13,
+          "spell": 14
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 32000,
+        "hd": "6d8",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 10,
+          "wand": 11,
+          "paralysis": 12,
+          "breath": 13,
+          "spell": 14
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 64000,
+        "hd": "7d8",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 10,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 120000,
+        "hd": "8d8",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 10,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 240000,
+        "hd": "9d8",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 10,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 360000,
+        "hd": "9d8+2",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 8,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 480000,
+        "hd": "9d8+4",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 8,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 600000,
+        "hd": "9d8+6",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 8,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 720000,
+        "hd": "9d8+8",
+        "hdcon": false,
+        "thac0": 10,
+        "bba": 9,
+        "saves": {
+          "death": 4,
+          "wand": 5,
+          "paralysis": 6,
+          "breath": 5,
+          "spell": 8
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 840000,
+        "hd": "9d8+10",
+        "hdcon": false,
+        "thac0": 10,
+        "bba": 9,
+        "saves": {
+          "death": 4,
+          "wand": 5,
+          "paralysis": 6,
+          "breath": 5,
+          "spell": 8
+        },
+        "spellSlots": {}
+      }
+    ],
+    "tables": [],
+    "armour": [],
+    "armourText": "Any, including shields",
+    "weapons": [],
+    "weaponsText": "Any",
+    "stealthSkills": [],
+    "description": "<p>Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the role of fighters is to battle monsters and to defend other characters.</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.suQVyiVl9lRsDXPk.JournalEntryPage.3OIAUAIdhv6xhs8r]{Fighter}</p>",
+    "abilities": [
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-fighter.Item.LCcg4QeZH3tPK1zQ",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-fighter.Item.IJp7jN63c61CEZzQ",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-fighter.Item.qWn6CLEb2BvMkpMn",
+        "level": 9,
+        "target": ""
+      }
+    ],
+    "level": 1,
+    "xp": 0,
+    "xpBonusOverride": null,
+    "demihuman": false
+  }
+}

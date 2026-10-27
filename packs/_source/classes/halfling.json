@@ -1,0 +1,239 @@
+{
+  "_id": "2x2ZuG7tzDS5BVpm",
+  "_key": "!items!2x2ZuG7tzDS5BVpm",
+  "name": "Halfling",
+  "type": "class",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "key": "halfling",
+    "requirements": "Minimum CON 9, minimum DEX 9",
+    "primeReqs": [
+      {
+        "ability": "dex",
+        "minScore": 13,
+        "percentage": 5,
+        "concatLogic": "or",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 13,
+        "percentage": 5,
+        "concatLogic": "or",
+        "group": ""
+      },
+      {
+        "ability": "dex",
+        "minScore": 13,
+        "percentage": 10,
+        "concatLogic": "and"
+      },
+      {
+        "ability": "str",
+        "minScore": 13,
+        "percentage": 10,
+        "concatLogic": "and"
+      }
+    ],
+    "maxLevel": 8,
+    "hitDie": "1d6",
+    "spellList": "",
+    "languages": [
+      "Alignment",
+      "Common",
+      "Halfling"
+    ],
+    "titles": [
+      "Halfling Veteran",
+      "Halfling Warrior",
+      "Halfling Swordmaster",
+      "Halfling Hero",
+      "Halfling Swashbuckler",
+      "Halfling Myrmidon",
+      "Halfling Champion",
+      "Sherif"
+    ],
+    "levels": [
+      {
+        "xp": 0,
+        "hd": "1d6",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 13,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 2000,
+        "hd": "2d6",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 13,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 4000,
+        "hd": "3d6",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 13,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 8000,
+        "hd": "4d6",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 10,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 16000,
+        "hd": "5d6",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 10,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 32000,
+        "hd": "6d6",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 10,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 64000,
+        "hd": "7d6",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 4,
+          "wand": 5,
+          "paralysis": 6,
+          "breath": 7,
+          "spell": 8
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 120000,
+        "hd": "8d6",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 4,
+          "wand": 5,
+          "paralysis": 6,
+          "breath": 7,
+          "spell": 8
+        },
+        "spellSlots": {}
+      }
+    ],
+    "tables": [],
+    "armour": [],
+    "armourText": "Any appropriate to size, including shields",
+    "weapons": [],
+    "weaponsText": "Any appropriate to size",
+    "stealthSkills": [],
+    "description": "<p>Halflings are small, rotund demihumans with furry feet and curly hair. They weigh about 60 pounds and are around 3' tall. Halflings are a friendly and welcoming folk. Above all, they love the comforts of home and are not known for their bravery. Halflings who gain treasure through adventuring will often use their wealth in pursuit of a quiet, comfortable life.</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.suQVyiVl9lRsDXPk.JournalEntryPage.reS4xTEdA27V5ygQ]{Halfling}</p>",
+    "abilities": [
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.32prIrbayo81apya",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.rbHqrxAlFNNwZ8QI",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.2IQru0PF1zJ0rxcf",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.hifOr2JMS80hpmjs",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.2G7cRIJGlZPbszN6",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.8vL9qBwz8Aq1xTej",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.n2Yt80eWHzIyMN2G",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-halfling.Item.oEw9q3N9wc83ow8O",
+        "level": 1,
+        "target": ""
+      }
+    ],
+    "level": 1,
+    "xp": 0,
+    "xpBonusOverride": null,
+    "demihuman": true
+  }
+}

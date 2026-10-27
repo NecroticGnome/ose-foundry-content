@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p><span style=\"color: #191813;\">A fighter may be granted a title such as Baron or Baroness. The land under the fighter&rsquo;s control is then known as a Barony.</span></p>",
+    "description": "<p><span>A fighter may be granted a title such as Baron or Baroness. The land under the fighter&rsquo;s control is then known as a Barony.</span></p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

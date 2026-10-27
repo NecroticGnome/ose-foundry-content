@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p><span style=\"color: #191813;\">Halflings&rsquo; keen coordination grants them a +1 bonus to attack rolls with all missile weapons.</span></p>\n<p><span style=\"color: #191813;\"><strong>FoundryVTT Note:</strong> Halfling players should access the <strong>Tweaks</strong> options at the top of the character sheet and adjust the <strong>Missile Bonus</strong> value.</span></p>",
+    "description": "<p><span>Halflings&rsquo; keen coordination grants them a +1 bonus to attack rolls with all missile weapons.</span></p>\n<p><span><strong>FoundryVTT Note:</strong> Halfling players should access the <strong>Tweaks</strong> options at the top of the character sheet and adjust the <strong>Missile Bonus</strong> value.</span></p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

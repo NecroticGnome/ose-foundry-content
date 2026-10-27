@@ -205,7 +205,7 @@
       "enabled": false
     },
     "details": {
-      "biography": "<p><span style=\"color: #191813;\">Lightly built horses adapted to run at </span><span style=\"color: #191813;\">high speed. Can survive purely on grass, </span><span style=\"color: #191813;\">wherever available.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #191813;\">Herd animals that are often used for transportation. Many different domesticated breeds exist.</span></p>",
+      "biography": "<p><span>Lightly built horses adapted to run at </span><span>high speed. Can survive purely on grass, </span><span>wherever available.</span></p>\n<p>&nbsp;</p>\n<p><span>Herd animals that are often used for transportation. Many different domesticated breeds exist.</span></p>",
       "alignment": "Neutral",
       "xp": "20",
       "specialAbilities": "0",

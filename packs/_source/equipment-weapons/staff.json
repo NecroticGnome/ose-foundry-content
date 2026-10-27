@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "jHp1OxCGmaX8L9Oq",
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:</strong>&nbsp;Close quarters weapon (5’ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Blunt:</strong>&nbsp;May be used by clerics.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Slow:&nbsp;</strong>The character acts last in each combat round (see Combat, p120).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Two-handed:</strong>&nbsp;Requires both hands; the character cannot use a shield.</p>",
+    "description": "<p><strong>Melee:</strong>&nbsp;Close quarters weapon (5’ or less).</p>\n<p><strong>Blunt:</strong>&nbsp;May be used by clerics.</p>\n<p><strong>Slow:&nbsp;</strong>The character acts last in each combat round (see Combat, p120).</p>\n<p><strong>Two-handed:</strong>&nbsp;Requires both hands; the character cannot use a shield.</p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

@@ -239,7 +239,7 @@
       "enabled": false
     },
     "details": {
-      "biography": "<p><span style=\"color: #191813;\">For example: caribou or oxen.</span></p>\n<p><span style=\"color: #191813;\">Wild animals that live in large, grazing herds. The exact type depends on the terrain.</span></p>",
+      "biography": "<p><span>For example: caribou or oxen.</span></p>\n<p><span>Wild animals that live in large, grazing herds. The exact type depends on the terrain.</span></p>",
       "alignment": "Neutral",
       "xp": "35",
       "specialAbilities": "0",

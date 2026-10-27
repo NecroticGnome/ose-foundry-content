@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "ao0TnCtDRc7j2cgH",
   "system": {
-    "description": "<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Melee:&nbsp;</strong><span style=\"color: #191813;\">Close quarters weapon (5’ or less).</span></p>",
+    "description": "<p><strong>Melee:&nbsp;</strong><span>Close quarters weapon (5’ or less).</span></p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

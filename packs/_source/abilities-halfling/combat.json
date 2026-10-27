@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Halflings can use all types of armour, but it must be tailored to their small size. Similarly, they can use any weapon appropriate to their stature (as determined by the referee). They cannot use longbows or two-handed swords.</p>",
+    "description": "<p>Halflings can use all types of armour, but it must be tailored to their small size. Similarly, they can use any weapon appropriate to their stature (as determined by the referee). They cannot use longbows or two-handed swords.</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Magic-users can only use daggers and are unable to use shields or wear any kind of armour. This makes them very vulnerable in combat.</p>",
+    "description": "<p>Magic-users can only use daggers and are unable to use shields or wear any kind of armour. This makes them very vulnerable in combat.</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

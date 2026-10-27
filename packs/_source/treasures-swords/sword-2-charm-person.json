@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p>Melee: Close quarters weapon (5′ or less).</p>\n<p>Grants the wielder the ability to charm other people.</p>\n<ul>\n<li><strong>Effect:</strong> This works in the same way as the magic-user spell <a title=\"Charm Person\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Charm_Person\">Charm Person</a>.</li>\n<li><strong>Usage frequency:</strong> The power may be used up to three times a week.</li>\n</ul>",
+    "description": "<p>Melee: Close quarters weapon (5′ or less).</p>\n<p>Grants the wielder the ability to charm other people.</p>\n<ul>\n<li><strong>Effect:</strong> This works in the same way as the magic-user spell <a title=\"Charm Person\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=magic_user_spells:charm_person\">Charm Person</a>.</li>\n<li><strong>Usage frequency:</strong> The power may be used up to three times a week.</li>\n</ul>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

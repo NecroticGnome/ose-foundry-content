@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">If using the optional rule for individual initiative (see&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" title=\"Combat\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat\">Combat</a>), halflings get a bonus of +1 to initiative rolls.</p>\n<p>&nbsp;</p>",
+    "description": "<p>If using the optional rule for individual initiative (see&nbsp;<a title=\"Combat\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=adventuring:combat\">Combat</a>), halflings get a bonus of +1 to initiative rolls.</p>\n<p>&nbsp;</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

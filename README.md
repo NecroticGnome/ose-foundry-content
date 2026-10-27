@@ -6,6 +6,11 @@ This module adds pre-created monsters, items, and more from Old-School Essential
 
 You can soon find this add-on module within Foundry VTT's module browser as `classicfantasycompendium`.
 
+## Tests
+
+- `npm test` checks the classes pack source (`packs/_source`) against the ability packs and the Classic Fantasy rules.
+- With [Quench](https://github.com/Ethaks/FVTT-Quench) enabled, the "OSE Classic Fantasy: Class items" batch adds each class to a test character and levels it to the top of its table.
+
 ## License
 
 This work is released under [Open Game License](/LICENSES/LicenseRef-OGL-1.0a.txt) Version 1.0a.

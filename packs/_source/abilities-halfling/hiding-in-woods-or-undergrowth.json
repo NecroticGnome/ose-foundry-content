@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Halflings have an uncanny ability to disappear from sight:</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813;\">\n<li style=\"box-sizing: border-box; user-select: text;\">In woods or undergrowth, a halfling can hide with a 90% chance of success. [[/r 1d100 # 90% Chance to hide in woods or undergrowth]]</li>\n</ul>",
+    "description": "<p>Halflings have an uncanny ability to disappear from sight:</p>\n<ul>\n<li>In woods or undergrowth, a halfling can hide with a 90% chance of success. [[/r 1d100 # 90% Chance to hide in woods or undergrowth]]</li>\n</ul>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

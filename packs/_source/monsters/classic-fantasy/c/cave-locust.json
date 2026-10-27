@@ -170,7 +170,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">Very skittish. If attacked, usually flee by jumping up to 60’ then flying away. 50% chance of jumping at a random opponent, in which case treat the jump as an attack.</span></p>",
+        "description": "<p><span>Very skittish. If attacked, usually flee by jumping up to 60’ then flying away. 50% chance of jumping at a random opponent, in which case treat the jump as an attack.</span></p>",
         "quantity": {
           "value": 1,
           "max": 0
@@ -222,7 +222,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">Used defensively. 10&rsquo; range. Target treated as AC 9 [10]. The affected character is covered in stinking spittle: unable to act for 1 turn (</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">save versus poison</strong><span style=\"color: #191813;\">). Until the goo is washed off, others who come within 5&rsquo; must also&nbsp;</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">save versus poison</strong><span style=\"color: #191813;\">&nbsp;or be violently sick.</span></p>",
+        "description": "<p><span>Used defensively. 10&rsquo; range. Target treated as AC 9 [10]. The affected character is covered in stinking spittle: unable to act for 1 turn (</span><strong>save versus poison</strong><span>). Until the goo is washed off, others who come within 5&rsquo; must also&nbsp;</span><strong>save versus poison</strong><span>&nbsp;or be violently sick.</span></p>",
         "quantity": {
           "value": 1,
           "max": 0

@@ -442,7 +442,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Save versus spells</strong><span style=\"color: #191813;\">&nbsp;at &ndash;2 or be charmed: move towards the vampire (resisting those who try to prevent it); defend the vampire; obey the vampire&rsquo;s commands (if understood); unable to cast spells or use magic items; unable to harm the vampire. Killing the vampire breaks the charm.</span></p>",
+        "description": "<p><strong>Save versus spells</strong><span>&nbsp;at &ndash;2 or be charmed: move towards the vampire (resisting those who try to prevent it); defend the vampire; obey the vampire&rsquo;s commands (if understood); unable to cast spells or use magic items; unable to harm the vampire. Killing the vampire breaks the charm.</span></p>",
         "save": "spell",
         "lvl": 1,
         "class": "Nixie",

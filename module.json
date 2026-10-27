@@ -10,8 +10,8 @@
         "type": "system",
         "manifest": "https://github.com/NecroticGnome/ose-foundry-core/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "2.1.0",
-          "verified": "2.1.1"
+          "minimum": "3.1.0",
+          "verified": "3.1.0"
         }
       },
       {
@@ -40,7 +40,7 @@
     }
   ],
   "scripts": [],
-  "esmodules": [],
+  "esmodules": ["scripts/init.js", "scripts/tests/classes.quench.js"],
   "styles": [],
   "packs": [
     {
@@ -96,6 +96,14 @@
       "label": "Abilities: Thief",
       "package": "classicfantasycompendium",
       "path": "packs/abilities-thief",
+      "type": "Item",
+      "system": "ose"
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "package": "classicfantasycompendium",
+      "path": "packs/classes",
       "type": "Item",
       "system": "ose"
     },
@@ -267,6 +275,7 @@
             "abilities-fighter",
             "abilities-halfling",
             "abilities-magic-user",
+            "classes",
             "abilities-thief",
             "spells"
           ]

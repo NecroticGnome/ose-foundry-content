@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "MfyL6vCFJY3BEX46",
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:</strong>&nbsp;Close quarters weapon (5′ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Blunt:</strong> May be used by clerics.</p>",
+    "description": "<p><strong>Melee:</strong>&nbsp;Close quarters weapon (5′ or less).</p>\n<p><strong>Blunt:</strong> May be used by clerics.</p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {
