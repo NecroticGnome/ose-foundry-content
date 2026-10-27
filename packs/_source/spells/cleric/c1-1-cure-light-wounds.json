@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">This spell has two uses</p>\n<ol style=\"box-sizing: border-box; user-select: text; color: #191813;\">\n<li style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">Healing a living subject:</strong>&nbsp;Restores 1d6+1 hit points of damage. This cannot grant more hit points than the subject&rsquo;s normal maximum.</li>\n<li style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">Curing paralysis:</strong>&nbsp;Paralysing effects are negated.</li>\n</ol>\n<h2 style=\"box-sizing: border-box; user-select: text; color: #191813;\"><span style=\"box-sizing: border-box; user-select: text;\">Reversed</span></h2>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><span style=\"box-sizing: border-box; user-select: text;\">See </span><strong style=\"box-sizing: border-box; user-select: text;\">Cause Light Wounds</strong><span style=\"box-sizing: border-box; user-select: text;\">.</span></p>",
+    "description": "<p>This spell has two uses</p>\n<ol>\n<li><strong>Healing a living subject:</strong>&nbsp;Restores 1d6+1 hit points of damage. This cannot grant more hit points than the subject&rsquo;s normal maximum.</li>\n<li><strong>Curing paralysis:</strong>&nbsp;Paralysing effects are negated.</li>\n</ol>\n<h2><span>Reversed</span></h2>\n<p><span>See </span><strong>Cause Light Wounds</strong><span>.</span></p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

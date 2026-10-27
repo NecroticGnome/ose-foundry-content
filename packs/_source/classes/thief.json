@@ -1,0 +1,526 @@
+{
+  "_id": "M2FUn52rXicqDPcS",
+  "_key": "!items!M2FUn52rXicqDPcS",
+  "name": "Thief",
+  "type": "class",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "key": "thief",
+    "requirements": "",
+    "primeReqs": [
+      {
+        "ability": "dex",
+        "minScore": 3,
+        "percentage": -20,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "dex",
+        "minScore": 6,
+        "percentage": -10,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "dex",
+        "minScore": 9,
+        "percentage": 0,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "dex",
+        "minScore": 13,
+        "percentage": 5,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "dex",
+        "minScore": 16,
+        "percentage": 10,
+        "concatLogic": "and",
+        "group": ""
+      }
+    ],
+    "maxLevel": 14,
+    "hitDie": "1d4",
+    "spellList": "",
+    "languages": [
+      "Alignment",
+      "Common"
+    ],
+    "titles": [
+      "Apprentice",
+      "Footpad",
+      "Robber",
+      "Burglar",
+      "Cutpurse",
+      "Sharper",
+      "Pilferer",
+      "Thief",
+      "Master Thief"
+    ],
+    "levels": [
+      {
+        "xp": 0,
+        "hd": "1d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 1200,
+        "hd": "2d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 2400,
+        "hd": "3d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 4800,
+        "hd": "4d4",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 13,
+          "wand": 14,
+          "paralysis": 13,
+          "breath": 16,
+          "spell": 15
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 9600,
+        "hd": "5d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 12,
+          "wand": 13,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 13
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 20000,
+        "hd": "6d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 12,
+          "wand": 13,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 13
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 40000,
+        "hd": "7d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 12,
+          "wand": 13,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 13
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 80000,
+        "hd": "8d4",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 12,
+          "wand": 13,
+          "paralysis": 11,
+          "breath": 14,
+          "spell": 13
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 160000,
+        "hd": "9d4",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 10,
+          "wand": 11,
+          "paralysis": 9,
+          "breath": 12,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 280000,
+        "hd": "9d4+2",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 10,
+          "wand": 11,
+          "paralysis": 9,
+          "breath": 12,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 400000,
+        "hd": "9d4+4",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 10,
+          "wand": 11,
+          "paralysis": 9,
+          "breath": 12,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 520000,
+        "hd": "9d4+6",
+        "hdcon": false,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 10,
+          "wand": 11,
+          "paralysis": 9,
+          "breath": 12,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 640000,
+        "hd": "9d4+8",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 7,
+          "breath": 10,
+          "spell": 8
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 760000,
+        "hd": "9d4+10",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 7,
+          "breath": 10,
+          "spell": 8
+        },
+        "spellSlots": {}
+      }
+    ],
+    "tables": [
+      {
+        "key": "skills",
+        "label": "Thief Skills",
+        "columns": [
+          {
+            "key": "cs",
+            "name": "Climb sheer surfaces"
+          },
+          {
+            "key": "tr",
+            "name": "Find or remove treasure traps"
+          },
+          {
+            "key": "hn",
+            "name": "Hear noise"
+          },
+          {
+            "key": "hs",
+            "name": "Hide in shadows"
+          },
+          {
+            "key": "ms",
+            "name": "Move silently"
+          },
+          {
+            "key": "ol",
+            "name": "Open locks"
+          },
+          {
+            "key": "pp",
+            "name": "Pick pockets"
+          }
+        ],
+        "rows": [
+          {
+            "cs": 87,
+            "tr": 10,
+            "hn": "1-2",
+            "hs": 10,
+            "ms": 20,
+            "ol": 15,
+            "pp": 20
+          },
+          {
+            "cs": 88,
+            "tr": 15,
+            "hn": "1-2",
+            "hs": 15,
+            "ms": 25,
+            "ol": 20,
+            "pp": 25
+          },
+          {
+            "cs": 89,
+            "tr": 20,
+            "hn": "1-3",
+            "hs": 20,
+            "ms": 30,
+            "ol": 25,
+            "pp": 30
+          },
+          {
+            "cs": 90,
+            "tr": 25,
+            "hn": "1-3",
+            "hs": 25,
+            "ms": 35,
+            "ol": 30,
+            "pp": 35
+          },
+          {
+            "cs": 91,
+            "tr": 30,
+            "hn": "1-3",
+            "hs": 30,
+            "ms": 40,
+            "ol": 35,
+            "pp": 40
+          },
+          {
+            "cs": 92,
+            "tr": 40,
+            "hn": "1-3",
+            "hs": 36,
+            "ms": 45,
+            "ol": 45,
+            "pp": 45
+          },
+          {
+            "cs": 93,
+            "tr": 50,
+            "hn": "1-4",
+            "hs": 45,
+            "ms": 55,
+            "ol": 55,
+            "pp": 55
+          },
+          {
+            "cs": 94,
+            "tr": 60,
+            "hn": "1-4",
+            "hs": 55,
+            "ms": 65,
+            "ol": 65,
+            "pp": 65
+          },
+          {
+            "cs": 95,
+            "tr": 70,
+            "hn": "1-4",
+            "hs": 65,
+            "ms": 75,
+            "ol": 75,
+            "pp": 75
+          },
+          {
+            "cs": 96,
+            "tr": 80,
+            "hn": "1-4",
+            "hs": 75,
+            "ms": 85,
+            "ol": 85,
+            "pp": 85
+          },
+          {
+            "cs": 97,
+            "tr": 90,
+            "hn": "1-5",
+            "hs": 85,
+            "ms": 95,
+            "ol": 95,
+            "pp": 95
+          },
+          {
+            "cs": 98,
+            "tr": 95,
+            "hn": "1-5",
+            "hs": 90,
+            "ms": 96,
+            "ol": 96,
+            "pp": 105
+          },
+          {
+            "cs": 99,
+            "tr": 97,
+            "hn": "1-5",
+            "hs": 95,
+            "ms": 98,
+            "ol": 97,
+            "pp": 115
+          },
+          {
+            "cs": 99,
+            "tr": 99,
+            "hn": "1-5",
+            "hs": 99,
+            "ms": 99,
+            "ol": 99,
+            "pp": 125
+          }
+        ]
+      }
+    ],
+    "armour": [
+      "leather"
+    ],
+    "armourText": "Leather, no shields",
+    "weapons": [],
+    "weaponsText": "Any",
+    "stealthSkills": [
+      "Hide in Shadows",
+      "Move Silently"
+    ],
+    "description": "<p>Thieves are adventurers who live by their skills of deception and stealth. Their range of unique skills makes them very handy companions in adventures. However, thieves are not always to be trusted.</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.suQVyiVl9lRsDXPk.JournalEntryPage.vHPsw5G70gn93Jjr]{Thief}</p>",
+    "abilities": [
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.HWuF02ubKOZKrkCY",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.OD28wQY2ozmSnHhs",
+        "level": 1,
+        "target": "skills.cs"
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.SKvx0F4QKlaM6MDf",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.bcjYoaf2AK5ZBBVm",
+        "level": 1,
+        "target": "skills.tr"
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.hOt7xM02kWFTymaV",
+        "level": 1,
+        "target": "skills.hn"
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.stCcwAC55z3Gqo2a",
+        "level": 1,
+        "target": "skills.hs"
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.eJ7Bva6gptHNPb80",
+        "level": 1,
+        "target": "skills.ms"
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.H2jkEFlHSu6SM4hg",
+        "level": 1,
+        "target": "skills.ol"
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.RcqE0DUR36Tgccm3",
+        "level": 1,
+        "target": "skills.pp"
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.3IGAL54BibTFxZF4",
+        "level": 4,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.SGcfJc73HWK1lFKd",
+        "level": 9,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-thief.Item.tMWBvkjKFG7KE9B2",
+        "level": 10,
+        "target": ""
+      }
+    ],
+    "level": 1,
+    "xp": 0,
+    "xpBonusOverride": null,
+    "demihuman": false
+  }
+}

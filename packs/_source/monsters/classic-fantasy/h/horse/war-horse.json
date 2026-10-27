@@ -273,7 +273,7 @@
       "enabled": false
     },
     "details": {
-      "biography": "<p>Bred for strength and courage in battle. Adapted to short bursts of speed; not suited to long-distance riding.</p>\n<p><span style=\"color: #191813;\">Herd animals that are often used for transportation. Many different domesticated breeds exist.</span></p>",
+      "biography": "<p>Bred for strength and courage in battle. Adapted to short bursts of speed; not suited to long-distance riding.</p>\n<p><span>Herd animals that are often used for transportation. Many different domesticated breeds exist.</span></p>",
       "alignment": "Neutral",
       "xp": "35",
       "specialAbilities": "0",

@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p><span style=\"color: #191813;\">As expert miners, dwarves have a 2-in-6 chance of being able to detect new construction, sliding walls, or sloping passages when searching.</span></p>",
+    "description": "<p><span>As expert miners, dwarves have a 2-in-6 chance of being able to detect new construction, sliding walls, or sloping passages when searching.</span></p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

@@ -170,7 +170,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">Can only be harmed by magical attacks.</span></p>",
+        "description": "<p><span>Can only be harmed by magical attacks.</span></p>",
         "save": "",
         "pattern": "white",
         "requirements": "",

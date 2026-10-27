@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p>Due to their expertise with construction, dwarves have a 2-in-6 chance of detecting non-magical room traps when searching (see&nbsp;<a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring\">Dungeon Adventuring</a>).</p>\n<p>&nbsp;</p>",
+    "description": "<p>Due to their expertise with construction, dwarves have a 2-in-6 chance of detecting non-magical room traps when searching (see&nbsp;<a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=adventuring:dungeon_adventuring\">Dungeon Adventuring</a>).</p>\n<p>&nbsp;</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",
@@ -28,7 +28,8 @@
     "roll": "1d6",
     "rollType": "below",
     "rollTarget": 2,
-    "blindroll": false
+    "blindroll": false,
+    "exploration": "ft"
   },
   "folder": null,
   "sort": 0,

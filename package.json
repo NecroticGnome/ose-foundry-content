@@ -6,7 +6,8 @@
   "scripts": {
     "build:clean": "node ./utils/packs.mjs package clean",
     "build:db": "node ./utils/packs.mjs package pack",
-    "build:json": "node ./utils/packs.mjs package unpack"
+    "build:json": "node ./utils/packs.mjs package unpack",
+    "test": "node --test tests/*.test.mjs"
   },
   "repository": {
     "type": "git",

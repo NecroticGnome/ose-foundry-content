@@ -186,7 +186,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">&nbsp;Victim compelled to approach the tree, vanishes inside it (</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">save versus spells</strong><span style=\"color: #191813;\">&nbsp;with a&nbsp;</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">–2 penalty</strong><span style=\"color: #191813;\">). If not immediately rescued, the victim is lost forever.</span></p>",
+        "description": "<p><span>&nbsp;Victim compelled to approach the tree, vanishes inside it (</span><strong>save versus spells</strong><span>&nbsp;with a&nbsp;</span><strong>–2 penalty</strong><span>). If not immediately rescued, the victim is lost forever.</span></p>",
         "quantity": {
           "value": 1,
           "max": 0

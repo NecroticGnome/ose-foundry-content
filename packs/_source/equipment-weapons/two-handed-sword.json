@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "vqMuPOYGfK8q1MkH",
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:&nbsp;</strong>Close quarters weapon (5’ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Slow:&nbsp;</strong><span style=\"box-sizing: border-box; user-select: text;\">The character acts last in each combat round (see Combat, p120).</span></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Two-handed:</strong> Requires both hands; the character cannot use a shield.</p>",
+    "description": "<p><strong>Melee:&nbsp;</strong>Close quarters weapon (5’ or less).</p>\n<p><strong>Slow:&nbsp;</strong><span>The character acts last in each combat round (see Combat, p120).</span></p>\n<p><strong>Two-handed:</strong> Requires both hands; the character cannot use a shield.</p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

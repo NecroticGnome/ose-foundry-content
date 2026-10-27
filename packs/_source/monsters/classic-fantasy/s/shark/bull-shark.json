@@ -14,7 +14,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">Stunned for 3 rounds (</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">save versus paralysis</strong><span style=\"color: #191813;\">).</span></p>",
+        "description": "<p><span>Stunned for 3 rounds (</span><strong>save versus paralysis</strong><span>).</span></p>",
         "save": "paralysis",
         "pattern": "white",
         "requirements": "",

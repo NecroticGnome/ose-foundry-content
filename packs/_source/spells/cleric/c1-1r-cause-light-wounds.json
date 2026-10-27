@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p><span style=\"color: #191813;\">Inflicts 1d6+1 hit points of damage to a touched creature. In combat, a melee attack roll is required.</span></p>\n<hr />\n<p>This is the reversal of&nbsp;<strong>Cure Light Wounds</strong>.</p>",
+    "description": "<p><span>Inflicts 1d6+1 hit points of damage to a touched creature. In combat, a melee attack roll is required.</span></p>\n<hr />\n<p>This is the reversal of&nbsp;<strong>Cure Light Wounds</strong>.</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

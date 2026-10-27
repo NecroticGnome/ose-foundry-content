@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "ytrN6DROd5caiWcT",
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:</strong>&nbsp;Close quarters weapon (5′ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Blunt:</strong> May be used by clerics.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">&nbsp;</p>\n<p>In the hands of a dwarf, this weapon may function as a thrown missile weapon.</p>\n<ul>\n<li><strong>Range:</strong> 60′.</li>\n<li><strong>After being thrown:</strong> It returns to its wielder&rsquo;s hands.</li>\n</ul>",
+    "description": "<p><strong>Melee:</strong>&nbsp;Close quarters weapon (5′ or less).</p>\n<p><strong>Blunt:</strong> May be used by clerics.</p>\n<p>&nbsp;</p>\n<p>In the hands of a dwarf, this weapon may function as a thrown missile weapon.</p>\n<ul>\n<li><strong>Range:</strong> 60′.</li>\n<li><strong>After being thrown:</strong> It returns to its wielder&rsquo;s hands.</li>\n</ul>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

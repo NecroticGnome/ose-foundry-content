@@ -1,0 +1,2267 @@
+{
+  "cleric": {
+    "name": "Cleric",
+    "system": {
+      "key": "cleric",
+      "requirements": "",
+      "primeReqs": [
+        {
+          "ability": "wis",
+          "minScore": 3,
+          "percentage": -20,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "wis",
+          "minScore": 6,
+          "percentage": -10,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "wis",
+          "minScore": 9,
+          "percentage": 0,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "wis",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "wis",
+          "minScore": 16,
+          "percentage": 10,
+          "concatLogic": "and",
+          "group": ""
+        }
+      ],
+      "maxLevel": 14,
+      "hitDie": "1d6",
+      "spellList": "Cleric",
+      "languages": "Alignment, Common",
+      "titles": [
+        "Acolyte",
+        "Adept",
+        "Priest(ess)",
+        "Vicar",
+        "Curate",
+        "Elder",
+        "Bishop",
+        "Lama",
+        "Patriarch (Matriarch)"
+      ],
+      "levels": [
+        {
+          "xp": 0,
+          "hd": "1d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 14,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 1500,
+          "hd": "2d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 14,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 1
+          }
+        },
+        {
+          "xp": 3000,
+          "hd": "3d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 14,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2
+          }
+        },
+        {
+          "xp": 6000,
+          "hd": "4d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 14,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 1
+          }
+        },
+        {
+          "xp": 12000,
+          "hd": "5d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 9,
+            "wand": 10,
+            "paralysis": 12,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2
+          }
+        },
+        {
+          "xp": 25000,
+          "hd": "6d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 9,
+            "wand": 10,
+            "paralysis": 12,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2,
+            "3": 1,
+            "4": 1
+          }
+        },
+        {
+          "xp": 50000,
+          "hd": "7d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 9,
+            "wand": 10,
+            "paralysis": 12,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2,
+            "3": 2,
+            "4": 1,
+            "5": 1
+          }
+        },
+        {
+          "xp": 100000,
+          "hd": "8d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 9,
+            "wand": 10,
+            "paralysis": 12,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 2,
+            "4": 2,
+            "5": 1
+          }
+        },
+        {
+          "xp": 200000,
+          "hd": "9d6",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 9,
+            "breath": 11,
+            "spell": 9
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 3,
+            "4": 2,
+            "5": 2
+          }
+        },
+        {
+          "xp": 300000,
+          "hd": "9d6+1",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 9,
+            "breath": 11,
+            "spell": 9
+          },
+          "spellSlots": {
+            "1": 4,
+            "2": 4,
+            "3": 3,
+            "4": 3,
+            "5": 2
+          }
+        },
+        {
+          "xp": 400000,
+          "hd": "9d6+2",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 9,
+            "breath": 11,
+            "spell": 9
+          },
+          "spellSlots": {
+            "1": 4,
+            "2": 4,
+            "3": 4,
+            "4": 3,
+            "5": 3
+          }
+        },
+        {
+          "xp": 500000,
+          "hd": "9d6+3",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 9,
+            "breath": 11,
+            "spell": 9
+          },
+          "spellSlots": {
+            "1": 5,
+            "2": 5,
+            "3": 4,
+            "4": 4,
+            "5": 3
+          }
+        },
+        {
+          "xp": 600000,
+          "hd": "9d6+4",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 3,
+            "wand": 5,
+            "paralysis": 7,
+            "breath": 8,
+            "spell": 7
+          },
+          "spellSlots": {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 4,
+            "5": 4
+          }
+        },
+        {
+          "xp": 700000,
+          "hd": "9d6+5",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 3,
+            "wand": 5,
+            "paralysis": 7,
+            "breath": 8,
+            "spell": 7
+          },
+          "spellSlots": {
+            "1": 6,
+            "2": 5,
+            "3": 5,
+            "4": 5,
+            "5": 4
+          }
+        }
+      ],
+      "tables": [
+        {
+          "key": "turning",
+          "label": "Turning the Undead",
+          "columns": [
+            {
+              "key": "1",
+              "label": "1"
+            },
+            {
+              "key": "2",
+              "label": "2"
+            },
+            {
+              "key": "2s",
+              "label": "2*"
+            },
+            {
+              "key": "3",
+              "label": "3"
+            },
+            {
+              "key": "4",
+              "label": "4"
+            },
+            {
+              "key": "5",
+              "label": "5"
+            },
+            {
+              "key": "6",
+              "label": "6"
+            },
+            {
+              "key": "7-9",
+              "label": "7-9"
+            }
+          ],
+          "rows": [
+            {
+              "1": 7,
+              "2": 9,
+              "3": "-",
+              "4": "-",
+              "5": "-",
+              "6": "-",
+              "2s": 11,
+              "7-9": "-"
+            },
+            {
+              "1": "T",
+              "2": 7,
+              "3": 11,
+              "4": "-",
+              "5": "-",
+              "6": "-",
+              "2s": 9,
+              "7-9": "-"
+            },
+            {
+              "1": "T",
+              "2": "T",
+              "3": 9,
+              "4": 11,
+              "5": "-",
+              "6": "-",
+              "2s": 7,
+              "7-9": "-"
+            },
+            {
+              "1": "D",
+              "2": "T",
+              "3": 7,
+              "4": 9,
+              "5": 11,
+              "6": "-",
+              "2s": "T",
+              "7-9": "-"
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "T",
+              "4": 7,
+              "5": 9,
+              "6": 11,
+              "2s": "T",
+              "7-9": "-"
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "T",
+              "4": "T",
+              "5": 7,
+              "6": 9,
+              "2s": "D",
+              "7-9": 11
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "T",
+              "5": "T",
+              "6": 7,
+              "2s": "D",
+              "7-9": 9
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "D",
+              "5": "T",
+              "6": "T",
+              "2s": "D",
+              "7-9": 7
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "D",
+              "5": "D",
+              "6": "T",
+              "2s": "D",
+              "7-9": "T"
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "D",
+              "5": "D",
+              "6": "D",
+              "2s": "D",
+              "7-9": "T"
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "D",
+              "5": "D",
+              "6": "D",
+              "2s": "D",
+              "7-9": "D"
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "D",
+              "5": "D",
+              "6": "D",
+              "2s": "D",
+              "7-9": "D"
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "D",
+              "5": "D",
+              "6": "D",
+              "2s": "D",
+              "7-9": "D"
+            },
+            {
+              "1": "D",
+              "2": "D",
+              "3": "D",
+              "4": "D",
+              "5": "D",
+              "6": "D",
+              "2s": "D",
+              "7-9": "D"
+            }
+          ]
+        }
+      ],
+      "armour": [],
+      "armourText": "Any, including shields",
+      "weapons": [
+        "blunt"
+      ],
+      "weaponsText": "Any blunt weapons",
+      "stealthSkills": []
+    }
+  },
+  "dwarf": {
+    "name": "Dwarf",
+    "system": {
+      "key": "dwarf",
+      "requirements": "Minimum CON 9",
+      "primeReqs": [
+        {
+          "ability": "str",
+          "minScore": 3,
+          "percentage": -20,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 6,
+          "percentage": -10,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 9,
+          "percentage": 0,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 16,
+          "percentage": 10,
+          "concatLogic": "and",
+          "group": ""
+        }
+      ],
+      "maxLevel": 12,
+      "hitDie": "1d8",
+      "spellList": "",
+      "languages": "Alignment, Common, Dwarvish, Gnomish, Goblin, Kobold",
+      "titles": [
+        "Dwarven Veteran",
+        "Dwarven Warrior",
+        "Dwarven Swordmaster",
+        "Dwarven Hero",
+        "Dwarven Swashbuckler",
+        "Dwarven Myrmidon",
+        "Dwarven Champion",
+        "Dwarven Superhero",
+        "Dwarven Lord (Lady)"
+      ],
+      "levels": [
+        {
+          "xp": 0,
+          "hd": "1d8",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 2200,
+          "hd": "2d8",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 4400,
+          "hd": "3d8",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 8800,
+          "hd": "4d8",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 17000,
+          "hd": "5d8",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 35000,
+          "hd": "6d8",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 70000,
+          "hd": "7d8",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 4,
+            "wand": 5,
+            "paralysis": 6,
+            "breath": 7,
+            "spell": 8
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 140000,
+          "hd": "8d8",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 4,
+            "wand": 5,
+            "paralysis": 6,
+            "breath": 7,
+            "spell": 8
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 270000,
+          "hd": "9d8",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 4,
+            "wand": 5,
+            "paralysis": 6,
+            "breath": 7,
+            "spell": 8
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 400000,
+          "hd": "9d8+3",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 2,
+            "wand": 3,
+            "paralysis": 4,
+            "breath": 4,
+            "spell": 6
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 530000,
+          "hd": "9d8+6",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 2,
+            "wand": 3,
+            "paralysis": 4,
+            "breath": 4,
+            "spell": 6
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 660000,
+          "hd": "9d8+9",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 2,
+            "wand": 3,
+            "paralysis": 4,
+            "breath": 4,
+            "spell": 6
+          },
+          "spellSlots": {}
+        }
+      ],
+      "tables": [],
+      "armour": [],
+      "armourText": "Any, including shields",
+      "weapons": [],
+      "weaponsText": "Small or normal sized",
+      "stealthSkills": []
+    }
+  },
+  "elf": {
+    "name": "Elf",
+    "system": {
+      "key": "elf",
+      "requirements": "Minimum INT 9",
+      "primeReqs": [
+        {
+          "ability": "int",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "and"
+        },
+        {
+          "ability": "str",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "and"
+        },
+        {
+          "ability": "int",
+          "minScore": 16,
+          "percentage": 10,
+          "concatLogic": "and"
+        },
+        {
+          "ability": "str",
+          "minScore": 13,
+          "percentage": 10,
+          "concatLogic": "and"
+        }
+      ],
+      "maxLevel": 10,
+      "hitDie": "1d6",
+      "spellList": "Magic-User",
+      "languages": "Alignment, Common, Elvish, Gnoll, Hobgoblin, Orcish",
+      "titles": [
+        "Medium/Veteran",
+        "Seer/Warrior",
+        "Conjurer/Swordmaster",
+        "Magician/Hero",
+        "Enchanter (Enchantress)/Swashbuckler",
+        "Warlock (Witch)/Myrmidon",
+        "Sorcerer (Sorceress)/Champion",
+        "Necromancer/ Superhero",
+        "Wizard/Lord (Lady)"
+      ],
+      "levels": [
+        {
+          "xp": 0,
+          "hd": "1d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 13,
+            "breath": 15,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 1
+          }
+        },
+        {
+          "xp": 4000,
+          "hd": "2d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 13,
+            "breath": 15,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2
+          }
+        },
+        {
+          "xp": 8000,
+          "hd": "3d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 13,
+            "breath": 15,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 1
+          }
+        },
+        {
+          "xp": 16000,
+          "hd": "4d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 11,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2
+          }
+        },
+        {
+          "xp": 32000,
+          "hd": "5d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 11,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2,
+            "3": 1
+          }
+        },
+        {
+          "xp": 64000,
+          "hd": "6d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 11,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2,
+            "3": 2
+          }
+        },
+        {
+          "xp": 120000,
+          "hd": "7d6",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 9,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 2,
+            "3": 2,
+            "4": 1
+          }
+        },
+        {
+          "xp": 250000,
+          "hd": "8d6",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 9,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 2,
+            "4": 2
+          }
+        },
+        {
+          "xp": 400000,
+          "hd": "9d6",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 9,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 3,
+            "4": 2,
+            "5": 1
+          }
+        },
+        {
+          "xp": 600000,
+          "hd": "9d6+2",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 8,
+            "spell": 8
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 3,
+            "4": 3,
+            "5": 2
+          }
+        }
+      ],
+      "tables": [],
+      "armour": [],
+      "armourText": "Any, including shields",
+      "weapons": [],
+      "weaponsText": "Any",
+      "stealthSkills": []
+    }
+  },
+  "fighter": {
+    "name": "Fighter",
+    "system": {
+      "key": "fighter",
+      "requirements": "",
+      "primeReqs": [
+        {
+          "ability": "str",
+          "minScore": 3,
+          "percentage": -20,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 6,
+          "percentage": -10,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 9,
+          "percentage": 0,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 16,
+          "percentage": 10,
+          "concatLogic": "and",
+          "group": ""
+        }
+      ],
+      "maxLevel": 14,
+      "hitDie": "1d8",
+      "spellList": "",
+      "languages": "Alignment, Common",
+      "titles": [
+        "Veteran",
+        "Warrior",
+        "Sword-master",
+        "Hero",
+        "Swashbuckler",
+        "Myrmidon",
+        "Champion",
+        "Superhero",
+        "Lord (Lady)"
+      ],
+      "levels": [
+        {
+          "xp": 0,
+          "hd": "1d8",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 14,
+            "breath": 15,
+            "spell": 16
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 2000,
+          "hd": "2d8",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 14,
+            "breath": 15,
+            "spell": 16
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 4000,
+          "hd": "3d8",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 14,
+            "breath": 15,
+            "spell": 16
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 8000,
+          "hd": "4d8",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 12,
+            "breath": 13,
+            "spell": 14
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 16000,
+          "hd": "5d8",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 12,
+            "breath": 13,
+            "spell": 14
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 32000,
+          "hd": "6d8",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 12,
+            "breath": 13,
+            "spell": 14
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 64000,
+          "hd": "7d8",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 10,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 120000,
+          "hd": "8d8",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 10,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 240000,
+          "hd": "9d8",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 10,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 360000,
+          "hd": "9d8+2",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 8,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 480000,
+          "hd": "9d8+4",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 8,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 600000,
+          "hd": "9d8+6",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 8,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 720000,
+          "hd": "9d8+8",
+          "hdcon": false,
+          "thac0": 10,
+          "bba": 9,
+          "saves": {
+            "death": 4,
+            "wand": 5,
+            "paralysis": 6,
+            "breath": 5,
+            "spell": 8
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 840000,
+          "hd": "9d8+10",
+          "hdcon": false,
+          "thac0": 10,
+          "bba": 9,
+          "saves": {
+            "death": 4,
+            "wand": 5,
+            "paralysis": 6,
+            "breath": 5,
+            "spell": 8
+          },
+          "spellSlots": {}
+        }
+      ],
+      "tables": [],
+      "armour": [],
+      "armourText": "Any, including shields",
+      "weapons": [],
+      "weaponsText": "Any",
+      "stealthSkills": []
+    }
+  },
+  "halfling": {
+    "name": "Halfling",
+    "system": {
+      "key": "halfling",
+      "requirements": "Minimum CON 9, minimum DEX 9",
+      "primeReqs": [
+        {
+          "ability": "dex",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "or",
+          "group": ""
+        },
+        {
+          "ability": "str",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "or",
+          "group": ""
+        },
+        {
+          "ability": "dex",
+          "minScore": 13,
+          "percentage": 10,
+          "concatLogic": "and"
+        },
+        {
+          "ability": "str",
+          "minScore": 13,
+          "percentage": 10,
+          "concatLogic": "and"
+        }
+      ],
+      "maxLevel": 8,
+      "hitDie": "1d6",
+      "spellList": "",
+      "languages": "Alignment, Common, Halfling",
+      "titles": [
+        "Halfling Veteran",
+        "Halfling Warrior",
+        "Halfling Swordmaster",
+        "Halfling Hero",
+        "Halfling Swashbuckler",
+        "Halfling Myrmidon",
+        "Halfling Champion",
+        "Sherif"
+      ],
+      "levels": [
+        {
+          "xp": 0,
+          "hd": "1d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 2000,
+          "hd": "2d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 4000,
+          "hd": "3d6",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 10,
+            "breath": 13,
+            "spell": 12
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 8000,
+          "hd": "4d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 16000,
+          "hd": "5d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 32000,
+          "hd": "6d6",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 6,
+            "wand": 7,
+            "paralysis": 8,
+            "breath": 10,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 64000,
+          "hd": "7d6",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 4,
+            "wand": 5,
+            "paralysis": 6,
+            "breath": 7,
+            "spell": 8
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 120000,
+          "hd": "8d6",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 4,
+            "wand": 5,
+            "paralysis": 6,
+            "breath": 7,
+            "spell": 8
+          },
+          "spellSlots": {}
+        }
+      ],
+      "tables": [],
+      "armour": [],
+      "armourText": "Any appropriate to size, including shields",
+      "weapons": [],
+      "weaponsText": "Any appropriate to size",
+      "stealthSkills": []
+    }
+  },
+  "magic-user": {
+    "name": "Magic-User",
+    "system": {
+      "key": "magic-user",
+      "requirements": "",
+      "primeReqs": [
+        {
+          "ability": "int",
+          "minScore": 3,
+          "percentage": -20,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "int",
+          "minScore": 6,
+          "percentage": -10,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "int",
+          "minScore": 9,
+          "percentage": 0,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "int",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "int",
+          "minScore": 16,
+          "percentage": 10,
+          "concatLogic": "and",
+          "group": ""
+        }
+      ],
+      "maxLevel": 14,
+      "hitDie": "1d4",
+      "spellList": "Magic-User",
+      "languages": "Alignment, Common",
+      "titles": [
+        "Medium",
+        "Seer",
+        "Conjurer",
+        "Magician",
+        "Enchanter (Enchantress)",
+        "Warlock (Witch)",
+        "Sorcerer (Sorceress)",
+        "Necromancer",
+        "Wizard"
+      ],
+      "levels": [
+        {
+          "xp": 0,
+          "hd": "1d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 1
+          }
+        },
+        {
+          "xp": 2500,
+          "hd": "2d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2
+          }
+        },
+        {
+          "xp": 5000,
+          "hd": "3d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 1
+          }
+        },
+        {
+          "xp": 10000,
+          "hd": "4d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2
+          }
+        },
+        {
+          "xp": 20000,
+          "hd": "5d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2,
+            "3": 1
+          }
+        },
+        {
+          "xp": 40000,
+          "hd": "6d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 2,
+            "2": 2,
+            "3": 2
+          }
+        },
+        {
+          "xp": 80000,
+          "hd": "7d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 2,
+            "3": 2,
+            "4": 1
+          }
+        },
+        {
+          "xp": 150000,
+          "hd": "8d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 2,
+            "4": 2
+          }
+        },
+        {
+          "xp": 300000,
+          "hd": "9d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 3,
+            "4": 2,
+            "5": 1
+          }
+        },
+        {
+          "xp": 450000,
+          "hd": "9d4+1",
+          "hdcon": false,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 11,
+            "wand": 12,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 12
+          },
+          "spellSlots": {
+            "1": 3,
+            "2": 3,
+            "3": 3,
+            "4": 3,
+            "5": 2
+          }
+        },
+        {
+          "xp": 600000,
+          "hd": "9d4+2",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 8,
+            "breath": 11,
+            "spell": 8
+          },
+          "spellSlots": {
+            "1": 4,
+            "2": 3,
+            "3": 3,
+            "4": 3,
+            "5": 2,
+            "6": 1
+          }
+        },
+        {
+          "xp": 750000,
+          "hd": "9d4+3",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 8,
+            "breath": 11,
+            "spell": 8
+          },
+          "spellSlots": {
+            "1": 4,
+            "2": 4,
+            "3": 3,
+            "4": 3,
+            "5": 3,
+            "6": 2
+          }
+        },
+        {
+          "xp": 900000,
+          "hd": "9d4+4",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 8,
+            "breath": 11,
+            "spell": 8
+          },
+          "spellSlots": {
+            "1": 4,
+            "2": 4,
+            "3": 4,
+            "4": 3,
+            "5": 3,
+            "6": 3
+          }
+        },
+        {
+          "xp": 1050000,
+          "hd": "9d4+5",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 8,
+            "breath": 11,
+            "spell": 8
+          },
+          "spellSlots": {
+            "1": 4,
+            "2": 4,
+            "3": 4,
+            "4": 4,
+            "5": 3,
+            "6": 3
+          }
+        }
+      ],
+      "tables": [],
+      "armour": [
+        "none"
+      ],
+      "armourText": "None",
+      "weapons": [
+        "dagger",
+        "staff"
+      ],
+      "weaponsText": "Dagger, staff (optional)",
+      "stealthSkills": []
+    }
+  },
+  "thief": {
+    "name": "Thief",
+    "system": {
+      "key": "thief",
+      "requirements": "",
+      "primeReqs": [
+        {
+          "ability": "dex",
+          "minScore": 3,
+          "percentage": -20,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "dex",
+          "minScore": 6,
+          "percentage": -10,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "dex",
+          "minScore": 9,
+          "percentage": 0,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "dex",
+          "minScore": 13,
+          "percentage": 5,
+          "concatLogic": "and",
+          "group": ""
+        },
+        {
+          "ability": "dex",
+          "minScore": 16,
+          "percentage": 10,
+          "concatLogic": "and",
+          "group": ""
+        }
+      ],
+      "maxLevel": 14,
+      "hitDie": "1d4",
+      "spellList": "",
+      "languages": "Alignment, Common",
+      "titles": [
+        "Apprentice",
+        "Footpad",
+        "Robber",
+        "Burglar",
+        "Cutpurse",
+        "Sharper",
+        "Pilferer",
+        "Thief",
+        "Master Thief"
+      ],
+      "levels": [
+        {
+          "xp": 0,
+          "hd": "1d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 1200,
+          "hd": "2d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 2400,
+          "hd": "3d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 4800,
+          "hd": "4d4",
+          "hdcon": true,
+          "thac0": 19,
+          "bba": 0,
+          "saves": {
+            "death": 13,
+            "wand": 14,
+            "paralysis": 13,
+            "breath": 16,
+            "spell": 15
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 9600,
+          "hd": "5d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 13
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 20000,
+          "hd": "6d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 13
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 40000,
+          "hd": "7d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 13
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 80000,
+          "hd": "8d4",
+          "hdcon": true,
+          "thac0": 17,
+          "bba": 2,
+          "saves": {
+            "death": 12,
+            "wand": 13,
+            "paralysis": 11,
+            "breath": 14,
+            "spell": 13
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 160000,
+          "hd": "9d4",
+          "hdcon": true,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 9,
+            "breath": 12,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 280000,
+          "hd": "9d4+2",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 9,
+            "breath": 12,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 400000,
+          "hd": "9d4+4",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 9,
+            "breath": 12,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 520000,
+          "hd": "9d4+6",
+          "hdcon": false,
+          "thac0": 14,
+          "bba": 5,
+          "saves": {
+            "death": 10,
+            "wand": 11,
+            "paralysis": 9,
+            "breath": 12,
+            "spell": 10
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 640000,
+          "hd": "9d4+8",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 7,
+            "breath": 10,
+            "spell": 8
+          },
+          "spellSlots": {}
+        },
+        {
+          "xp": 760000,
+          "hd": "9d4+10",
+          "hdcon": false,
+          "thac0": 12,
+          "bba": 7,
+          "saves": {
+            "death": 8,
+            "wand": 9,
+            "paralysis": 7,
+            "breath": 10,
+            "spell": 8
+          },
+          "spellSlots": {}
+        }
+      ],
+      "tables": [
+        {
+          "key": "skills",
+          "label": "Thief Skills",
+          "columns": [
+            {
+              "key": "cs",
+              "label": "CS"
+            },
+            {
+              "key": "tr",
+              "label": "TR"
+            },
+            {
+              "key": "hn",
+              "label": "HN"
+            },
+            {
+              "key": "hs",
+              "label": "HS"
+            },
+            {
+              "key": "ms",
+              "label": "MS"
+            },
+            {
+              "key": "ol",
+              "label": "OL"
+            },
+            {
+              "key": "pp",
+              "label": "PP"
+            }
+          ],
+          "rows": [
+            {
+              "cs": 87,
+              "tr": 10,
+              "hn": "1-2",
+              "hs": 10,
+              "ms": 20,
+              "ol": 15,
+              "pp": 20
+            },
+            {
+              "cs": 88,
+              "tr": 15,
+              "hn": "1-2",
+              "hs": 15,
+              "ms": 25,
+              "ol": 20,
+              "pp": 25
+            },
+            {
+              "cs": 89,
+              "tr": 20,
+              "hn": "1-3",
+              "hs": 20,
+              "ms": 30,
+              "ol": 25,
+              "pp": 30
+            },
+            {
+              "cs": 90,
+              "tr": 25,
+              "hn": "1-3",
+              "hs": 25,
+              "ms": 35,
+              "ol": 30,
+              "pp": 35
+            },
+            {
+              "cs": 91,
+              "tr": 30,
+              "hn": "1-3",
+              "hs": 30,
+              "ms": 40,
+              "ol": 35,
+              "pp": 40
+            },
+            {
+              "cs": 92,
+              "tr": 40,
+              "hn": "1-3",
+              "hs": 36,
+              "ms": 45,
+              "ol": 45,
+              "pp": 45
+            },
+            {
+              "cs": 93,
+              "tr": 50,
+              "hn": "1-4",
+              "hs": 45,
+              "ms": 55,
+              "ol": 55,
+              "pp": 55
+            },
+            {
+              "cs": 94,
+              "tr": 60,
+              "hn": "1-4",
+              "hs": 55,
+              "ms": 65,
+              "ol": 65,
+              "pp": 65
+            },
+            {
+              "cs": 95,
+              "tr": 70,
+              "hn": "1-4",
+              "hs": 65,
+              "ms": 75,
+              "ol": 75,
+              "pp": 75
+            },
+            {
+              "cs": 96,
+              "tr": 80,
+              "hn": "1-4",
+              "hs": 75,
+              "ms": 85,
+              "ol": 85,
+              "pp": 85
+            },
+            {
+              "cs": 97,
+              "tr": 90,
+              "hn": "1-5",
+              "hs": 85,
+              "ms": 95,
+              "ol": 95,
+              "pp": 95
+            },
+            {
+              "cs": 98,
+              "tr": 95,
+              "hn": "1-5",
+              "hs": 90,
+              "ms": 96,
+              "ol": 96,
+              "pp": 105
+            },
+            {
+              "cs": 99,
+              "tr": 97,
+              "hn": "1-5",
+              "hs": 95,
+              "ms": 98,
+              "ol": 97,
+              "pp": 115
+            },
+            {
+              "cs": 99,
+              "tr": 99,
+              "hn": "1-5",
+              "hs": 99,
+              "ms": 99,
+              "ol": 99,
+              "pp": 125
+            }
+          ]
+        }
+      ],
+      "armour": [
+        "leather"
+      ],
+      "armourText": "Leather, no shields",
+      "weapons": [],
+      "weaponsText": "Any",
+      "stealthSkills": [
+        "Hide in Shadows",
+        "Move Silently"
+      ]
+    }
+  }
+}

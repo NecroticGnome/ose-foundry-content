@@ -238,7 +238,7 @@
       "effects": [],
       "folder": null,
       "system": {
-        "description": "<p><span style=\"color: #191813;\">10 nixies together can cast a charm to enchant a victim to serve them for one year.&nbsp;</span><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Save versus spells</strong><span style=\"color: #191813;\">&nbsp;or be charmed: move towards the nixies (resisting those who try to prevent it); defend the nixies; obey the nixies&rsquo; commands (if understood); unable to cast spells or use magic items; unable to harm the nixies. Killing the nixies breaks the charm.</span></p>",
+        "description": "<p><span>10 nixies together can cast a charm to enchant a victim to serve them for one year.&nbsp;</span><strong>Save versus spells</strong><span>&nbsp;or be charmed: move towards the nixies (resisting those who try to prevent it); defend the nixies; obey the nixies&rsquo; commands (if understood); unable to cast spells or use magic items; unable to harm the nixies. Killing the nixies breaks the charm.</span></p>",
         "save": "spell",
         "lvl": 1,
         "class": "Nixie",

@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "f8eVexhFUvkK47be",
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Melee:&nbsp;</strong>Close quarters weapon (5′ or less).</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Missile:</strong> Thrown or fired weapon (greater than 5′ distance).The distances for short (+1 to hit), medium, and long (&ndash;1 to hit) range are shown in parentheses.</p>",
+    "description": "<p><strong>Melee:&nbsp;</strong>Close quarters weapon (5′ or less).</p>\n<p><strong>Missile:</strong> Thrown or fired weapon (greater than 5′ distance).The distances for short (+1 to hit), medium, and long (&ndash;1 to hit) range are shown in parentheses.</p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

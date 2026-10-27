@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p>By expending a charge, the wielder of the wand or another creature within 60′ changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells <a title=\"Polymorph Self\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Polymorph_Self\">Polymorph Self</a> and <a title=\"Polymorph Others\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Polymorph_Others\">Polymorph Others</a>.</p>\n<ul>\n<li><strong>Resisting:</strong> An unwilling subject may make a <strong>saving throw versus wands</strong> to negate the effect</li>\n</ul>",
+    "description": "<p>By expending a charge, the wielder of the wand or another creature within 60′ changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells <a title=\"Polymorph Self\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=magic_user_spells:polymorph_self\">Polymorph Self</a> and <a title=\"Polymorph Others\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=magic_user_spells:polymorph_others\">Polymorph Others</a>.</p>\n<ul>\n<li><strong>Resisting:</strong> An unwilling subject may make a <strong>saving throw versus wands</strong> to negate the effect</li>\n</ul>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

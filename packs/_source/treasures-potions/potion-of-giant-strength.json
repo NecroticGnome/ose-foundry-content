@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "DFBHz52kuHXMRqrK",
   "system": {
-    "description": "<p>Grants the strength of a frost giant.</p>\n<ul>\n<li><strong>Attacks with weapons:</strong> Inflict double damage.</li>\n<li><strong>Throw boulders:</strong> The character may throw boulders for 3d6 damage, with a range of up to 200′.</li>\n<li><strong>Non-cumulative:</strong> The effects of this potion are not cumulative with other magic items that augment strength (e.g. a <a title=\"Girdle of Giant Strength\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Girdle_of_Giant_Strength\">Girdle of Giant Strength</a>).</li>\n</ul>",
+    "description": "<p>Grants the strength of a frost giant.</p>\n<ul>\n<li><strong>Attacks with weapons:</strong> Inflict double damage.</li>\n<li><strong>Throw boulders:</strong> The character may throw boulders for 3d6 damage, with a range of up to 200′.</li>\n<li><strong>Non-cumulative:</strong> The effects of this potion are not cumulative with other magic items that augment strength (e.g. a <a title=\"Girdle of Giant Strength\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=treasures:miscellaneous_items#girdle_of_giant_strength\">Girdle of Giant Strength</a>).</li>\n</ul>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

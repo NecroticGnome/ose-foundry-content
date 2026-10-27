@@ -1,0 +1,302 @@
+{
+  "_id": "9T6jj0YVE5N2j0QI",
+  "_key": "!items!9T6jj0YVE5N2j0QI",
+  "name": "Dwarf",
+  "type": "class",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "system": {
+    "key": "dwarf",
+    "requirements": "Minimum CON 9",
+    "primeReqs": [
+      {
+        "ability": "str",
+        "minScore": 3,
+        "percentage": -20,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 6,
+        "percentage": -10,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 9,
+        "percentage": 0,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 13,
+        "percentage": 5,
+        "concatLogic": "and",
+        "group": ""
+      },
+      {
+        "ability": "str",
+        "minScore": 16,
+        "percentage": 10,
+        "concatLogic": "and",
+        "group": ""
+      }
+    ],
+    "maxLevel": 12,
+    "hitDie": "1d8",
+    "spellList": "",
+    "languages": [
+      "Alignment",
+      "Common",
+      "Dwarvish",
+      "Gnomish",
+      "Goblin",
+      "Kobold"
+    ],
+    "titles": [
+      "Dwarven Veteran",
+      "Dwarven Warrior",
+      "Dwarven Swordmaster",
+      "Dwarven Hero",
+      "Dwarven Swashbuckler",
+      "Dwarven Myrmidon",
+      "Dwarven Champion",
+      "Dwarven Superhero",
+      "Dwarven Lord (Lady)"
+    ],
+    "levels": [
+      {
+        "xp": 0,
+        "hd": "1d8",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 13,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 2200,
+        "hd": "2d8",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 13,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 4400,
+        "hd": "3d8",
+        "hdcon": true,
+        "thac0": 19,
+        "bba": 0,
+        "saves": {
+          "death": 8,
+          "wand": 9,
+          "paralysis": 10,
+          "breath": 13,
+          "spell": 12
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 8800,
+        "hd": "4d8",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 10,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 17000,
+        "hd": "5d8",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 10,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 35000,
+        "hd": "6d8",
+        "hdcon": true,
+        "thac0": 17,
+        "bba": 2,
+        "saves": {
+          "death": 6,
+          "wand": 7,
+          "paralysis": 8,
+          "breath": 10,
+          "spell": 10
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 70000,
+        "hd": "7d8",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 4,
+          "wand": 5,
+          "paralysis": 6,
+          "breath": 7,
+          "spell": 8
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 140000,
+        "hd": "8d8",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 4,
+          "wand": 5,
+          "paralysis": 6,
+          "breath": 7,
+          "spell": 8
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 270000,
+        "hd": "9d8",
+        "hdcon": true,
+        "thac0": 14,
+        "bba": 5,
+        "saves": {
+          "death": 4,
+          "wand": 5,
+          "paralysis": 6,
+          "breath": 7,
+          "spell": 8
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 400000,
+        "hd": "9d8+3",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 2,
+          "wand": 3,
+          "paralysis": 4,
+          "breath": 4,
+          "spell": 6
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 530000,
+        "hd": "9d8+6",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 2,
+          "wand": 3,
+          "paralysis": 4,
+          "breath": 4,
+          "spell": 6
+        },
+        "spellSlots": {}
+      },
+      {
+        "xp": 660000,
+        "hd": "9d8+9",
+        "hdcon": false,
+        "thac0": 12,
+        "bba": 7,
+        "saves": {
+          "death": 2,
+          "wand": 3,
+          "paralysis": 4,
+          "breath": 4,
+          "spell": 6
+        },
+        "spellSlots": {}
+      }
+    ],
+    "tables": [],
+    "armour": [],
+    "armourText": "Any, including shields",
+    "weapons": [],
+    "weaponsText": "Small or normal sized",
+    "stealthSkills": [],
+    "description": "<p>Dwarves are stout, bearded demihumans, about 4' tall and weighing about 150 pounds. Dwarves typically live underground and love fine craftsmanship, gold, hearty food, and strong drink. They have skin, hair, and eye colours in earth tones. Dwarves are known for their stubbornness and practicality. They are a hardy people and have a strong resistance to magic, as reflected in their saving throws.</p><p>@UUID[Compendium.classicfantasycompendium.classic-fantasy-srd.JournalEntry.suQVyiVl9lRsDXPk.JournalEntryPage.zkx04wR75fHu2j9l]{Dwarf}</p>",
+    "abilities": [
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-dwarf.Item.bRJD4wPlrHWlSGTb",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-dwarf.Item.E7D4JsNKxnFA6j7S",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-dwarf.Item.AhRFPWLo39ZKjnkB",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-dwarf.Item.iOx6eJUnypvekebu",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-dwarf.Item.sCUA5kBwa4N2cTIL",
+        "level": 1,
+        "target": ""
+      },
+      {
+        "uuid": "Compendium.classicfantasycompendium.abilities-dwarf.Item.BhE4T4COgqsUBz0h",
+        "level": 9,
+        "target": ""
+      }
+    ],
+    "level": 1,
+    "xp": 0,
+    "xpBonusOverride": null,
+    "demihuman": true
+  }
+}

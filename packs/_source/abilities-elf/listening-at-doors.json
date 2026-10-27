@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p><span style=\"color: #191813;\">Elves have a 2-in-6 chance of hearing noises (see&nbsp;</span><a style=\"box-sizing: border-box; user-select: text;\" title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring\">Dungeon Adventuring</a><span style=\"color: #191813;\">).</span></p>",
+    "description": "<p><span>Elves have a 2-in-6 chance of hearing noises (see&nbsp;</span><a title=\"Dungeon Adventuring\" href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=adventuring:dungeon_adventuring\">Dungeon Adventuring</a><span>).</span></p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",
@@ -28,7 +28,8 @@
     "roll": "1d6",
     "rollType": "below",
     "rollTarget": 2,
-    "blindroll": true
+    "blindroll": true,
+    "exploration": "ld"
   },
   "folder": null,
   "sort": 0,

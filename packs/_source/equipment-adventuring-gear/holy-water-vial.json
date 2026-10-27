@@ -6,7 +6,7 @@
   "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
   "effects": [],
   "system": {
-    "description": "<p>Water that has been blessed by a holy person. It is used in some religious rituals and inflicts damage on undead monsters (see <a href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Weapons_And_Armour\">Weapon Combat Stats</a>).</p>\n<p>Holy water does not retain its power if stored in any other container than the special vials it is blessed in.</p>",
+    "description": "<p>Water that has been blessed by a holy person. It is used in some religious rituals and inflicts damage on undead monsters (see <a href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=equipment:weapons_and_armour\">Weapon Combat Stats</a>).</p>\n<p>Holy water does not retain its power if stored in any other container than the special vials it is blessed in.</p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

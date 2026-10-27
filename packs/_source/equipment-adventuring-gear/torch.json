@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p>A torch burns for 1 hour (6 turns), clearly illuminating a 30&prime; radius.</p>\n<p>Torches may also be used in combat (see <a href=\"https://oldschoolessentials.necroticgnome.com/srd/index.php/Weapons_And_Armour\">Weapons And Armour</a>).</p>",
+    "description": "<p>A torch burns for 1 hour (6 turns), clearly illuminating a 30&prime; radius.</p>\n<p>Torches may also be used in combat (see <a href=\"https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=equipment:weapons_and_armour\">Weapons And Armour</a>).</p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

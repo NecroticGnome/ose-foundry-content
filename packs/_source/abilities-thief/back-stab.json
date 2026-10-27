@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">When attacking an unaware opponent from behind, a thief receives a +4 bonus to hit and doubles any damage dealt.</p>",
+    "description": "<p>When attacking an unaware opponent from behind, a thief receives a +4 bonus to hit and doubles any damage dealt.</p>",
     "autoTags": [],
     "manualTags": [],
     "save": "",

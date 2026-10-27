@@ -19,7 +19,7 @@
     "default": 0
   },
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">A coil of thin, strong rope, 50′ in length.</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813;\">\n<li style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">Commanding:</strong>&nbsp;The owner may command it to climb in any direction.</li>\n<li style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">Attaching:</strong>&nbsp;The rope can also be commanded to attach to a surface.</li>\n<li style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">Load:</strong>&nbsp;Up to 10,000 coins of weight can be suspended from the rope</li>\n</ul>",
+    "description": "<p>A coil of thin, strong rope, 50′ in length.</p>\n<ul>\n<li><strong>Commanding:</strong>&nbsp;The owner may command it to climb in any direction.</li>\n<li><strong>Attaching:</strong>&nbsp;The rope can also be commanded to attach to a surface.</li>\n<li><strong>Load:</strong>&nbsp;Up to 10,000 coins of weight can be suspended from the rope</li>\n</ul>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

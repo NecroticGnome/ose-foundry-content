@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "bEkUiPKsDHQ0QfTU",
   "system": {
-    "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Blunt:</strong><span style=\"color: #191813;\">&nbsp;May be used by clerics.</span></p>",
+    "description": "<p><strong>Missile:</strong>&nbsp;Thrown or fired weapon (greater than 5’ distance).The distances for short (+1 to hit), medium, and long (–1 to hit) range are shown in parentheses.</p>\n<p><strong>Blunt:</strong><span>&nbsp;May be used by clerics.</span></p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {

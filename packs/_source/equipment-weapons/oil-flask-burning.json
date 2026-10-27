@@ -6,7 +6,7 @@
   "effects": [],
   "_id": "gLHidZTsbB4Pdkct",
   "system": {
-    "description": "<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Missile:</strong><span style=\"color: #191813;\">&nbsp;Thrown or fired weapon (greater than 5&rsquo; distance).The distances for short (+1 to hit), medium, and long (&ndash;1 to hit) range are shown in parentheses.</span></p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813;\">Splash weapon:</strong><span style=\"color: #191813;\">&nbsp;On a successful attack, the container smashes and douses the target with the liquid.The listed damage is inflicted over two rounds, as the liquid drips off.</span></p>\n<hr />\n<p><strong><span style=\"color: #191813;\">FoundryVTT Note:</span></strong><span style=\"color: #191813;\"> This is a zero cost/weight version of the oil flask intended to be kept as a weapons for making attacks. Use the standard oil flask non-weapon item to track your oil flask inventory.</span></p>",
+    "description": "<p><strong>Missile:</strong><span>&nbsp;Thrown or fired weapon (greater than 5&rsquo; distance).The distances for short (+1 to hit), medium, and long (&ndash;1 to hit) range are shown in parentheses.</span></p>\n<p><strong>Splash weapon:</strong><span>&nbsp;On a successful attack, the container smashes and douses the target with the liquid.The listed damage is inflicted over two rounds, as the liquid drips off.</span></p>\n<hr />\n<p><strong><span>FoundryVTT Note:</span></strong><span> This is a zero cost/weight version of the oil flask intended to be kept as a weapons for making attacks. Use the standard oil flask non-weapon item to track your oil flask inventory.</span></p>",
     "autoTags": [],
     "manualTags": [],
     "quantity": {
