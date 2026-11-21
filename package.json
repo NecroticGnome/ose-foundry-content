@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/NecroticGnome/ose-foundry-content#readme",
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.1.0",
+    "@foundryvtt/foundryvtt-cli": "^3.0.2",
     "fancy-log": "^2.0.0"
   }
 }
